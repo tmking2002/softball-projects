@@ -1,0 +1,27 @@
+{
+    "id": "4E326163",
+    "path": "~/Desktop/Softball/Big 12 Softball Analytics/Scrape Data.R",
+    "project_path": "Scrape Data.R",
+    "type": "r_source",
+    "hash": "521858203",
+    "contents": "",
+    "dirty": false,
+    "created": 1676403717100.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "97,0",
+        "scrollLine": "0"
+    },
+    "folds": "5|12|10|0|\n11|14|24|0|\n25|9|38|0|\n",
+    "lastKnownWriteTime": 1676407778,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676407778612,
+    "read_only": false,
+    "read_only_alternatives": []
+}
