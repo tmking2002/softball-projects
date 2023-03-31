@@ -3,13 +3,15 @@ library(softballR)
 library(magrittr)
 library(gt)
 
+team <- "Louisville"
+
 teams <- get_ncaa_teams(2023)
-pbp <- get_ncaa_pbp(teams %>% dplyr::filter(team_name == "Radford") %>% dplyr::pull(team_id))
+pbp <- get_ncaa_pbp(teams %>% dplyr::filter(team_name == team) %>% dplyr::pull(team_id))
 
-radford <- pbp %>% 
-  dplyr::filter(batting_team == "Radford" & stringr::str_detect(events,"\\(")) 
+team_data <- pbp %>% 
+  dplyr::filter(batting_team == team & stringr::str_detect(events,"\\(")) 
 
-split <- radford %>% 
+split <- team_data %>% 
   dplyr::pull(events) %>% 
   stringr::str_split("\\(|\\)")
 
@@ -19,7 +21,7 @@ for(i in 1:length(split)){
   
   curr <- split[[i]]
   
-  player <- stringr::word(curr[1], 1,2)
+  player <- stringr::word(curr[1], 1,1)
   sequence <- stringr::word(curr[2],2,2)
   
   sequences <- rbind(sequences, data.frame(player, sequence))
@@ -28,10 +30,10 @@ for(i in 1:length(split)){
 sequences <- sequences %>% 
   tidyr::drop_na(sequence)
 
-radford_sequences <- sequences %>% 
-  tidyr::separate(sequence, c(paste0("pitch_",0:9)),sep = "")
+team_sequences <- sequences %>% 
+  tidyr::separate(sequence, c(paste0("pitch_",0:12)),sep = "")
 
-longer <- radford_sequences %>% 
+longer <- team_sequences %>% 
   tidyr::pivot_longer(cols = dplyr::starts_with("pitch_")) %>% 
   dplyr::mutate(pitch_no = substr(name, 7,8)) %>% 
   dplyr::filter(!is.na(value) & value != "")
@@ -69,7 +71,7 @@ stats <- merge(first_pitch, all_pitches, by = "player") %>%
   dplyr::select(player, ab, first_pitch_swing, swing, avg_length)
 
 table <- stats %>% 
-  dplyr::mutate(player = stringr::str_to_title(player)) %>% 
+  dplyr::mutate(player = stringr::str_remove(stringr::str_to_title(player),",")) %>% 
   dplyr::arrange(desc(first_pitch_swing)) %>% 
   gt() %>% 
   cols_label(player = "",
@@ -82,10 +84,12 @@ table <- stats %>%
   data_color(columns = 3,
              colors = scales::col_numeric(
                palette = c("red", "green"),
-               domain = c(0,.5)
+               domain = c(0,.6)
              )) %>% 
-  tab_header(title = "Radford Pitch Tendencies")
+  tab_header(title = paste0(team," Pitch Tendencies"))
 
-setwd("~/Projects/softball-projects")
+setwd("~/Desktop/Projects/softball-projects")
 
-gtsave(table, "Radford Pitch Tendencies.png")
+gtsave(table, paste0(team, " Pitch Tendencies.png"))
+
+       
