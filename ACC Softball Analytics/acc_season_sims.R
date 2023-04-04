@@ -2,19 +2,16 @@ library(tidyverse)
 library(softballR)
 library(gt)
 library(gtExtras)
-scoreboard <- readRDS("~/Desktop/softballR-data/data/ncaa_scoreboard_2023.RDS")
-source("~/Desktop/Projects/softball-projects/get_current_rpi.R")
 
-missed_games <- data.frame(date = c("04/02/2023", "04/02/2023", "04/02/2023", "04/02/2023", "04/01/2023", "04/02/2023", "04/02/2023"),
-                           team1 = c("North Carolina", "Pittsburgh", "Pittsburgh", "Florida St.", "Duke", "Duke", "Duke"),
-                           team2 = c("Virginia", "Notre Dame", "Notre Dame", "Georgia Tech", "Virginia Tech", "Virginia Tech", "Virginia Tech"),
-                           team1_runs = c(3, 2, 13, 9, 7, 5, 8),
-                           team2_runs = c(5, 10, 11, 1, 1, 1, 13))
+setwd("~/Projects/softball-projects")
+#setwd("~/Desktop/Projects/softball-projects/")
 
-scoreboard <- rbind(scoreboard, missed_games)
+source("get_power_ratings.R")
 
-rpi <- get_current_rpi(scoreboard) %>%
-  select(team_name, rpi_rank)
+scoreboard <- load_ncaa_scoreboard(2023)
+
+ratings <- get_power_ratings(scoreboard) %>%
+  select(team, power_rating)
 
 logos <- load_espn_scoreboard(2023) %>%
   distinct(home_team_display_name, home_team_logo) %>%
@@ -56,11 +53,11 @@ remaining <- data.frame(team = c(rep("Clemson", 12), rep("Duke", 9), rep("Louisv
                                      rep("NC State",3), rep("North Carolina",3), rep("Boston College",3), rep("Virginia",3)))
 
 remaining_sos <- remaining %>% 
-  merge(rpi, by.x = "opponent", by.y = "team_name") %>% 
+  merge(ratings, by.x = "opponent", by.y = "team") %>% 
   group_by(team) %>% 
-  summarise(avg_opponent_rpi = mean(rpi_rank)) %>% 
+  summarise(avg_rating = mean(power_rating)) %>% 
   ungroup() %>% 
-  mutate(rank = rank(avg_opponent_rpi)) %>% 
+  mutate(rank = rank(-avg_rating)) %>% 
   select(team, rank)
 
 
@@ -107,7 +104,7 @@ get_standings <- function(results){
     group_by(team) %>%
     summarise(win = mean(rank == 1),
               top3 = mean(rank <= 3),
-              top5 = mean(rank <= 5),
+              top6 = mean(rank <= 6),
               make_tournament = mean(rank <= 10))
 
   #print(mean(records %>% filter(rank  == 10) %>% pull(wins)))
@@ -118,16 +115,17 @@ get_standings <- function(results){
 
 probs <- remaining %>%
   select(team, opponent) %>%
-  merge(rpi, by.x = "team", by.y = "team_name") %>%
-  rename(team_rank = rpi_rank) %>%
-  merge(rpi, by.x = "opponent", by.y = "team_name") %>%
-  rename(opponent_rank = rpi_rank) %>%
-  mutate(log_rank_diff = log(team_rank) - log(opponent_rank))
+  merge(ratings, by.x = "team", by.y = "team") %>%
+  rename(team1_rating = power_rating) %>%
+  merge(ratings, by.x = "opponent", by.y = "team") %>%
+  rename(team2_rating = power_rating)
 
-load(file = "rpi_model.RDA")
+load(file = "power_rating_model.RDA")
 probs$prob = predict(model, probs, type = "response")
 
-results <- simulate_seasons(probs,1000)
+sims <- 5000
+
+results <- simulate_seasons(probs,sims)
 
 standings <- get_standings(results)
 
@@ -135,8 +133,9 @@ table <- standings %>%
   merge(logos, by.x = "team", by.y = "home_team_display_name") %>%
   merge(current_standings %>% select(team, record)) %>%
   merge(remaining_sos, by = "team") %>% 
-  select(home_team_logo, team, record, rank, win, top3, top5, make_tournament) %>%
-  arrange(desc(win), desc(top3), desc(top5), desc(make_tournament)) %>%
+  mutate(total = win + top3 + top6 + make_tournament) %>% 
+  arrange(desc(total)) %>%
+  select(home_team_logo, team, record, rank, win, top3, top6, make_tournament) %>%
   gt() %>%
   gt_img_rows(home_team_logo) %>%
   cols_label(home_team_logo = "",
@@ -144,10 +143,10 @@ table <- standings %>%
              rank = "Remaining SOS",
              win = "Win",
              top3 = "Top 3",
-             top5 = "Top 5",
+             top6 = "R1 Bye",
              make_tournament = "Make Tournament") %>%
   fmt_percent(5:8, decimals = 1) %>%
-  data_color(columns = c(win, top3, top5, make_tournament),
+  data_color(columns = c(win, top3, top6, make_tournament),
              colors = scales::col_numeric(
                palette = c("#FF6962", "#77DE78"),
                domain = c(0,1)
@@ -161,8 +160,8 @@ table <- standings %>%
   cols_align(align = "center",
              columns = 3:6) %>%
   tab_header(title = "2023 ACC Softball Tournament Odds",
-             subtitle = "Based on 1000 Simulations of Remainder of Season") %>%
-  tab_footnote(footnote = "Through 4/2/23",
+             subtitle = paste0("Based on ",sims," Simulations of Remainder of Season")) %>%
+  tab_footnote(footnote = paste0("Through ", max(scoreboard$date)),
                locations = cells_column_labels(columns = record)) %>% 
   opt_align_table_header(align = "center") %>%
   tab_style(style = cell_borders(sides = "right",
@@ -172,4 +171,4 @@ table <- standings %>%
                                  weight = px(3)),
             locations = cells_body(rows = 1))
 
-gtsave(table, "~/Desktop/Projects/softball-projects/ACC Softball Analytics/ACC Rankings Predictions 4_2.png")
+gtsave(table, "ACC Rankings Predictions 4_2.png")

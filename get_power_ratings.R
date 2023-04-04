@@ -1,8 +1,7 @@
 library(tidyverse)
 library(fmsb)
-source("~/Desktop/Projects/softball-projects/get_current_rpi.R")
-
-scoreboard <- readRDS("~/Desktop/softballR-data/data/ncaa_scoreboard_2023.RDS")
+source("~/Projects/softball-projects/get_current_rpi.R")
+#source("~/Desktop/Projects/softball-projects/get_current_rpi.R")
 
 get_power_ratings <- function(scoreboard){
   
