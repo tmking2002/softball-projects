@@ -5,6 +5,14 @@ library(gtExtras)
 scoreboard <- readRDS("~/Desktop/softballR-data/data/ncaa_scoreboard_2023.RDS")
 source("~/Desktop/Projects/softball-projects/get_current_rpi.R")
 
+missed_games <- data.frame(date = c("04/02/2023", "04/02/2023", "04/02/2023", "04/02/2023", "04/01/2023", "04/02/2023", "04/02/2023"),
+                           team1 = c("North Carolina", "Pittsburgh", "Pittsburgh", "Florida St.", "Duke", "Duke", "Duke"),
+                           team2 = c("Virginia", "Notre Dame", "Notre Dame", "Georgia Tech", "Virginia Tech", "Virginia Tech", "Virginia Tech"),
+                           team1_runs = c(3, 2, 13, 9, 7, 5, 8),
+                           team2_runs = c(5, 10, 11, 1, 1, 1, 13))
+
+scoreboard <- rbind(scoreboard, missed_games)
+
 rpi <- get_current_rpi(scoreboard) %>%
   select(team_name, rpi_rank)
 
@@ -31,21 +39,21 @@ current_standings <- completed %>%
             losses = games - wins - ties,
             record = paste0(wins,"-",losses,"-",ties))
 
-remaining <- data.frame(team = c(rep("Clemson", 15), rep("Duke", 12), rep("Louisville",15), rep("Florida St.",18), rep("Virginia Tech",15), rep("Georgia Tech",15),
-                                 rep("North Carolina",15), rep("Notre Dame", 15), rep("Virginia",15), rep("Pittsburgh",18), rep("Boston College",18), rep("NC State",12), rep("Syracuse",15)),
-                        opponent = c(rep("Boston College",3), rep("Florida St.",3), rep("NC State", 3), rep("Pittsburgh",3), rep("Virginia Tech", 3),
-                                     rep("Virginia Tech",3), rep("Boston College",3), rep("Georgia Tech", 3), rep("Pittsburgh", 3),
-                                     rep("Syracuse",3), rep("Notre Dame",3), rep("Virginia",3), rep("Boston College",3), rep("Florida St.",3),
-                                     rep("Georgia Tech",3), rep("Clemson",3), rep("Virginia",3), rep("Virginia Tech",3), rep("Notre Dame",3), rep("Louisville",3),
-                                     rep("Duke",3), rep("Virginia",3), rep("Notre Dame",3), rep("Florida St.",3), rep("Clemson",3),
-                                     rep("Florida St.",3), rep("Boston College",3), rep("Pittsburgh",3), rep("Duke",3), rep("North Carolina",3),
-                                     rep("Virginia",3), rep("Pittsburgh",3), rep("Syracuse",3), rep("NC State",3), rep("Georgia Tech",3),
-                                     rep("Pittsburgh",3), rep("Louisville",3), rep("Virginia Tech",3), rep("Boston College",3), rep("Florida St.",3),
-                                     rep("North Carolina",3), rep("Virginia Tech",3), rep("Florida State",3), rep("Louisville",3), rep("Syracuse", 3),
-                                     rep("Notre Dame",3), rep("North Carolina",3), rep("Georgia Tech",3), rep("Clemson",3), rep("Duke",3), rep("NC State",3),
-                                     rep("Clemson",3), rep("Georgia Tech",3), rep("Duke",3), rep("Notre Dame",3), rep("Louisville",3), rep("Syracuse",3),
+remaining <- data.frame(team = c(rep("Clemson", 12), rep("Duke", 9), rep("Louisville",12), rep("Florida St.",15), rep("Virginia Tech",12), rep("Georgia Tech",12),
+                                 rep("North Carolina",12), rep("Notre Dame", 12), rep("Virginia",12), rep("Pittsburgh",15), rep("Boston College",15), rep("NC State",12), rep("Syracuse",12)),
+                        opponent = c(rep("Florida St.",3), rep("NC State", 3), rep("Pittsburgh",3), rep("Virginia Tech", 3),
+                                     rep("Boston College",3), rep("Georgia Tech", 3), rep("Pittsburgh", 3),
+                                     rep("Notre Dame",3), rep("Virginia",3), rep("Boston College",3), rep("Florida St.",3),
+                                     rep("Clemson",3), rep("Virginia",3), rep("Virginia Tech",3), rep("Notre Dame",3), rep("Louisville",3),
+                                     rep("Virginia",3), rep("Notre Dame",3), rep("Florida St.",3), rep("Clemson",3),
+                                     rep("Boston College",3), rep("Pittsburgh",3), rep("Duke",3), rep("North Carolina",3),
+                                     rep("Pittsburgh",3), rep("Syracuse",3), rep("NC State",3), rep("Georgia Tech",3),
+                                     rep("Louisville",3), rep("Virginia Tech",3), rep("Boston College",3), rep("Florida St.",3),
+                                     rep("Virginia Tech",3), rep("Florida State",3), rep("Louisville",3), rep("Syracuse", 3),
+                                     rep("North Carolina",3), rep("Georgia Tech",3), rep("Clemson",3), rep("Duke",3), rep("NC State",3),
+                                     rep("Georgia Tech",3), rep("Duke",3), rep("Notre Dame",3), rep("Louisville",3), rep("Syracuse",3),
                                      rep("Syracuse",3), rep("Clemson",3), rep("North Carolina",3), rep("Pittsburgh",3),
-                                     rep("Louisville",3), rep("NC State",3), rep("North Carolina",3), rep("Boston College",3), rep("Virginia",3)))
+                                     rep("NC State",3), rep("North Carolina",3), rep("Boston College",3), rep("Virginia",3)))
 
 remaining_sos <- remaining %>% 
   merge(rpi, by.x = "opponent", by.y = "team_name") %>% 
@@ -73,9 +81,11 @@ simulate_seasons <- function(probs, n_sims){
       mutate(sim_id = sim)
 
     results <- rbind(results, probs_upd)
-
+    
+    if(sim %% 100 == 0) print(sim) 
   }
-
+  
+  
   return(results)
 
 }
@@ -90,7 +100,7 @@ get_standings <- function(results){
               win_perc = wins / games) %>%
     ungroup() %>%
     group_by(sim_id) %>%
-    mutate(rank = rank(-win_perc), ties.method = "random") %>%
+    mutate(rank = rank(-win_perc, ties.method = "random")) %>%
     ungroup()
 
   records_upd <- records %>%
@@ -152,7 +162,7 @@ table <- standings %>%
              columns = 3:6) %>%
   tab_header(title = "2023 ACC Softball Tournament Odds",
              subtitle = "Based on 1000 Simulations of Remainder of Season") %>%
-  tab_footnote(footnote = "Through 3/30/23",
+  tab_footnote(footnote = "Through 4/2/23",
                locations = cells_column_labels(columns = record)) %>% 
   opt_align_table_header(align = "center") %>%
   tab_style(style = cell_borders(sides = "right",
@@ -162,4 +172,4 @@ table <- standings %>%
                                  weight = px(3)),
             locations = cells_body(rows = 1))
 
-gtsave(table, "~/Desktop/Projects/softball-projects/ACC Rankings Predictions.png")
+gtsave(table, "~/Desktop/Projects/softball-projects/ACC Softball Analytics/ACC Rankings Predictions 4_2.png")

@@ -5,45 +5,35 @@ library(gtExtras)
 
 setwd("~/Desktop/Projects/softball-projects")
 
-source("get_current_rpi.R")
+source("~/Desktop/Projects/softball-projects/get_power_ratings.R")
 
 scoreboard_2022 <- load_espn_scoreboard(2022)
 scoreboard_2023 <- readRDS("~/Desktop/softballR-data/data/ncaa_scoreboard_2023.RDS")
-#scoreboard_2023 <- load_ncaa_scoreboard(2023)
+
+standings_2023 <- get_power_ratings(scoreboard_2023) %>% 
+  select(team, power_rating)
 
 logos <- scoreboard_2022 %>%
   distinct(home_team_display_name, home_team_logo)
 
-rpi_2022 <- read_csv("2022 RPI Rankings.csv")
-rpi_2023 <- get_current_rpi(scoreboard_2023)
+load("~/Desktop/Projects/softball-projects/power_rating_model.RDA")
 
-scoreboard_train <- scoreboard_2022 %>%
-  filter(description == "Final") %>%
-  mutate(home_win = as.numeric(home_team_runs) > as.numeric(away_team_runs)) %>%
-  left_join(rpi_2022 %>% rename("home_rank" = "Rank"), by = c("home_team_display_name" = "School")) %>%
-  left_join(rpi_2022 %>% rename("away_rank" = "Rank"), by = c("away_team_display_name" = "School")) %>%
-  mutate(log_home_rank = log(home_rank),
-         log_away_rank = log(away_rank),
-         rank_diff = home_rank - away_rank,
-         log_rank_diff = log_home_rank - log_away_rank)
+start_date <- as.Date("2023-03-27")
+end_date <- as.Date("2023-04-02")
 
-model <- glm(home_win ~ log_rank_diff, data = scoreboard_train, family = "binomial")
-save(model, file = "~/Desktop/Projects/softball-projects/rpi_model.RDA")
-
-
-start_date <- as.Date("2023-03-20")
-end_date <- as.Date("2023-03-26")
-
-scoreboard_test <- scoreboard_2023 %>%
+scoreboard_test <- scoreboard_2023 %>% 
   mutate(date = as.Date(paste0(word(date,3,sep="/"),"-",word(date,1,sep="/"),"-",word(date,2,sep="/")))) %>%
   filter(date <= end_date & date >= start_date) %>%
-  mutate(team1_win = as.numeric(team1_runs) > as.numeric(team2_runs)) %>%
-  left_join(rpi_2023 %>% rename("team1_rank" = "rpi_rank"), by = c("team1" = "team_name")) %>%
-  left_join(rpi_2023 %>% rename("team2_rank" = "rpi_rank"), by = c("team2" = "team_name")) %>%
-  mutate(log_team1_rank = log(team1_rank),
-         log_team2_rank = log(team2_rank),
-         rank_diff = team1_rank - team2_rank,
-         log_rank_diff = log_team1_rank - log_team2_rank)
+  mutate(team1_win = team1_runs > team2_runs) %>%
+  left_join(standings_2023 %>% rename("team1_rating" = "power_rating"), by = c("team1" = "team")) %>%
+  left_join(standings_2023 %>% rename("team2_rating" = "power_rating"), by = c("team2" = "team")) %>%
+  drop_na(team1_rating, team2_rating) %>% 
+  filter(team1_rating > 0 & team2_rating > 0) %>% 
+  mutate(log_team1_rating = log(team1_rating),
+         log_team2_rating = log(team2_rating),
+         rating_diff = team1_rating - team2_rating,
+         log_rating_diff = log_team1_rating - log_team2_rating)
+
 
 scoreboard_test$likelihood <- predict(model, scoreboard_test, type = "response")
 scoreboard_test$resid <- scoreboard_test$team1_win - scoreboard_test$likelihood
@@ -52,8 +42,8 @@ scoreboard_test <- scoreboard_test %>%
   mutate(team1_runs = as.numeric(team1_runs),
          team2_runs = as.numeric(team2_runs),
          score = paste(team1_runs, team2_runs, sep = "-"),
-         rank_diff = abs(rank_diff),
-         log_rank_diff = abs(log_rank_diff)) %>%
+         rating_diff = abs(rating_diff),
+         log_rating_diff = abs(log_rating_diff)) %>%
   merge(logos, by.x = "team1", by.y = "home_team_display_name") %>%
   rename(team1_logo = home_team_logo) %>%
   merge(logos, by.x = "team2", by.y = "home_team_display_name") %>%
@@ -62,11 +52,11 @@ scoreboard_test <- scoreboard_test %>%
 table <- scoreboard_test %>%
   arrange(desc(abs(resid))) %>%
   head(n = 5) %>%
-  select(date,team1_logo, team1, team2_logo, team2, team1_runs, team2_runs, score, rank_diff, log_rank_diff) %>%
+  select(date,team1_logo, team1, team2_logo, team2, team1_runs, team2_runs, score, rating_diff, log_rating_diff) %>%
   gt() %>%
   fmt_date(date, date_style = "Md") %>%
   cols_hide(c(team1_runs,team2_runs)) %>%
-  fmt_number(log_rank_diff, decimals = 2) %>%
+  fmt_number(c(rating_diff, log_rating_diff), decimals = 2) %>%
   gt_img_rows(team1_logo) %>%
   gt_img_rows(team2_logo) %>%
   cols_label(date = "Date",
@@ -75,8 +65,8 @@ table <- scoreboard_test %>%
              team2_logo = "",
              team2 = "",
              score = "Score",
-             rank_diff = "Raw RPI Diff.",
-             log_rank_diff = "Log RPI Diff.") %>%
+             rating_diff = "Rating Diff.",
+             log_rating_diff = "Log. Rating Diff.") %>%
   tab_style(cell_borders(sides = "right",
                          style = "dashed",
                          color = "grey"),
@@ -95,6 +85,8 @@ table <- scoreboard_test %>%
   gt_theme_espn() %>%
   tab_header(title = "Biggest NCAA Softball Upsets",
              subtitle = paste0(format(start_date, "%m/%d")," - ",format(end_date, "%m/%d"))) %>%
+  tab_footnote(footnote = "(Strength of Schedule Adjusted Power Rating)",
+               locations = cells_column_labels(columns = rating_diff)) %>% 
   opt_align_table_header(align = "center") %>%
   tab_options(heading.title.font.weight = "bold",
               heading.title.font.size = "24px")
