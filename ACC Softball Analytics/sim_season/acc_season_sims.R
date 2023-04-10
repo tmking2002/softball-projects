@@ -1,5 +1,7 @@
 library(tidyverse)
 library(softballR)
+library(glue)
+library(anytime)
 library(gt)
 library(gtExtras)
 
@@ -13,6 +15,9 @@ sim_season <- function(scoreboard, num_sims){
   
   acc_teams <- c("Clemson", "Duke", "Louisville", "Florida St.", "Virginia Tech", "Georgia Tech",
                  "North Carolina", "Notre Dame", "Virginia", "Pittsburgh", "Boston College", "NC State", "Syracuse")
+  
+  team_ids <- get_ncaa_teams(2023) %>% 
+    filter(team_name %in% acc_teams)
   
   completed <- scoreboard %>%
     filter(away_team %in% acc_teams & home_team %in% acc_teams)
@@ -30,21 +35,28 @@ sim_season <- function(scoreboard, num_sims){
               losses = games - wins - ties,
               record = paste0(wins,"-",losses,"-",ties))
   
-  remaining <- data.frame(team = c(rep("Clemson", 10), rep("Duke", 9), rep("Louisville",12), rep("Florida St.",13), rep("Virginia Tech",12), rep("Georgia Tech",12),
-                                   rep("North Carolina",12), rep("Notre Dame", 12), rep("Virginia",12), rep("Pittsburgh",15), rep("Boston College",15), rep("NC State",11), rep("Syracuse",11)),
-                          opponent = c(rep("Florida St.",1), rep("NC State", 3), rep("Pittsburgh",3), rep("Virginia Tech", 3),
-                                       rep("Boston College",3), rep("Georgia Tech", 3), rep("Pittsburgh", 3),
-                                       rep("Notre Dame",3), rep("Virginia",3), rep("Boston College",3), rep("Florida St.",3),
-                                       rep("Clemson",1), rep("Virginia",3), rep("Virginia Tech",3), rep("Notre Dame",3), rep("Louisville",3),
-                                       rep("Virginia",3), rep("Notre Dame",3), rep("Florida St.",3), rep("Clemson",3),
-                                       rep("Boston College",3), rep("Pittsburgh",3), rep("Duke",3), rep("North Carolina",3),
-                                       rep("Pittsburgh",3), rep("Syracuse",3), rep("NC State",3), rep("Georgia Tech",3),
-                                       rep("Louisville",3), rep("Virginia Tech",3), rep("Boston College",3), rep("Florida St.",3),
-                                       rep("Virginia Tech",3), rep("Florida State",3), rep("Louisville",3), rep("Syracuse", 3),
-                                       rep("North Carolina",3), rep("Georgia Tech",3), rep("Clemson",3), rep("Duke",3), rep("NC State",3),
-                                       rep("Georgia Tech",3), rep("Duke",3), rep("Notre Dame",3), rep("Louisville",3), rep("Syracuse",3),
-                                       rep("Syracuse",2), rep("Clemson",3), rep("North Carolina",3), rep("Pittsburgh",3),
-                                       rep("NC State",2), rep("North Carolina",3), rep("Boston College",3), rep("Virginia",3)))
+  remaining <- data.frame()
+  
+  for(i in 1:nrow(team_ids)){
+    
+    raw <- glue("https://stats.ncaa.org/teams/{team_ids$team_id[i]}") %>% 
+      readLines()
+    
+    teams <- acc_teams[which(acc_teams != team_ids$team_name[i])]
+    
+    locs <- grep(paste(teams, collapse = "|"), raw)
+    
+    date <- gsub('<[^>]+>', '', raw[locs - 2]) %>% 
+      trimws() %>% 
+      str_remove_all("\\(1\\)|\\(2\\)")
+      
+    opponent <- gsub('.*alt="([^"]+)".*', '\\1', raw[locs])
+    
+    games <- data.frame(team = team_ids$team_name[i], opponent, date) %>% 
+      filter(anydate(date) > Sys.Date())
+    
+    remaining <- rbind(remaining, games)
+  }
   
   remaining_sos <- remaining %>% 
     merge(ratings, by.x = "opponent", by.y = "team") %>% 

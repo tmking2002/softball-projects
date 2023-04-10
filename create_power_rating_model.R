@@ -1,7 +1,6 @@
 source("~/Desktop/Projects/softball-projects/get_power_ratings.R")
 
 scoreboard_2022 <- readRDS("~/Desktop/softballR-data/data/ncaa_scoreboard_2022.RDS")
-scoreboard_2023 <- readRDS("~/Desktop/softballR-data/data/ncaa_scoreboard_2023.RDS")
 
 standings_2022 <- get_power_ratings(scoreboard_2022)
 
