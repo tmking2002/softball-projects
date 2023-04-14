@@ -53,7 +53,7 @@ sim_season <- function(scoreboard, num_sims){
     opponent <- gsub('.*alt="([^"]+)".*', '\\1', raw[locs])
     
     games <- data.frame(team = team_ids$team_name[i], opponent, date) %>% 
-      filter(anydate(date) > Sys.Date())
+      filter(anydate(date) >= Sys.Date())
     
     remaining <- rbind(remaining, games)
   }

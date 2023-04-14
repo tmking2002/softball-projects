@@ -1,7 +1,7 @@
 library(tidyverse)
 library(fmsb)
-#source("~/Projects/softball-projects/get_current_rpi.R")
-source("~/Desktop/Projects/softball-projects/get_current_rpi.R")
+source("~/Projects/softball-projects/get_current_rpi.R")
+#source("~/Desktop/Projects/softball-projects/get_current_rpi.R")
 
 get_power_ratings <- function(scoreboard){
   
@@ -53,9 +53,9 @@ get_power_ratings <- function(scoreboard){
   
   standings <- scoreboard_longer %>% 
     group_by(team) %>% 
-    summarise(wins = sum(runs > opponent_runs),
-              losses = sum(runs < opponent_runs),
-              ties = sum(runs == opponent_runs),
+    summarise(wins = sum(runs > opponent_runs, na.rm=T),
+              losses = sum(runs < opponent_runs, na.rm=T),
+              ties = sum(runs == opponent_runs, na.rm=T),
               win_perc = wins / (wins + losses),
               games = sum(wins, losses, ties)) %>% 
     drop_na() %>% 
@@ -64,7 +64,7 @@ get_power_ratings <- function(scoreboard){
     merge(sos, by = "team") %>% 
     select(team, wins, losses, ties, win_perc, offensive_rating, defensive_rating, rank)
   
-  load("~/Desktop/Projects/softball-projects/power_rating_winperc_model.RDA")
+  load("~/Projects/softball-projects/power_rating_winperc_model.RDA")
   
   standings$overall_rating <- predict(model, standings) - coef(model)["rank"] * standings$rank
   
