@@ -28,4 +28,4 @@ ggplot(tenth, aes(x = wins)) +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5, face = 'bold'))
 
-gtsave(table,"acc_predictions_4_10.png")
+gtsave(table,"acc_predictions_4_17.png")
