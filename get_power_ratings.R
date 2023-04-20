@@ -62,7 +62,8 @@ get_power_ratings <- function(scoreboard){
     merge(best_offenses, by = "team") %>% 
     merge(best_defenses, by = "team") %>% 
     merge(sos, by = "team") %>% 
-    select(team, wins, losses, ties, win_perc, offensive_rating, defensive_rating, rank)
+    filter(games >= 10) %>% 
+    select(team, wins, losses, ties, win_perc, offensive_rating, defensive_rating, rank) 
   
   load("~/Projects/softball-projects/power_rating_winperc_model.RDA")
   

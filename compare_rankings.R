@@ -9,7 +9,8 @@ actual_rankings <- get_rankings("USA Today") %>%
   mutate(Team = trimws(Team),
          Team = ifelse(Team == "Oklahoma State", "Oklahoma St.", Team),
          Team = ifelse(Team == "Florida State", "Florida St.", Team),
-         Team = ifelse(Team == "Wichita State", "Wichita St.", Team))
+         Team = ifelse(Team == "Wichita State", "Wichita St.", Team),
+         Team = ifelse(Team == "Central Arkansas", "Central Ark.", Team))
 
 scoreboard <- load_ncaa_scoreboard(2023)
 
@@ -26,7 +27,8 @@ logos <- scoreboard %>%
 rankings <- merge(actual_rankings, power_rankings, by.x = "Team", by.y = "team", all=T) %>% 
   merge(logos, by.x = "Team", by.y = "home_team")
 
-plot <- ggplot(rankings %>% mutate(power_rank = ifelse(!is.na(Rank) & power_rank > 25, 25, power_rank)), 
+plot <- ggplot(rankings %>% mutate(power_rank = ifelse(!is.na(Rank) & power_rank > 25, 25, power_rank),
+                                   Rank = ifelse()), 
        aes(x = power_rank, y = Rank)) +
   geom_from_path(aes(path = home_team_logo), height = .05) +
   scale_x_continuous(breaks = c(1,5,10,15,20,25), limits = c(1,25)) +

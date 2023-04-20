@@ -6,7 +6,11 @@ scoreboard <- load_ncaa_scoreboard(2023, division = "D1")
 
 game_ids <- scoreboard %>% pull(game_id) %>% sort
 
+i <- 0
+
 get_ncaa_player_box <- function(game_id){
+  
+  i <<- i + 1
   
   options(warn = -1)
   
@@ -29,7 +33,8 @@ get_ncaa_player_box <- function(game_id){
     upd[upd == ""] <- "0"
     
     upd <- upd %>%
-      dplyr::mutate(across(3:26, as.numeric))
+      dplyr::mutate(across(3:26, as.numeric)) %>%
+      dplyr::mutate(game_id = game_id)
     
     return(upd)
     
@@ -37,12 +42,18 @@ get_ncaa_player_box <- function(game_id){
   
   hitting <- try(get_hitting_box(game_id))
   
+  if(i %% 100 == 0) {toc(); tic(i+100)}
+  
   return(hitting)
   
 }
 
-tic()
-box <- do.call(rbind, lapply(X = game_ids, FUN = get_ncaa_player_box))
+tic(100)
+box <- do.call(rbind, lapply(X = game_ids[1:10], FUN = get_ncaa_player_box))
 toc()
 
-saveRds(object = box, file = "d1_box_scores_2023.csv")
+box <- box %>% 
+  filter(!str_detect(player,"Error : Document is empty|subscript out of bounds")) %>% 
+  distinct()
+
+saveRDS(object = box, file = "d1_hitting_box_scores_2023.RDS")
