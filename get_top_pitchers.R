@@ -5,7 +5,7 @@ library(gtExtras)
 
 source("~/Projects/softball-projects/get_power_ratings.R")
 
-box <- readRDS("d1_pitching_box_scores_2023.RDS") %>% 
+box <- readRDS("~/Projects/softball-projects/d1_pitching_box_scores_2023.RDS") %>% 
   distinct()
 
 scoreboard <- load_ncaa_scoreboard(2023)
@@ -48,7 +48,7 @@ stats$FIP <- stats$FIP + fip_constant
 
 model <- lm(FIP ~ avg_opp_off_rating, data = stats)
 
-stats_upd <- stats %>% 
+pitcher_stats_upd <- stats %>% 
   filter(ip >= 100) %>% 
   mutate(wFIP = FIP + coef(model)[2] * avg_opp_off_rating) %>% 
   separate(player, c("last", "first"), ", ") %>% 
@@ -58,7 +58,7 @@ stats_upd <- stats %>%
   select(rank, home_team_logo, player, wFIP, SOr, BBr, ERA)
 
 
-table <- stats_upd %>%
+table <- pitcher_stats_upd %>%
   filter(rank > 10 & rank <= 20) %>% 
   gt() %>% 
   cols_label(home_team_logo = "",
@@ -71,7 +71,7 @@ table <- stats_upd %>%
   data_color(columns = wFIP,
              colors = scales::col_numeric(
                palette = c("#77DE78", "#FF6962"),
-               domain = c(min(stats_upd$wFIP),max(stats_upd$wFIP))
+               domain = c(min(pitcher_stats_upd$wFIP),max(pitcher_stats_upd$wFIP))
              )) %>% 
   tab_style(style = cell_borders(sides = "left", color = "grey"),
             locations = cells_body(columns = c(home_team_logo, wFIP, SOr))) %>% 

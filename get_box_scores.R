@@ -49,7 +49,7 @@ get_ncaa_player_box <- function(game_id){
 }
 
 tic(100)
-box <- do.call(rbind, lapply(X = game_ids[1:10], FUN = get_ncaa_player_box))
+box <- do.call(rbind, lapply(X = game_ids, FUN = get_ncaa_player_box))
 toc()
 
 box <- box %>% 
