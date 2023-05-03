@@ -3,6 +3,8 @@ library(tictoc)
 library(tidyverse)
 library(anytime)
 
+setwd("~/Projects/softball-projects")
+
 options(warn = -1)
 
 get_pitching_box <- function(id){
@@ -71,8 +73,8 @@ curr_pitching_box <- readRDS("d1_pitching_box_scores_2023.RDS")
 scoreboard <- load_ncaa_scoreboard(2023, division = "D1") %>% 
   distinct(game_id, game_date)
 
-curr_hitting_box <- merge(curr_hitting_box, scoreboard, by = "game_id")
-curr_pitching_box <- merge(curr_pitching_box, scoreboard, by = "game_id")
+#curr_hitting_box <- merge(curr_hitting_box, scoreboard, by = "game_id")
+#curr_pitching_box <- merge(curr_pitching_box, scoreboard, by = "game_id")
 
 most_recent <- min(c(max(anydate(curr_hitting_box$game_date)), 
                      max(anydate(curr_pitching_box$game_date))))

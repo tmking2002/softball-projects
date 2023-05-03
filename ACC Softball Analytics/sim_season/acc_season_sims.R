@@ -136,7 +136,7 @@ sim_season <- function(scoreboard, num_sims){
   
   table <- standings %>%
     merge(current_standings %>% select(team, record)) %>%
-    merge(remaining_sos, by = "team") %>% 
+    merge(remaining_sos, by = "team", all = TRUE) %>% 
     merge(logos, by.x = "team", by.y = "home_team") %>% 
     mutate(total = win + top3 + top6 + make_tournament) %>% 
     arrange(desc(total)) %>%
