@@ -7,8 +7,7 @@ setwd("~/Projects/softball-projects")
 
 source("~/Projects/softball-projects/get_power_ratings.R")
 
-scoreboard_2022 <- load_espn_scoreboard(2022)
-scoreboard_2023 <- load_ncaa_scoreboard(2023)
+scoreboard_2023 <- load_ncaa_softball_scoreboard(2023) %>% 
 
 standings_2023 <- get_power_ratings(scoreboard_2023) %>% 
   select(team, power_rating)
@@ -18,8 +17,8 @@ logos <- scoreboard_2023 %>%
 
 load("~/Projects/softball-projects/power_rating_model.RDA")
 
-start_date <- as.Date("2023-04-10")
-end_date <- as.Date("2023-04-16")
+start_date <- as.Date("2023-05-10")
+end_date <- as.Date("2023-05-13")
 
 scoreboard_test <- scoreboard_2023 %>% 
   mutate(date = as.Date(paste0(word(game_date,3,sep="/"),"-",word(game_date,1,sep="/"),"-",word(game_date,2,sep="/")))) %>%
@@ -85,5 +84,5 @@ table <- scoreboard_test %>%
   tab_options(heading.title.font.weight = "bold",
               heading.title.font.size = "24px")
 
-#gtsave(table, "Biggest Upsets.png")
+gtsave(table, "Biggest Upsets.png")
 

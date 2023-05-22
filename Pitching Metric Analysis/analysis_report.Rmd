@@ -1,0 +1,321 @@
+---
+title: "Pitching Metric Analysis"
+author: "Tyson King"
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+    math: katex
+---
+
+
+<style type="text/css">
+
+h1 {
+  font-size: 38px;
+  text-align: center;
+}
+h2 {
+  font-size: 28px;
+  text-align: center;
+}
+h4.author {
+  font-size: 18px;
+  text-align: center;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, fig.align = 'center')
+
+library(tidyverse)
+library(hrbrthemes)
+library(gt)
+library(gtExtras)
+```
+
+```{r read_data}
+combined_data <- read_csv("~/Projects/softball-projects/combined_pitcher_data.csv") %>% 
+  filter(Pitcher != "Autumn Pease") %>% 
+  mutate(adj_SpinAxis = ifelse(adj_SpinAxis == 0, 360, adj_SpinAxis))
+```
+
+```{r best_and_worst, fig.align='center'}
+best <- combined_data %>% 
+  group_by(Pitcher, wFIP) %>% 
+  summarise(pitches = n()) %>% 
+  arrange(wFIP) %>% 
+  head(n=3) %>% 
+  ungroup() %>% 
+  `names<-`(c("best_pitcher", "best_wFIP", "best_pitches"))
+
+worst <- combined_data %>% 
+  group_by(Pitcher, wFIP) %>% 
+  summarise(pitches = n()) %>% 
+  arrange(desc(wFIP)) %>% 
+  head(n=3) %>% 
+  ungroup() %>% 
+  `names<-`(c("worst_pitcher", "worst_wFIP", "worst_pitches"))
+
+cbind(best, data.frame(X1 = rep(" ", 3), X2 = rep(" ", 3)), worst) %>% 
+  gt() %>% 
+  fmt_number(c(best_wFIP, worst_wFIP), decimals = 3) %>% 
+  tab_spanner(columns = 1:3,
+              label = "Best Pitchers",
+              id = "best_spanner") %>% 
+  tab_spanner(columns = 6:8,
+              label = "Worst Pitchers",
+              id = "worst_spanner") %>% 
+  gt_theme_guardian() %>% 
+  cols_label(best_pitcher = "",
+             best_wFIP = "wFIP",
+             best_pitches = "Pitches",
+             X1 = "",
+             X2 = "",
+             worst_pitcher = "",
+             worst_wFIP = "wFIP",
+             worst_pitches = "Pitches") %>% 
+  tab_style(style = cell_fill(color = "white"),
+            locations = list(cells_body(),
+                             cells_column_spanners(),
+                             cells_column_labels())) %>% 
+  tab_style(style = cell_borders(sides = "right",
+                                 color = "black",
+                                 style = "dashed"),
+            locations = cells_body(columns = X1)) %>% 
+  tab_style(style = cell_text(weight = "bold", size = px(26)),
+            locations = cells_column_spanners(spanners = c("best_spanner", "worst_spanner"))) %>% 
+  tab_style(style = cell_text(weight = "bold"),
+            locations = cells_body(columns = c(best_pitcher, worst_pitcher))) %>% 
+  data_color(columns = c(best_wFIP, worst_wFIP),
+             fn = scales::col_numeric(palette = "RdBu",
+                                      domain = c(min(combined_data$wFIP), max(combined_data$wFIP))),
+             reverse = TRUE) %>% 
+  tab_options(table.width = px(500), 
+              page.margin.left = px(500))
+
+```
+
+# Best Pitchers
+
+## Valerie Cagle
+
+```{r cagle_data}
+cagle <- combined_data %>% 
+  filter(Pitcher == "Valerie Cagle") %>% 
+  mutate(PitchType = case_when(InducedVertBreak > 0 ~ "Riseball",
+                               RelSpeed < 61 ~ "Changeup",
+                               TRUE ~ "Dropball"))
+```
+
+```{r cagle_pitch_breakdown}
+cagle_pitch_metrics <- cagle %>% 
+  drop_na(HorzBreak, SpinRate) %>% 
+  group_by(PitchType) %>% 
+  summarise(RelSpeed = mean(RelSpeed),
+            HorzBreak = mean(HorzBreak),
+            InducedVertBreak = mean(InducedVertBreak),
+            SpinRate = mean(SpinRate),
+            SpinAxis = mean(adj_SpinAxis),
+            count = n()) %>% 
+  ungroup()
+
+cagle_pitch_metrics %>% 
+  gt(rowname_col = "PitchType") %>% 
+  cols_hide(count) %>% 
+  tab_spanner(columns = c("HorzBreak", "InducedVertBreak"),
+              label = "Induced Break") %>% 
+  cols_label(HorzBreak = "Horizontal",
+             InducedVertBreak = "Vertical",
+             SpinRate = "Spin Rate (RPM)",
+             SpinAxis = "Spin Axis") %>% 
+  tab_header(title = "Pitch Breakdown") %>% 
+  fmt_number(2:6, decimals = 1) %>% 
+  gt_theme_guardian() %>% 
+  tab_options(heading.align = 'center')
+```
+
+```{r cagle_break}
+ggplot(cagle, aes(x = HorzBreak, y = InducedVertBreak)) +
+  geom_point(aes(color = PitchType), alpha = .7) + 
+  geom_point(data = cagle_pitch_metrics, aes(x = HorzBreak, y = InducedVertBreak, color = PitchType), size = 5) +
+  xlim(-15,15) + 
+  ylim(-15,15) + 
+  theme_ipsum_es() +
+  labs(title = "Induced Break",
+       color = "Pitch Type",
+       x = "Horizonal Break (In.)",
+       y = "Induced Vertical Break (In.)") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"),
+        plot.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"),
+        panel.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"))
+```
+
+```{r cagle_spin}
+ggplot(cagle %>% filter(PitchType %in% cagle_pitch_metrics$PitchType), aes(x = adj_SpinAxis, y = RelSpeed)) +
+  geom_point(aes(color = PitchType), alpha = .7) + 
+  geom_point(data = cagle_pitch_metrics, aes(x = SpinAxis, y = RelSpeed, color = PitchType), size = 5) +
+  coord_polar() +
+  scale_x_continuous(breaks = seq(0,360,30), lim = c(0,360)) +
+  theme_ipsum_es() +
+  labs(title = "Spin Profiles",
+       subtitle = "(Distance from Middle: Pitch Velo)",
+       color = "Pitch Type") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"),
+        plot.subtitle = element_text(hjust = 0.5),
+        axis.text.y = element_blank(),
+        axis.title = element_blank(),
+        plot.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"),
+        panel.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"))
+```
+
+## Jessica Mullins
+```{r mullins_data}
+mullins <- combined_data %>% 
+  filter(Pitcher == "Jessica Mullins" & InducedVertBreak < 5) %>% 
+  mutate(PitchType = case_when(RelSpeed < 60 ~ "Changeup",
+                               adj_SpinAxis > 245 ~ "Riseball",
+                               TRUE ~ "Dropball"))
+```
+
+```{r mullins_pitch_breakdown}
+mullins_pitch_metrics <- mullins %>% 
+  drop_na(HorzBreak, SpinRate) %>% 
+  group_by(PitchType) %>% 
+  summarise(RelSpeed = mean(RelSpeed),
+            HorzBreak = mean(HorzBreak),
+            InducedVertBreak = mean(InducedVertBreak),
+            SpinRate = mean(SpinRate),
+            SpinAxis = mean(adj_SpinAxis),
+            count = n()) %>% 
+  ungroup()
+
+mullins_pitch_metrics %>% 
+  gt(rowname_col = "PitchType") %>% 
+  cols_hide(count) %>% 
+  tab_spanner(columns = c("HorzBreak", "InducedVertBreak"),
+              label = "Induced Break") %>% 
+  cols_label(HorzBreak = "Horizontal",
+             InducedVertBreak = "Vertical",
+             SpinRate = "Spin Rate (RPM)",
+             SpinAxis = "Spin Axis") %>% 
+  tab_header(title = "Pitch Breakdown") %>% 
+  fmt_number(2:6, decimals = 1) %>% 
+  gt_theme_guardian() %>% 
+  tab_options(heading.align = 'center')
+```
+
+```{r mullins_break}
+ggplot(mullins, aes(x = HorzBreak, y = InducedVertBreak)) +
+  geom_point(aes(color = PitchType), alpha = .7) + 
+  geom_point(data = mullins_pitch_metrics, aes(x = HorzBreak, y = InducedVertBreak, color = PitchType), size = 5) +
+  xlim(-10,10) + 
+  ylim(-10,10) + 
+  theme_ipsum_es() +
+  labs(title = "Induced Break",
+       color = "Pitch Type",
+       x = "Horizonal Break (In.)",
+       y = "Induced Vertical Break (In.)") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"),
+        plot.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"),
+        panel.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"))
+```
+
+```{r mullins_spin}
+ggplot(mullins %>% filter(PitchType %in% mullins_pitch_metrics$PitchType), aes(x = adj_SpinAxis, y = RelSpeed)) +
+  geom_point(aes(color = PitchType), alpha = .7) + 
+  geom_point(data = mullins_pitch_metrics, aes(x = SpinAxis, y = RelSpeed, color = PitchType), size = 5) +
+  coord_polar() +
+  scale_x_continuous(breaks = seq(0,360,30), lim = c(0,360)) +
+  theme_ipsum_es() +
+  labs(title = "Spin Profiles",
+       subtitle = "(Distance from Middle: Pitch Velo)",
+       color = "Pitch Type") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"),
+        plot.subtitle = element_text(hjust = 0.5),
+        axis.text.y = element_blank(),
+        axis.title = element_blank(),
+        plot.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"),
+        panel.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"))
+```
+
+
+
+
+
+
+
+
+## Sophia Simpson
+
+```{r simpson_data}
+simpson <- combined_data %>% 
+  filter(Pitcher == "Sophia Simpson") %>% 
+  mutate(PitchType = case_when(RelSpeed < 57 ~ "Changeup",
+                               InducedVertBreak > -2.2 ~ "Riseball",
+                               TRUE ~ "Dropball"))
+```
+
+```{r simpson_pitch_breakdown}
+simpson_pitch_metrics <- simpson %>% 
+  drop_na(HorzBreak, SpinRate) %>% 
+  group_by(PitchType) %>% 
+  summarise(RelSpeed = mean(RelSpeed),
+            HorzBreak = mean(HorzBreak),
+            InducedVertBreak = mean(InducedVertBreak),
+            SpinRate = mean(SpinRate),
+            SpinAxis = mean(adj_SpinAxis),
+            count = n()) %>% 
+  ungroup()
+
+simpson_pitch_metrics %>% 
+  gt(rowname_col = "PitchType") %>% 
+  cols_hide(count) %>% 
+  tab_spanner(columns = c("HorzBreak", "InducedVertBreak"),
+              label = "Induced Break") %>% 
+  cols_label(HorzBreak = "Horizontal",
+             InducedVertBreak = "Vertical",
+             SpinRate = "Spin Rate (RPM)",
+             SpinAxis = "Spin Axis") %>% 
+  tab_header(title = "Pitch Breakdown") %>% 
+  fmt_number(2:6, decimals = 1) %>% 
+  gt_theme_guardian() %>% 
+  tab_options(heading.align = 'center')
+```
+
+```{r simpson_break}
+ggplot(simpson, aes(x = HorzBreak, y = InducedVertBreak)) +
+  geom_point(aes(color = PitchType), alpha = .7) + 
+  geom_point(data = simpson_pitch_metrics, aes(x = HorzBreak, y = InducedVertBreak, color = PitchType), size = 5) +
+  xlim(-15,15) + 
+  ylim(-15,15) + 
+  theme_ipsum_es() +
+  labs(title = "Induced Break",
+       color = "Pitch Type",
+       x = "Horizonal Break (In.)",
+       y = "Induced Vertical Break (In.)") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"),
+        plot.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"),
+        panel.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"))
+```
+
+```{r simpson_spin}
+ggplot(simpson %>% filter(PitchType %in% simpson_pitch_metrics$PitchType), aes(x = adj_SpinAxis, y = RelSpeed)) +
+  geom_point(aes(color = PitchType), alpha = .7) + 
+  geom_point(data = simpson_pitch_metrics, aes(x = SpinAxis, y = RelSpeed, color = PitchType), size = 5) +
+  coord_polar() +
+  scale_x_continuous(breaks = seq(0,360,30), lim = c(0,360)) +
+  theme_ipsum_es() +
+  labs(title = "Spin Profiles",
+       subtitle = "(Distance from Middle: Pitch Velo)",
+       color = "Pitch Type") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"),
+        plot.subtitle = element_text(hjust = 0.5),
+        axis.text.y = element_blank(),
+        axis.title = element_blank(),
+        plot.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"),
+        panel.background = element_rect(fill = "#e5e5e5", color = "#e5e5e5"))
+```
+
+
+
