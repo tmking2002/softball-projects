@@ -1,0 +1,148 @@
+---
+title: "Umpire Scorecard"
+output: html_document
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+}
+</style>
+
+## * Best Called Game in Dataset
+
+<br>
+<br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,message = FALSE,warning = FALSE)
+
+library(tidyverse)
+library(plotly)
+
+raw <- read_csv("~/Projects/yakkertech_data/total.csv") %>% filter(Umpire == "Eric Mandley")
+
+#<div align='center'>![](DevenMask.jpg){width=25%}
+```
+
+
+
+<br>
+<br>
+
+```{r manipulate}
+#Give constant values to strike zone coords
+topKzone <- 11/3
+botKzone <- 11/6
+leftKzone <- -17/24
+rightKzone <- 17/24
+
+ballRadius <- (6 / pi) / 12
+
+kZone = data.frame(
+  x = c(leftKzone, leftKzone, rightKzone, rightKzone, leftKzone)
+  , y = c(botKzone, topKzone, topKzone, botKzone, botKzone)
+)
+
+final <- raw %>% 
+  drop_na(PlateLocHeight) %>% 
+  filter(PitchCall %in% c("StrikeCalled","BallCalled")) %>% 
+  mutate(trueStrike = ifelse((PlateLocHeight - ballRadius) < topKzone & 
+                               (PlateLocHeight + ballRadius) > botKzone & 
+                               (PlateLocSide + ballRadius) > leftKzone & 
+                               (PlateLocSide - ballRadius) < rightKzone,T,F),
+         correctCall = ifelse((trueStrike == TRUE & PitchCall == "StrikeCalled") | (trueStrike == FALSE & PitchCall == "BallCalled"),T,F))
+
+```
+
+```{r accuracy}
+correct_perc <- mean(final$correctCall)
+correct_strikes <- mean(final[which(final$PitchCall == "StrikeCalled"),]$correctCall)
+correct_balls <- mean(final[which(final$PitchCall == "BallCalled"),]$correctCall)
+
+accuracy <- data.frame(value = c(correct_perc,1 - correct_perc),
+                       group = c("Correct","Incorrect"))
+
+strikeaccuracy <- data.frame(value = c(correct_strikes,1 - correct_strikes),
+                       group = c("Correct","Incorrect"))
+
+ballaccuracy <- data.frame(value = c(correct_balls,1 - correct_balls),
+                       group = c("Correct","Incorrect"))
+```
+
+```{r ballsandstrikes,fig.show="hold",out.width="33%"}
+ggplot(accuracy,aes(x = 4,y = value, fill = group)) +
+  geom_col() +
+  coord_polar(theta = "y") +
+  xlim(c(0.2,4.5)) +
+  geom_text(x=0.3,y=0.3,label = paste0(round(correct_perc,3) * 100,"%"),size = 15,fontface = "bold") +
+  scale_fill_manual(values = c("Black","White")) +
+  theme_void() +
+  labs(title = "Overall Accuracy") +
+  theme(legend.position = 'none',
+        plot.title = element_text(hjust = 0.5, size = 25,face = "bold"))
+
+
+ggplot(strikeaccuracy,aes(x = 4,y = value, fill = group)) +
+  geom_col() +
+  coord_polar(theta = "y") +
+  xlim(c(0.2,4.5)) +
+  geom_text(x=0.3,y=0.3,label = paste0(round(correct_strikes,3) * 100,"%"),size = 15,fontface = "bold",color = "red") +
+  scale_fill_manual(values = c("Red","White")) +
+  theme_void() +
+  labs(title = "Called Strike Accuracy",
+       caption = paste0(nrow(final[which(final$PitchCall == "StrikeCalled" & final$correctCall == FALSE),])," of ", nrow(final[which(final$PitchCall == "StrikeCalled"),])," called strikes were actually balls")) +
+  theme(legend.position = 'none',
+        plot.title = element_text(hjust = 0.5, size = 25,face = "bold"),
+        plot.caption = element_text(hjust = 0.5, size = 18))
+
+ggplot(ballaccuracy,aes(x = 4,y = value, fill = group)) +
+  geom_col() +
+  coord_polar(theta = "y") +
+  xlim(c(0.2,4.5)) +
+  geom_text(x=0.3,y=0.3,label = paste0(round(correct_balls,3) * 100,"%"),size = 15,fontface = "bold",color = "forestgreen") +
+  scale_fill_manual(values = c("forestgreen","White")) +
+  theme_void() +
+  labs(title = "Called Ball Accuracy",
+       caption = paste0(nrow(final[which(final$PitchCall == "BallCalled" & final$correctCall == FALSE),])," of ", nrow(final[which(final$PitchCall == "BallCalled"),])," called balls were actually strikes")) +
+  theme(legend.position = 'none',
+        plot.title = element_text(hjust = 0.5, size = 25,face = "bold"),
+        plot.caption = element_text(hjust = 0.5, size = 18))
+```
+
+<br>
+<br>
+
+
+```{r plots,fig.align='center', fig.height=8, fig.width=10}
+plot <- ggplot(final %>% filter(correctCall == FALSE)) + 
+  geom_point(aes(x=PlateLocSide,y=PlateLocHeight, group = 1, fill = PitchCall,
+                 text = paste0('Inning: ',Inning,
+                               '\nCount: ',paste0(Balls,"-",Strikes),
+                               '\nPitch Type: ',TaggedPitchType,
+                               '\nVelo: ', round(RelSpeed,1),
+                               '\nBatter Team: ', BatterTeam)),
+             size = 32, shape = 21, color = "black") +
+  scale_fill_manual(values = c("ForestGreen","Red")) +
+  geom_path(aes(x=x,y=y),kZone) +
+  xlim(-1.5,1.5) +
+  ylim(1.5,4) +
+  theme_void() +
+  labs(title = "All Missed Calls") +
+  theme(legend.position = 'none',
+        plot.title = element_text(hjust = 0.5, size = 25,face = "bold")) 
+
+plot
+```
+
+
+
+

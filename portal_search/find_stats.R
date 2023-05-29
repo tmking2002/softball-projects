@@ -35,3 +35,9 @@ pitching_portal <- read_csv("~/Projects/softball-projects/portal_search/transfer
 
 write_csv(hitting_portal, "~/Projects/softball-projects/portal_search/hitters.csv")
 write_csv(pitching_portal, "~/Projects/softball-projects/portal_search/pitchers.csv")
+
+by_team <- read_csv("~/Projects/softball-projects/portal_search/transfer_portal.csv") %>% 
+  filter(Year == "22-23" & D == "I") %>% 
+  group_by(Institution) %>% 
+  summarise(count = n()) %>% 
+  ungroup()
