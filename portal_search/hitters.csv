@@ -1,137 +1,126 @@
 name,Institution,wRAA,adj_wRAA,OAA,positions
-ashley trierweiler,Santa Clara University,37.0735,36.79520357742442,0.6781603838359305,CF
-mya dodge,University of Northern Iowa,34.4272,33.8018301400027,-1.4428491759731414,"CF, LF"
-laura mealer,Middle Tennessee State University,31.3722,32.45006892588606,0.4609628518293898,SS
-korbe otis,University of Louisville,30.625,32.02779013502091,-0.38742732678225245,CF
-anna wohlers,DePaul University,26.9607,26.68784758970298,0.009684139683644344,"3B, C"
-kelsey hall,Boise State University,25.981,26.41738995761084,0.5991896992277056,"CF, RF"
-tanya windle,Utah Tech University,27.0458,25.85692559669101,-0.03929404082474151,CF
-nia carter,University of Iowa,21.9115,23.877663634154906,0.18440802540142232,RF
-tiffany domingue,University of South Carolina Upstate,24.6576,23.6193031026763,0.8196640120261047,2B
-lauren almeida,Utah Tech University,24.0017,22.81282559669101,0.03148511016251221,SS
-diamond williams,Coastal Carolina University,21.5368,21.9144261450345,-0.11906534297891883,LF
-amelia lech,"University of Maryland, College Park",20.6228,21.558546451906924,0.8996371889008099,"C, RF"
-alesia denby,"California State University, Fresno",21.4163,21.21927786760378,0.0043613366906885,SS
-joley mitchell,University of Notre Dame,20.0705,21.05645054380552,0.04673186262327489,3B
-jaden pone,Longwood University,18.782,19.56986133094806,-0.1522917644375742,"2B, SS"
-kelsey alexander,Central Michigan University,19.9435,18.67899142890483,-0.2815932574180569,LF
-morgan debord,Loyola Marymount University,16.2854,17.913625154912786,1.452145020732512,"CF, SS"
-taryn jenkins,Purdue University Fort Wayne,19.0762,17.014800966663817,0.4884811569431726,2B
-shelby smith,Seton Hall University,15.6142,14.422545759911717,0.4123693121851309,"P, LF"
-samantha bean,Lamar University,14.507,14.405527366817562,0.27632847715346953,3B
-bailee richardson,Georgia State University,12.5063,13.18387692867204,-0.7330863077124108,"2B, 3B"
-lindsey garcia,Auburn University,9.8274,12.701236412553,-0.5894297749140669,"RF, LF"
-saige alfaro,Canisius College,13.4839,12.440684215671183,0.1652718854926405,2B
-sierra sacco,Louisiana Tech University,11.5797,12.279466252558041,0.6096197987992926,CF
-camryn middlebrook,Stephen F. Austin State University,12.5262,11.934044782687696,0.4880061907993466,"SS, 2B"
-tremere harris,University of Central Arkansas,9.7501,11.445793921412658,0.24855514428497083,LF
-morgan hess,Presbyterian College,11.8369,11.30651775857093,-4.2909304877508605,"RF, P, LF, 3B"
-morgan hess,Presbyterian College,11.8369,11.30651775857093,-0.5500841562302,"RF, P, LF, 3B"
-kenna higa,Norfolk State University,14.2007,11.287830225232511,0.6363833010182214,"3B, 1B"
-jadin justman,University of Wisconsin-Green Bay,13.1675,11.192246388371538,-0.4470827852043002,2B
-abigail knight,Boston College,8.4122,10.219522730657655,1.0003566883156285,3B
-denver bryant,Auburn University,7.0998,9.973636412552999,-3.9810270164770234,"3B, 2B"
-aniya holt,Eastern Illinois University,10.6934,8.591826303331665,-0.5311526869724996,2B
-sophie weber,Bowling Green State University,9.5603,8.433520018834828,0.1780382571837179,3B
-jillian anderson,Southeast Missouri State University,8.9663,8.311775779300891,0.16920050901710987,LF
-jazmine hill,Arizona State University,5.5776,8.288320331221676,-1.2309537576239473,"3B, CF, LF, RF"
-serena starks,Princeton University,8.2811,7.321362273273262,0.0802685446988955,"LF, CF"
-emma robertson,University of Houston,6.0791,7.167781418491503,-0.781007080241577,"C, RF"
-carolyn skotz,Yale University,8.2878,7.103864466400405,0.0684332794920417,"2B, SS"
-d'asha saiki,"University of California, Berkeley",4.2855,7.033733854147581,-2.8601955327439565,"SS, 2B, 1B"
-ryann orange,"Rutgers, The State University of New Jersey, New Brunswick",4.9592,5.718245064762624,-0.5571387368179502,RF
-presley leebrick,Lipscomb University,5.5661,5.637376100638165,0.32745959314990336,RF
-jaylen prichard,Eastern Illinois University,6.8203,4.718726303331665,-0.2271101909112615,CF
-reagan hukill,University of Texas at Arlington,4.9287,4.32542293788825,0.88072009015824,"CF, RF, LF"
-trinity schlotterbeck,"University of Maryland, College Park",3.0835,4.0192464519069215,-0.1164333239263424,"P, RF"
-riley olson,Florida Atlantic University,3.5228,3.7836070550282317,-0.08896503589155197,"CF, RF"
-emily cazares,Arizona State University,0.9896,3.7003203312216755,-2.558654171113664,"RF, LF"
-juliana shields,"University of Massachusetts, Amherst",4.2298,3.3573329319016727,-0.1279549585574744,LF
-destiny falquez,Canisius College,4.3909,3.347684215671183,-0.1141537563844991,3B
-linsey hargis,University of Memphis,2.5672,3.2682771703872104,-0.8103338080237623,"SS, 2B, 3B"
-micaela macario,University of Central Florida,1.776,3.171856635118759,0.3294671878623141,2B
-lily owens,Lehigh University,3.6918,3.057002899580555,1.1987443313372004,"2B, 3B"
-carlee mccondichie,Auburn University,-0.2596,2.6142364125529993,-0.010264608915393714,2B
-kiersten landers,Mississippi State University,-0.4589,2.355514748810953,-1.5306637016388558,"RF, LF"
-megan ryono,Columbia University-Barnard College,2.9564,2.1338412284244455,0.42417456975226586,2B
-lauryn carter,"University of California, Los Angeles",-1.7906,1.4867426779708737,-0.6746927552335591,"CF, RF, LF"
-alexis ross,Florida International University,2.0043,1.4760474616307002,-0.14854947927795725,CF
-megan welsh,Harvard University,2.8847,1.3665821385752936,0.1701625110415641,RF
-michelle leone,Pennsylvania State University,0.2011,1.336838744765213,-1.4193488563922099,"3B, CF"
-taylor fitch,Loyola Marymount University,-0.6081,1.0201251549127854,-3.3200304970432946,"3B, 2B, 1B, C"
-amanda bricker,California Baptist University,1.4727,1.0159341673487658,-3.84217485427607,"2B, SS, 1B"
-alyssa garcia,California Baptist University,-2.2722,1.0051426779708734,-1.5381390827033612,"C, CF"
-alexis gilio,Brigham Young University,-0.3342,0.7509567156509547,0.061452770272573135,"RF, 1B"
-trinity holden,Portland State University,1.7038,0.4691599604116501,0.3405764636772941,RF
-teagan shaw,Harvard University,1.9038,0.38568213857529354,0.4935614018036999,3B
-brooke snyder,Michigan State University,-1.8397,0.02983900303518694,0.15766482021104317,RF
-gabby villa,Loyola Marymount University,-1.9373,-0.3090748450872145,-1.5326791063988965,"2B, SS"
-audrey leclair,University of Michigan,-1.9474,-0.32704838475508513,0.5676488982801673,"3B, RF"
-mackenzie kila,East Carolina University,0.2664,-0.408148592765657,-0.9145966253721519,3B
-baylee howley,University of North Dakota,0.5524,-0.534327708782844,-3.1674285645273192,"1B, C, 2B"
-morgan green,Liberty University,1.1858,-0.7589519209150235,-2.65632247802981,"2B, RF, LF"
-lilly hood,University of Texas at San Antonio,-1.6003,-0.8009310036845548,-0.03353086951445544,"RF, CF"
-alena ball,George Mason University,0.0041,-0.9219774811964517,1.161215128541083,"RF, CF"
-jayne sepulveda,Southern Utah University,-1.1618,-1.3305051988283212,0.166513737568184,2B
-morgan hess,Presbyterian College,-0.5376,-1.4034390926672782,-4.2909304877508605,"RF, P, LF, 3B"
-morgan hess,Presbyterian College,-0.5376,-1.4034390926672782,-0.5500841562302,"RF, P, LF, 3B"
-emily berryhill,Stephen F. Austin State University,-0.8298,-1.4219552173123033,0.05521572298727345,"RF, CF, 2B, LF"
-natalie elias,California Baptist University,-1.2688,-1.725565832651234,-0.11201275951499576,RF
-kennedy thomas,"University of California, Berkeley",-4.5666,-1.8183661458524192,-1.2284794733297688,"LF, CF, C, RF"
-rylie giddens,University of Texas at San Antonio,-2.6588,-1.8594310036845547,-0.28993628659266135,"CF, LF"
-trina hoang,Harvard University,-0.8778,-2.3959178614247065,1.3401380081789402,"2B, SS, LF"
-avery drake,Houston Christian University,-1.9192,-2.4239503345236715,2.163441527594416,"CF, LF"
-ella dalton,University of Nebraska Omaha,-0.2423,-2.429746028845051,0.7696126601797602,"RF, CF, LF"
-meghan gormley,Brown University,-0.8898,-2.504697555501991,-0.48577003690185927,"3B, SS"
-kaitlin lampson,Harvard University,-1.2778,-2.7959178614247064,-1.1838421271722404,"SS, 2B"
-reese wilson,Marist College,-2.3383,-2.9179542077071545,-0.22980240245261485,"3B, 1B, P"
-hayley freudenberg,Lamar University,-2.9115,-3.0129726331824376,-1.8288143756550959,"RF, LF, CF"
-aleyah terrell,Boston College,-5.3338,-3.5264772693423447,-1.8833530352042405,"LF, RF"
-foster sharpe,Radford University,-4.0528,-3.9795559321160963,0.7240568459058518,"2B, RF"
-aubree seaney,Oregon State University,-7.2066,-4.1058871521649385,-3.0945843445573247,"LF, 3B"
-tori meyer,DePaul University,-3.9743,-4.24715241029702,0.45373048728469423,CF
-mckayla carney,Missouri State University,-4.3214,-4.274600348365541,0.8119468767676308,"LF, 3B, RF, 2B"
-sophia recrosio,Canisius College,-3.2829,-4.326115784328818,-1.3668413767872951,"RF, LF"
-grace frazier,DePaul University,-4.3871,-4.65995241029702,0.08607988981765267,RF
-jocylyn vidal,San Jose State University,-5.6507,-4.6731921825302525,-1.2370625671961781,"LF, SS, 1B, 3B"
-olivia eckelman,College of the Holy Cross,-2.8637,-4.674835040048162,-0.3969432893000793,CF
-savannah price,Arizona State University,-7.3908,-4.680079668778324,1.2214865394783014,"SS, 2B, 3B"
-karmyna becerra,California Baptist University,-4.5938,-5.050565832651234,-0.103311822039174,3B
-harlie bickett,Lafayette College,-4.8801,-5.063275785055611,0.16096144313785343,SS
-desirae martinez,Bethune-Cookman University,-3.0996,-5.067938557117276,-0.49577289856565665,2B
-kailyn lorberter,Bucknell University,-3.7778,-5.172934168882999,-0.717341600081431,"2B, 1B"
-sydney yoder,East Carolina University,-4.5397,-5.2142485927656566,0.1729442415882761,"LF, C, RF"
-logan turner,Florida International University,-4.7582,-5.2864525383693,-0.6340773554550431,"RF, LF"
-samantha miller,Coastal Carolina University,-4.1708,-5.330320026545047,-3.0084549990344307,"C, RF, LF, 3B"
-samantha miller,Coastal Carolina University,-4.1708,-5.330320026545047,-3.9402623893148525,"C, RF, LF, 3B"
-samantha miller,Saint Peter's University,-4.1708,-5.330320026545047,-3.0084549990344307,"C, RF, LF, 3B"
-samantha miller,Saint Peter's University,-4.1708,-5.330320026545047,-3.9402623893148525,"C, RF, LF, 3B"
-leslie romero,University of New Mexico,-5.4926,-5.339248807652031,-3.1674285645273192,"C, 2B"
-maicie levitt,Cornell University,-4.5047,-5.394283759910602,0.14687788089689513,SS
-hallie bryant,University of South Florida,-6.4771,-5.554690382758477,-0.6493297039369275,"LF, CF"
-shanel stott,"University of Maryland, Baltimore County",-4.0722,-5.711424427988369,2.7563983102804737,"2B, SS"
-abigail brown,Georgia State University,-5.2886,-5.8168525383693,-0.300148473539953,"1B, 3B"
-morgan medford,Tarleton State University,-5.147,-6.1376325050819664,0.35175874234447146,SS
-maya barnes,Prairie View A&M University,-4.1541,-6.1557718612166745,-0.5846712738286082,"RF, CF"
-emily bracamonte,Central Michigan University,-5.2223,-6.486808571095171,-0.3434172202615121,3B
-korie thomas,"University of California, Santa Barbara",-5.8671,-6.570641338737419,-0.28505971827673304,"3B, 1B"
-riley riendeau,Monmouth University,-5.3854,-6.575812313263299,0.2239400300695329,"1B, 3B"
-sydney carithers,Stephen F. Austin State University,-5.9894,-6.581555217312303,0.4694291805616698,"C, 3B, 2B"
-isabella galloway,Kennesaw State University,-7.0732,-6.598951469324418,-2.0492891478572184,2B
-dawn pawlak,University of Wisconsin-Green Bay,-5.1107,-7.085953611628461,-3.141589197164433,"1B, SS, RF"
-peyton gale,University of Northern Colorado,-4.4474,-7.12232448689416,-0.7182241341975716,3B
-ella mcgalliard,Winthrop University,-6.8582,-7.149721992053797,0.4250019073893613,3B
-keierra bowman,"Southern University, Baton Rouge",-4.6029,-7.549383953946681,-2.570643143987313,"SS, 2B"
-lauren porter,Western Michigan University,-5.7835,-7.758753611628461,-1.3105621289705156,"SS, 1B"
-brianna rodriguez,Brown University,-6.4021,-8.016997555501991,0.2010993125209707,"CF, RF"
-anna greenwell,Eastern Kentucky University,-7.8318,-8.210842874335293,0.47572129451664924,3B
-riley dittmar,Eastern Illinois University,-6.2774,-8.378973696668336,-1.561952018829125,"2B, CF, RF, C"
-eve serrato,Monmouth University,-7.2084,-8.3988123132633,0.2657370882707135,2B
-bianca worthy,Wagner College,-7.1996,-8.705215391565822,0.5717465280809113,"RF, CF"
-skylar padgett,North Dakota State University,-9.0897,-9.558424046927088,0.5907957951319516,2B
-marissa marshall,South Carolina State University,-6.8156,-9.610991046061587,-0.07100492066282404,"3B, 1B"
-rebecca clark,Presbyterian College,-10.5152,-11.04558224142907,0.9261420618949456,LF
-emily whelan,"University of Massachusetts, Amherst",-10.2151,-11.087567068098327,-0.06075351681114144,"LF, RF"
-emma mclaughlin,Siena College,-10.1823,-12.461975765726617,-1.1236627079308015,"1B, RF"
-maria angelino,Dartmouth College,-10.5546,-12.616501942789087,-0.019549247538362846,"1B, 3B"
-alexis chavez,University of Louisiana Monroe,-16.1615,-15.312955670186163,-0.29573054877586125,2B
+taryn kern,"Indiana University, Bloomington",55.3368,57.281143992387605,0.442004464708575,2B
+mya dodge,University of Northern Iowa,34.4272,33.775720082610746,-1.4444351655399752,"CF, LF"
+laura mealer,Middle Tennessee State University,31.3722,32.46124161118813,0.4607544206609464,SS
+korbe otis,University of Louisville,30.625,32.03492761589987,-0.3887864971527954,CF
+anna wohlers,DePaul University,26.9607,26.673533460378362,0.010377550088037535,"3B, C"
+kelsey hall,Boise State University,25.981,26.39871810659398,0.5978225861986858,"CF, RF"
+tanya windle,Utah Tech University,27.0458,25.81552733354184,-0.040690313052013184,CF
+tiffany domingue,University of South Carolina Upstate,24.6576,23.585577403651794,0.8195454224103578,2B
+lauren almeida,Utah Tech University,24.0017,22.77142733354184,0.03132245003143397,SS
+bailey drapola,University of Pittsburgh,20.9943,22.749405677454675,-0.25797954971324855,"CF, LF"
+diamond williams,Coastal Carolina University,21.5368,21.895083189641177,-0.11939195316429876,LF
+amelia lech,"University of Maryland, College Park",20.6228,21.55127546087576,0.8996385160064866,"C, RF"
+alesia denby,"California State University, Fresno",21.4163,21.166854800770327,0.0042015672408461935,SS
+joley mitchell,University of Notre Dame,20.0705,21.047075177621867,0.04742132471429461,3B
+jaden pone,Longwood University,18.782,19.571279678208825,-0.15246607376383903,"2B, SS"
+brooke ellestad,University of St. Thomas (Minnesota),20.2028,19.208869896513647,0.29888350740758196,SS
+kelsey alexander,Central Michigan University,19.9435,18.637053889025154,-0.28190254640021023,LF
+taryn jenkins,Purdue University Fort Wayne,19.0762,16.95358974266038,0.4883978627138075,2B
+savannah favre,University of Texas at El Paso,14.8189,14.803120327063969,0.21117121565898728,RF
+samantha bean,Lamar University,14.507,14.397020670826379,0.2769934702809018,3B
+bailee richardson,Georgia State University,12.5063,13.164518232303168,-0.7323449724828889,"2B, 3B"
+lindsey garcia,Auburn University,9.8274,12.715870693162566,-0.5896090518349085,"RF, LF"
+saige alfaro,Canisius College,13.4839,12.408252309971441,0.16522303687524742,2B
+sierra sacco,Louisiana Tech University,11.5797,12.276723843250963,0.6081543694150409,CF
+camryn middlebrook,Stephen F. Austin State University,12.5262,11.894974066333374,0.4877636425428866,"SS, 2B"
+tremere harris,University of Central Arkansas,9.7501,11.471989208995973,0.24818935541947307,LF
+morgan hess,Presbyterian College,11.8369,11.282806577493076,-4.290020839519808,"RF, P, LF, 3B"
+morgan hess,Presbyterian College,11.8369,11.282806577493076,-0.5499283269386847,"RF, P, LF, 3B"
+kenna higa,Norfolk State University,14.2007,11.211654915864841,0.6370099217663714,"3B, 1B"
+jadin justman,University of Wisconsin-Green Bay,13.1675,11.138030191739361,-0.4470663729110709,2B
+abigail knight,Boston College,8.4122,10.200940056555174,1.0009445190686437,3B
+denver bryant,Auburn University,7.0998,9.988270693162566,-3.979939536148194,"3B, 2B"
+kennedy powell,"University of California, Los Angeles",6.6482,9.952758985603516,-1.3885776122291353,"LF, 3B"
+aniya holt,Eastern Illinois University,10.6934,8.537600159451443,-0.5311273150377297,2B
+jazmine hill,Arizona State University,5.5776,8.306369325136462,-1.2317706824122647,"3B, CF, LF, RF"
+jillian anderson,Southeast Missouri State University,8.9663,8.286552274622105,0.16884317726969658,LF
+kya pratt,Utah State University,8.5465,7.951626060379907,-1.591228899585986,"RF, LF, CF"
+isabel gusman,Jackson State University,11.1228,7.797276627729545,-2.5043094876294663,"C, 3B"
+emma robertson,University of Houston,6.0791,7.186351939863721,-0.7808266406367487,"C, RF"
+carolyn skotz,Yale University,8.2878,7.067407325734197,0.06823544667840409,"2B, SS"
+ryann orange,"Rutgers, The State University of New Jersey, New Brunswick",4.9592,5.719481059719545,-0.5569821556935916,RF
+presley leebrick,Lipscomb University,5.5661,5.635725940545119,0.32752189934616754,RF
+claire raley,Utah State University,5.5118,4.916926060379907,0.3302909968744394,3B
+jaylen prichard,Eastern Illinois University,6.8203,4.664500159451443,-0.22848644687415115,CF
+reagan hukill,University of Texas at Arlington,4.9287,4.3028460006201765,0.8789836739692669,"CF, RF, LF"
+riley olson,Florida Atlantic University,3.5228,3.7752500524745605,-0.09025880971567646,"CF, RF"
+emily cazares,Arizona State University,0.9896,3.718369325136462,-2.5586235804798605,"RF, LF"
+linsey hargis,University of Memphis,2.5672,3.2613284989896005,-0.8097435448873511,"SS, 2B, 3B"
+micaela macario,University of Central Florida,1.776,3.1832193061797223,0.3294008403419728,2B
+lily owens,Lehigh University,3.6918,3.030173077944359,1.1992797842036007,"2B, 3B"
+carlee mccondichie,Auburn University,-0.2596,2.6288706931625656,-0.010294749956898608,2B
+kiersten landers,Mississippi State University,-0.4589,2.375429944745422,-1.530742667765797,"RF, LF"
+hannah hawley,"University of South Carolina, Columbia",-0.5758,2.229173430047203,-0.4596212253803051,"C, RF"
+kylei griffin,University of Louisiana at Lafayette,-1.4285,1.9074810883470792,-1.9554972543212814,"1B, 2B, 3B, SS"
+lauryn carter,"University of California, Los Angeles",-1.7906,1.5139589856035154,-0.676263405301131,"CF, RF, LF"
+alexis ross,Florida International University,2.0043,1.4341833838181055,-0.14993410774754246,CF
+taylor fitch,Loyola Marymount University,-0.6081,1.003171140592464,-3.31901346156749,"3B, 2B, 1B, C"
+amanda bricker,California Baptist University,1.4727,0.9854599927676326,-3.8419559190627655,"2B, SS, 1B"
+alexis gilio,Brigham Young University,-0.3342,0.7443792898845181,0.06154342580350102,"RF, 1B"
+tess altevers harris,University of Illinois Chicago,-0.2049,0.5638335580373638,-1.0518425332074473,"3B, 1B"
+trinity holden,Portland State University,1.7038,0.412713851948431,0.3406373719599695,RF
+brooke snyder,Michigan State University,-1.8397,0.03818902470605945,0.15774522206662225,RF
+audrey leclair,University of Michigan,-1.9474,-0.30585096368903275,0.5683800490895927,"3B, RF"
+gabby villa,Loyola Marymount University,-1.9373,-0.326028859407536,-1.5327063027214427,"2B, SS"
+kamryn jackson,Duke University,-2.8582,-0.39528807094179985,-0.11044211667089246,"LF, CF"
+mackenzie kila,East Carolina University,0.2664,-0.4492448521191718,-0.9138047109352361,3B
+kinley pate,Samford University,-0.5121,-0.528382550409195,0.32113689946704665,"LF, RF, CF"
+baylee howley,University of North Dakota,0.5524,-0.5734947745725201,-3.1671222348851087,"1B, C, 2B"
+lilly hood,University of Texas at San Antonio,-1.6003,-0.7938524547541179,-0.034830551163489945,"RF, CF"
+morgan green,Liberty University,1.1858,-0.8218490123328923,-2.656312713500929,"2B, RF, LF"
+alena ball,George Mason University,0.0041,-0.9549756524775976,1.159788118375543,"RF, CF"
+jayne sepulveda,Southern Utah University,-1.1618,-1.3474996293662582,0.166464756602005,2B
+morgan hess,Presbyterian College,-0.5376,-1.4416233404249237,-4.290020839519808,"RF, P, LF, 3B"
+morgan hess,Presbyterian College,-0.5376,-1.4416233404249237,-0.5499283269386847,"RF, P, LF, 3B"
+emily berryhill,Stephen F. Austin State University,-0.8298,-1.4610259336666256,0.053536048884409576,"RF, CF, 2B, LF"
+natalie elias,California Baptist University,-1.2688,-1.7560400072323672,-0.11190361711856772,RF
+rylie giddens,University of Texas at San Antonio,-2.6588,-1.8523524547541177,-0.29164514636630334,"CF, LF"
+avery drake,Houston Christian University,-1.9192,-2.450227803894801,2.161471202238955,"CF, LF"
+meghan gormley,Brown University,-0.8898,-2.5534946140743564,-0.48518312875249436,"3B, SS"
+reese wilson,Marist College,-2.3383,-2.9363355745763187,-0.229083469078333,"3B, 1B, P"
+hayley freudenberg,Lamar University,-2.9115,-3.0214793291736206,-1.8302620266969047,"RF, LF, CF"
+aleyah terrell,Boston College,-5.3338,-3.5450599434448264,-1.8833944139195453,"LF, RF"
+foster sharpe,Radford University,-4.0528,-3.9892735130999184,0.7240456502815391,"2B, RF"
+aubree seaney,Oregon State University,-7.2066,-4.073630831886631,-3.0938994001569853,"LF, 3B"
+tori meyer,DePaul University,-3.9743,-4.261466539621637,0.452281671603109,CF
+mckayla carney,Missouri State University,-4.3214,-4.286497878360706,0.8122814574345381,"LF, 3B, RF, 2B"
+savannah price,Arizona State University,-7.3908,-4.662030674863537,1.2218602639771503,"SS, 2B, 3B"
+grace frazier,DePaul University,-4.3871,-4.674266539621637,0.08616792074502264,RF
+jocylyn vidal,San Jose State University,-5.6507,-4.704290798573961,-1.2367348904336986,"LF, SS, 1B, 3B"
+karmyna becerra,California Baptist University,-4.5938,-5.081040007232367,-0.10260636923564281,3B
+harlie bickett,Lafayette College,-4.8801,-5.082536556104821,0.16078498423328935,SS
+desirae martinez,Bethune-Cookman University,-3.0996,-5.1187766327428985,-0.49575129718628463,2B
+kailyn lorberter,Bucknell University,-3.7778,-5.215567290122176,-0.7172963853029649,"2B, 1B"
+logan turner,Florida International University,-4.7582,-5.328316616181895,-0.6342518741174727,"RF, LF"
+leslie romero,University of New Mexico,-5.4926,-5.366816645904054,-3.1671222348851087,"C, 2B"
+samantha miller,Saint Peter's University,-4.1708,-5.367751188775109,-3.007342729556388,"C, RF, LF, 3B"
+samantha miller,Saint Peter's University,-4.1708,-5.367751188775109,-3.9394873178657046,"C, RF, LF, 3B"
+samantha miller,Coastal Carolina University,-4.1708,-5.367751188775109,-3.007342729556388,"C, RF, LF, 3B"
+samantha miller,Coastal Carolina University,-4.1708,-5.367751188775109,-3.9394873178657046,"C, RF, LF, 3B"
+ciara hanson,Presbyterian College,-4.9904,-5.544493422506923,-1.0846299466762126,"C, 3B"
+hallie bryant,University of South Florida,-6.4771,-5.567220271922806,-0.6510002618198356,"LF, CF"
+shanel stott,"University of Maryland, Baltimore County",-4.0722,-5.75123668524453,2.755914011054439,"2B, SS"
+abigail brown,Georgia State University,-5.2886,-5.858716616181894,-0.2994220431237158,"1B, 3B"
+morgan medford,Tarleton State University,-5.147,-6.164839162613449,0.35156194946339614,SS
+maya barnes,Prairie View A&M University,-4.1541,-6.214146536536111,-0.5859122183986472,"RF, CF"
+jocelynn molina,"California State University, Bakersfield",-6.7435,-6.399858709368515,-0.6854081564723946,"C, 3B"
+julia thuer,Monmouth University,-5.1828,-6.408637315887449,0.45006423461757356,"RF, 1B"
+emily bracamonte,Central Michigan University,-5.2223,-6.528746110974846,-0.3426861785343014,3B
+korie thomas,"University of California, Santa Barbara",-5.8671,-6.601684945941822,-0.28433489592516115,"3B, 1B"
+isabella galloway,Kennesaw State University,-7.0732,-6.6085060381804634,-2.049101982483733,2B
+riley riendeau,Monmouth University,-5.3854,-6.611237315887449,0.22461060642826292,"1B, 3B"
+sydney carithers,Stephen F. Austin State University,-5.9894,-6.620625933666625,0.4700423592512697,"C, 3B, 2B"
+ella mcgalliard,Winthrop University,-6.8582,-7.175497478302969,0.4256510558373834,3B
+peyton gale,University of Northern Colorado,-4.4474,-7.194331312319484,-0.7174531479060727,3B
+keierra bowman,"Southern University, Baton Rouge",-4.6029,-7.626579405945861,-2.5705597206289332,"SS, 2B"
+brianna rodriguez,Brown University,-6.4021,-8.065794614074356,0.19977462546237207,"CF, RF"
+riley dittmar,Eastern Illinois University,-6.2774,-8.433199840548557,-1.5631200459410004,"2B, CF, RF, C"
+eve serrato,Monmouth University,-7.2084,-8.434237315887449,0.265677532703684,2B
+skylar padgett,North Dakota State University,-9.0897,-9.593417620510666,0.5907015968517517,2B
+marissa marshall,South Carolina State University,-6.8156,-9.68246105705698,-0.07030291092571184,"3B, 1B"
+kennedy foote,Western Kentucky University,-11.979,-10.803583644470084,-0.44387738077015837,"2B, 1B, 3B"
+rebecca clark,Presbyterian College,-10.5152,-11.069293422506924,0.9257040600760977,LF
+nicolette ramirez,Lamar University,-12.2601,-12.37007932917362,-0.7469577325723433,"2B, SS"
+emma mclaughlin,Siena College,-10.1823,-12.521826466172616,-1.123445750243622,"1B, RF"
+alexis chavez,University of Louisiana Monroe,-16.1615,-15.329963719953792,-0.29573026665236335,2B

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿Year,NCAA ID,First Name,Last Name,Initiated Date,Last Updated,D,Institution,Sport,Sport Conference,
 22-23,1912761183,HAYLEE,GARCIA,6/2/23,6/2/23,II,"California State University, Dominguez Hills",Softball,California Collegiate Athletic Association,
 22-23,1908662158,ALLISON,BENNING,6/2/23,6/2/23,I,University of Oregon,Softball,Pac-12 Conference,
@@ -58,3 +59,13 @@
 22-23,2108297862,CASSIE,GRIZZARD,5/26/23,5/26/23,I,University of Louisville,Softball,Atlantic Coast Conference,
 22-23,1908666408,ANASTACIA,ARMIJO,5/26/23,5/26/23,II,Christian Brothers University,Softball,Gulf South Conference,
 22-23,2008901627,SARAH,GORDON,5/26/23,5/26/23,I,University of Louisville,Softball,Atlantic Coast Conference,
+=======
+﻿Year,NCAA ID,First Name,Last Name,Initiated Date,Last Updated,D,Institution,Sport,Sport Conference
+22-23,1909674682,MADELYN,VOLPE,6/5/2023,45082,I,Coastal Carolina University,Softball,Sun Belt Conference
+22-23,2107283519,TARYN,KERN,6/5/2023,45082,I,"Indiana University, Bloomington",Softball,Big Ten Conference
+22-23,1912766355,ALEXIS,RODRIGUEZ,6/4/2023,45081,II,Black Hills State University,Softball,Rocky Mountain Athletic Conference
+22-23,2009918580,REBECCA,LANDIS,6/4/2023,45081,III,University of Mount Union,Softball,Ohio Athletic Conference
+22-23,2008908305,CARLEEN,MURRAY,6/4/2023,45082,I,Howard University,Softball,Mid-Eastern Athletic Conf.
+22-23,2010946006,MADALYN,MELTON,6/3/2023,45080,II,The University of Texas at Tyler,Softball,Lone Star Conference
+22-23,2108298664,RITA,NUSS,6/3/2023,45080,I,Purdue University,Softball,Big Ten Conference
+>>>>>>> Stashed changes

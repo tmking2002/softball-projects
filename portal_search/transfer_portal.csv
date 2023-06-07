@@ -1,4 +1,53 @@
 ﻿Year,NCAA ID,First Name,Last Name,Initiated Date,Last Updated,D,Institution,Sport,Sport Conference
+<<<<<<< Updated upstream
+=======
+22-23,1808264911,ALIANA,ZAVALA,45084,45084,I,University of Memphis,Softball,American Athletic Conference
+22-23,1702732745,KELLEY,LYNCH,45084,45084,I,University of Washington,Softball,Pac-12 Conference
+22-23,1809308261,ALYSSA,GARCIA,45083,45083,I,"University of California, Los Angeles",Softball,Pac-12 Conference
+22-23,1510313212,KAYLEE,ERICKSON,45083,45083,I,Brigham Young University,Softball,West Coast Conference
+22-23,2106199628,RYLEIGH,BAKER,45083,45083,I,Alabama State University,Softball,Southwestern Athletic Conf.
+22-23,2007896266,SHAUNESSY,CARDWELL,45083,45083,I,"California State University, Fresno",Softball,Mountain West Conference
+22-23,2007890894,MARGARET,MURPHY,45083,45083,I,Miami University (Ohio),Softball,Mid-American Conference
+22-23,2011957579,TATUM,CLOPTON,45083,45083,I,Oklahoma State University,Softball,Big 12 Conference
+22-23,1909672699,TAKIYA,HILL,45083,45083,I,Jackson State University,Softball,Southwestern Athletic Conf.
+22-23,2009916916,AUDREY,JOHNSON,45083,45083,I,Louisiana State University,Softball,Southeastern Conference
+22-23,1908662163,JAYLA,BROOKS,45083,45083,I,University of Delaware,Softball,Colonial Athletic Association
+22-23,1809283097,BRADIANNE,GLOVER,45083,45084,I,"University of Nevada, Reno",Softball,Mountain West Conference
+22-23,1804183344,KEMIAH,MICHEL-GODINEZ,45083,45083,I,East Tennessee State University,Softball,Southern Conference
+22-23,1804170222,HALLE,MORRIS,45083,45083,I,University of Utah,Softball,Pac-12 Conference
+22-23,2110352143,LAINEE,BAILEY,45083,45083,I,Southeastern Louisiana University,Softball,Southland Conference
+22-23,1704772548,AUDRY,FLEMING,45083,45084,I,Lamar University,Softball,Southland Conference
+22-23,2010938092,MIA,REYNOLDS,45082,45082,I,Utah State University,Softball,Mountain West Conference
+22-23,1910705314,JADA,CECIL,45082,45082,I,"University of California, San Diego",Softball,Big West Conference
+22-23,1812378919,RACHEL,GIBSON,45082,45082,I,Clemson University,Softball,Atlantic Coast Conference
+22-23,1906595399,KELSEY,PIZARRO,45082,45083,I,Lamar University,Softball,Southland Conference
+22-23,2008913533,LAURELAI,DEPEW,45082,45082,I,Miami University (Ohio),Softball,Mid-American Conference
+22-23,1909679687,TAYLOR,TURNER,45082,45082,I,Miami University (Ohio),Softball,Mid-American Conference
+22-23,2006872288,OLIVIA,LOSTORTO,45082,45082,I,Southern Utah University,Softball,Western Athletic Conference
+22-23,1807240919,MAKALA,STRICKLAND,45082,45082,I,East Tennessee State University,Softball,Southern Conference
+22-23,1909674682,MADELYN,VOLPE,45082,45082,I,Coastal Carolina University,Softball,Sun Belt Conference
+22-23,2107283519,TARYN,KERN,45082,45082,I,"Indiana University, Bloomington",Softball,Big Ten Conference
+22-23,1912766355,ALEXIS,RODRIGUEZ,45081,45081,II,Black Hills State University,Softball,Rocky Mountain Athletic Conference
+22-23,2009918580,REBECCA,LANDIS,45081,45081,III,University of Mount Union,Softball,Ohio Athletic Conference
+22-23,2008908305,CARLEEN,MURRAY,45081,45082,I,Howard University,Softball,Mid-Eastern Athletic Conf.
+22-23,2010946006,MADALYN,MELTON,45080,45080,II,The University of Texas at Tyler,Softball,Lone Star Conference
+22-23,2108298664,RITA,NUSS,45080,45080,I,Purdue University,Softball,Big Ten Conference
+22-23,1809284862,DEIJAH,PANGILINAN,45079,45079,I,University of Oregon,Softball,Pac-12 Conference
+22-23,1808277658,COURTNEY,DAY,45079,45079,I,University of Texas at Austin,Softball,Big 12 Conference
+22-23,2107278817,MAKANALEI,LAPERA,45079,45079,II,Adams State University,Softball,Rocky Mountain Athletic Conference
+22-23,2004850764,SAVANNAH,SIMONS,45079,45079,II,Georgian Court University,Softball,Central Atlantic Collegiate Conference
+22-23,2010938464,ALEXI,WATKINS,45079,45079,II,Nova Southeastern University,Softball,Sunshine State Conference
+22-23,1810332541,TAYLOR,NICHOLSON,45079,45079,I,Arizona State University,Softball,Pac-12 Conference
+22-23,2004837703,SOPHIA,FURNISS,45079,45079,II,Colorado School of Mines,Softball,Rocky Mountain Athletic Conference
+22-23,2011962973,TRINITY,BRANDON,45079,45080,I,San Diego State University,Softball,Mountain West Conference
+22-23,1912761183,HAYLEE,GARCIA,45079,45079,II,"California State University, Dominguez Hills",Softball,California Collegiate Athletic Association
+22-23,1809288326,BRAYNKA,BROWN,45079,45079,II,Fayetteville State University,Softball,Central Intercollegiate Athletic Association
+22-23,1908662158,ALLISON,BENNING,45079,45079,I,University of Oregon,Softball,Pac-12 Conference
+22-23,1606514251,SHELBY,SHEPHERD,45079,45079,I,Tennessee State University,Softball,Ohio Valley Conference
+22-23,2010934643,MARY,O'NEILL,45079,45079,I,Fordham University,Softball,Atlantic 10 Conference
+22-23,1908659444,ZAQUAI,DUMAS,45079,45079,I,Michigan State University,Softball,Big Ten Conference
+22-23,2110356340,JORDYN,VILLANUEVA,45078,45078,I,Bethune-Cookman University,Softball,Southwestern Athletic Conf.
+>>>>>>> Stashed changes
 22-23,1910728922,GRACE,KMAK,45078,45078,I,Saint Louis University,Softball,Atlantic 10 Conference
 22-23,2102104159,SAMANTHA,ROE,45078,45078,I,University of Florida,Softball,Southeastern Conference
 22-23,1909686010,CAITLYN,WELLS,45078,45078,II,The University of Texas at Tyler,Softball,Lone Star Conference
@@ -1020,4 +1069,8 @@
 22-23,1801109500,ABIGAIL,KNIGHT,44986,44987,I,Boston College,Softball,Atlantic Coast Conference
 22-23,1609604743,ALEJANDRA,CASAS,44986,44987,I,Saint Mary's College of California,Softball,West Coast Conference
 22-23,2106202596,SUSAN,LORD,44986,44986,III,Cazenovia College,Softball,North Atlantic Conference
+<<<<<<< Updated upstream
 22-23,2207613971,MARISSA,MARTINEZ,44986,44986,III,Finlandia University,Softball,Coast-To-Coast Athletic Conference
+=======
+22-23,2207613971,MARISSA,MARTINEZ,44986,44986,III,Finlandia University,Softball,Coast-To-Coast Athletic Conference
+>>>>>>> Stashed changes

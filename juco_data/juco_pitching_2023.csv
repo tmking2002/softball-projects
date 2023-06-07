@@ -1,0 +1,1587 @@
+no,first_name,last_name,yr,pos,app,gs,w,l,sv,cg,ip,h,r,er,bb,k,k_7,hr,era,team_name,division
+24,Jessie,Garcia,Freshman,RHP/INF,27,26,11,13,1,16,130.1,153,105,57,22,99,5.32,17,3.06,Arizona Western,1
+16,Emily,Gamboa,Freshman,RHP/INF,27,16,12,9,1,10,128,147,100,66,34,101,5.52,10,3.61,Arizona Western,1
+14,Summer,Simpson,Freshman,RHP/INF,20,1,2,1,1,0,52.1,90,84,64,29,24,3.21,12,8.56,Arizona Western,1
+18,Elisa,Garcia,Sophomore,RHP/INF,11,10,1,6,0,2,32,44,36,21,21,11,2.41,5,4.59,Arizona Western,1
+28,Tinley,Schmidgall,Sophomore,RHP/INF,7,6,3,0,0,0,19,31,16,13,5,10,3.68,1,4.79,Arizona Western,1
+15,Zamara,Gutierrez,Sophomore,RHP/INF,7,2,2,1,0,0,12.1,27,23,16,5,5,2.84,3,9.08,Arizona Western,1
+25,Jasmine,Molina,Sophomore,RHP/IF,5,1,0,1,0,0,10.2,19,15,11,13,5,3.28,1,7.22,Arizona Western,1
+10,Mollie,Forbes,Freshman,RHP/OF,5,0,0,0,0,0,4.2,8,7,5,7,3,4.5,1,7.5,Arizona Western,1
+24,Jessica,Mercado,Sophomore,NA,37,28,21,9,3,26,190,185,107,87,56,174,6.41,14,3.21,Central Arizona,1
+18,Dezeray,Levario,Sophomore,NA,23,21,15,6,0,13,112.1,138,101,86,71,62,3.86,9,5.36,Central Arizona,1
+3,Katelyn,Westover,Freshman,NA,10,5,3,1,0,3,38.1,50,39,33,18,10,1.83,9,6.03,Central Arizona,1
+26,Lisette,Urquidez,Sophomore,NA,7,7,3,3,0,5,37,57,43,36,18,20,3.78,6,6.81,Central Arizona,1
+20,Kiana,Villa,Freshman,NA,1,0,0,0,0,0,3,8,4,4,2,2,4.67,0,9.33,Central Arizona,1
+4,Jaileen,Mancha,Sophomore,P,37,22,22,3,4,19,167.1,96,55,38,47,255,10.67,7,1.59,Eastern Arizona,1
+2,Christa,Zagala,Sophomore,P,32,26,15,9,2,14,144,170,117,82,49,165,8.02,27,3.99,Eastern Arizona,1
+27,Lauren,Salcido,Sophomore,P,22,15,7,7,1,6,69.2,95,63,48,11,29,2.91,8,4.82,Eastern Arizona,1
+7,Wendy,Castro,Sophomore,LHP,29,1,14,6,0,0,131,230,142,115,49,47,2.51,19,6.15,Pima,1
+25,Alexis,Tsosie-Hood,Freshman,P,22,2,11,9,0,1,97,137,85,75,36,56,4.04,16,5.41,Pima,1
+16,Genesis,Zazueta,Freshman,RHP,15,0,6,6,0,0,68,104,81,61,26,26,2.68,18,6.28,Pima,1
+20,Alissandra,Montiel,Sophomore,RHP,15,0,2,4,0,0,31,66,54,44,10,7,1.58,11,9.94,Pima,1
+26,Maria,Galloway,Freshman,P/INF,10,0,0,0,0,0,16,30,20,17,13,4,1.75,5,7.44,Pima,1
+8,Madison,Fillman-Moreno,Freshman,OF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pima,1
+2,Abbie,Bean,Freshman,P,26,23,3,20,0,15,119.2,268,244,206,106,64,3.74,24,12.05,Yavapai,1
+22,Genavie,Espinoza,Sophomore,P/UTL,23,13,2,12,0,7,79,167,182,142,95,63,5.58,14,12.58,Yavapai,1
+4,Shiya,Romero,Freshman,P/OF,20,12,1,10,0,8,69,193,190,159,69,29,2.94,22,16.13,Yavapai,1
+7,Sydney,Jones,Sophomore,C/UTL,1,0,0,0,0,0,0.1,1,3,3,2,1,21,1,63,Yavapai,1
+11,Caitlyn,Collier,Sophomore,P,22,21,5,6,0,13,123,136,100,70,54,87,4.95,16,3.98,Connors State,1
+7,Brooke,Wyatt,Freshman,P,22,20,4,2,0,8,99.1,121,87,65,45,57,4.02,9,4.58,Connors State,1
+8,Meliah,Hunter,Sophomore,P,21,5,0,2,0,1,47.1,67,42,31,9,19,2.81,2,4.58,Connors State,1
+14,Jadyn,Muns,Freshman,IF,8,0,0,1,0,0,10.1,20,16,7,4,3,2.03,1,4.74,Connors State,1
+17,Payton,Shelton,Sophomore,P,2,1,0,1,0,1,9,8,12,7,10,8,6.22,1,5.44,Connors State,1
+16,Alyssa,Opgenorth,Freshman,P,3,1,0,2,0,0,3.2,14,20,13,3,3,5.73,3,24.82,Connors State,1
+17,Makenzie,Martin,Freshman,RHP/1B,30,26,18,9,0,19,157.2,173,116,81,39,114,5.06,22,3.6,Eastern Oklahoma State,1
+8,Chloe,Brown,Freshman,RHP,31,25,15,8,0,16,139.1,174,120,88,66,87,4.37,18,4.42,Eastern Oklahoma State,1
+15,Khloe,Haile,Freshman,RHP/UT,5,1,0,1,0,0,8,12,10,8,6,4,3.5,2,7,Eastern Oklahoma State,1
+19,Brinn,Brassfield,Freshman,RHP,3,0,0,1,0,0,7.1,13,7,7,4,3,2.86,2,6.68,Eastern Oklahoma State,1
+18,Madison,Martin,Sophomore,RHP,6,0,0,0,0,0,4.2,7,4,2,1,3,4.5,0,3,Eastern Oklahoma State,1
+2,Lillie,Johnson,Freshman,P,25,21,6,9,1,8,106,110,86,61,65,86,5.68,11,4.03,Northeastern Oklahoma A&amp;M,1
+8,Kalan,Nye,Freshman,P,23,16,4,8,1,6,90.1,118,88,70,45,64,4.96,13,5.42,Northeastern Oklahoma A&amp;M,1
+14,Kayla,Paulo,Sophomore,"P, 1ST",20,12,5,3,0,5,83.2,94,72,43,58,48,4.02,4,3.6,Northeastern Oklahoma A&amp;M,1
+7,Halle,Panter,Freshman,P,15,4,1,3,0,2,41.2,51,51,31,30,16,2.69,3,5.21,Northeastern Oklahoma A&amp;M,1
+17,Emilee,Evans,Freshman,P,8,2,1,1,0,1,21.1,24,18,7,6,4,1.31,2,2.3,Northeastern Oklahoma A&amp;M,1
+20,Skyler,Wade,Freshman,P,3,1,0,0,0,0,7,15,15,11,9,1,1,0,11,Northeastern Oklahoma A&amp;M,1
+3,Hadley,Calico,Freshman,UTL,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,Northeastern Oklahoma A&amp;M,1
+1,Molly,Dolan,Sophomore,P,28,22,13,9,0,12,126,113,80,60,96,55,3.06,5,3.33,Northern Oklahoma Enid,1
+21,Paige,Castillo,Freshman,,15,12,6,5,0,5,68,67,45,34,23,67,6.9,11,3.5,Northern Oklahoma Enid,1
+15,Alycyn,Nash,Freshman,,24,6,3,3,1,0,53.2,78,75,60,32,23,3,14,7.83,Northern Oklahoma Enid,1
+4,Anna,Hester,Sophomore,,10,8,2,4,0,0,28.2,31,38,27,25,13,3.17,0,6.59,Northern Oklahoma Enid,1
+0,McKennah,Cusick,Freshman,P,7,0,1,0,0,0,10,7,10,8,13,10,7,2,5.6,Northern Oklahoma Enid,1
+2,Lauren,Bratcher,Sophomore,RHP,33,27,15,12,0,20,167.2,154,135,95,111,216,9.02,17,3.97,Northern Oklahoma Tonkawa,1
+10,Emma,Enderud,Sophomore,LHP,28,17,7,8,3,10,118,148,119,89,53,114,6.76,13,5.28,Northern Oklahoma Tonkawa,1
+17,Ashlyne,Roblyer,Freshman,RHP,14,6,2,2,0,1,27.2,47,41,32,22,8,2.02,1,8.1,Northern Oklahoma Tonkawa,1
+24,Alayna,Long,Freshman,RHP,1,1,0,1,0,0,2.1,4,8,8,3,2,6,1,24,Northern Oklahoma Tonkawa,1
+7,Emma,Strange,Sophomore,NA,32,22,15,4,2,10,136,181,95,55,27,77,3.96,9,2.83,Rose State,1
+20,Addie,Wilson,Freshman,NA,23,13,7,4,1,5,78,73,48,34,42,79,7.09,10,3.05,Rose State,1
+3,Harley,Sturm,Sophomore,NA,16,12,4,3,0,3,62,74,50,41,26,34,3.84,8,4.63,Rose State,1
+15,Morgan,Thomas,Freshman,NA,21,4,1,2,3,0,49.1,55,28,17,19,26,3.69,3,2.41,Rose State,1
+2,Abby,Turnpaugh,Freshman,NA,9,2,1,2,0,0,15.2,28,20,13,7,6,2.68,2,5.81,Rose State,1
+22,Kayla,Richardson,Sophomore,NA,5,0,1,0,0,0,7.2,17,10,7,3,2,1.83,1,6.39,Rose State,1
+55,Hailey,Voyles,Sophomore,NA,4,1,0,1,0,0,7.1,11,8,5,3,4,3.82,1,4.77,Rose State,1
+18,Hunter,Jonas,Freshman,NA,4,1,0,0,0,0,5.1,12,15,13,5,2,2.63,0,17.06,Rose State,1
+30,Allison,Lee,Freshman,NA,2,1,0,1,0,0,0.2,1,6,2,3,0,0,0,21,Rose State,1
+1,Britney,Lewinski,Sophomore,P,34,26,20,4,0,18,164,82,35,16,40,226,9.65,8,0.68,Seminole State (OK),1
+24,Tess,Eubank,Sophomore,P,22,14,10,1,0,8,84,63,36,24,18,92,7.67,9,2,Seminole State (OK),1
+35,Bethaney,Noble,Freshman,P,20,11,7,2,1,5,69.1,48,20,18,23,86,8.68,6,1.82,Seminole State (OK),1
+4,Danyn,Lang,Sophomore,UTL,1,0,0,0,0,0,0.1,1,1,1,2,0,0,0,21,Seminole State (OK),1
+5,Kaylee,Bradley,Sophomore,NA,33,27,11,11,0,18,154.1,193,141,69,37,100,4.54,0,3.13,Western Oklahoma State,1
+19,Whitley,Townsend,Sophomore,NA,16,1,0,5,0,0,41.2,81,63,43,19,15,2.52,0,7.22,Western Oklahoma State,1
+16,Teagan,Hays,Sophomore,NA,5,1,0,1,0,0,8.1,24,22,20,4,2,1.68,0,16.8,Western Oklahoma State,1
+3,Ryleigh,Pennington,Freshman,NA,1,1,0,0,0,0,1.1,2,5,5,3,0,0,0,26.25,Western Oklahoma State,1
+13,Madalyne,Martinez,Sophomore,P/1B,19,15,7,6,0,7,90.1,114,113,66,70,77,5.97,11,5.11,Cisco,1
+16,Kayla,Camacho,Sophomore,,18,13,6,0,2,9,77.1,73,51,40,46,97,8.78,8,3.62,Cisco,1
+4,"Akaysia ""KK""",Grogan,Freshman,,14,12,5,4,0,8,69,75,51,42,41,79,8.01,9,4.26,Cisco,1
+20,Addy,Rich,Sophomore,P/1B,20,8,4,4,0,3,62.1,93,70,42,28,35,3.93,3,4.72,Cisco,1
+22,Harley,Staton,Freshman,,12,8,4,3,0,4,40.2,57,48,20,21,33,5.68,5,3.44,Cisco,1
+24,Mackenzie,McClellan,Sophomore,1B/P,5,1,1,0,0,1,10.2,25,20,20,5,6,3.94,1,13.13,Cisco,1
+10,Sierra,Bittner,Freshman,,2,1,0,2,0,0,5.1,13,10,4,0,2,2.63,3,5.25,Cisco,1
+21,Caitlyn,Sanguinet,Freshman,,3,0,0,0,0,0,1,6,8,6,4,0,0,1,42,Cisco,1
+15,Zaeli,Jimenez,Freshman,RHP,17,11,1,9,0,4,45,122,129,105,32,18,2.8,7,16.33,Clarendon,1
+12,Paola,Zamacona,Sophomore,RHP/OF,12,9,1,6,0,4,39.2,85,126,101,52,34,6,3,17.82,Clarendon,1
+23,Anyssa,Chapa,Sophomore,3B,11,5,0,5,0,3,39.1,94,127,92,31,8,1.42,5,16.37,Clarendon,1
+22,Alexis,Roberson,Sophomore,RHP/OF,12,5,0,5,0,1,27,92,92,71,17,3,0.78,9,18.41,Clarendon,1
+1,Amyiah,Alaniz,Sophomore,RHP/SS,1,0,0,0,0,0,2,8,11,11,4,0,0,1,38.5,Clarendon,1
+14,Marissa,Reza,Freshman,OF/P,20,13,3,13,0,6,72.2,181,169,148,73,25,2.41,13,14.26,El Paso,1
+4,Isabella,McCauley,Freshman,OF/P,15,8,3,3,0,4,52,73,53,45,35,34,4.58,8,6.06,El Paso,1
+12,Sadie,Gordillo,Sophomore,OF/P,10,8,2,5,0,6,46.2,112,87,81,37,18,2.7,19,12.15,El Paso,1
+3,Jasmine,Olivas,Freshman,OF/P,8,5,0,5,0,3,29.2,51,64,55,46,16,3.78,4,12.98,El Paso,1
+2,Samantha,Ojeda,Sophomore,OF/P,4,4,0,4,0,2,20.2,30,32,29,20,4,1.35,3,9.82,El Paso,1
+21,Amber,Poorbaugh,Sophomore,NA,25,21,9,5,1,19,122,166,106,86,33,84,4.82,18,4.93,Frank Phillips,1
+15,Kailey,Gull,Freshman,NA,21,16,3,5,1,13,90.1,168,122,109,52,40,3.1,13,8.45,Frank Phillips,1
+19,Brenna,Straughan,Freshman,NA,6,5,0,4,0,0,23.1,51,40,36,10,13,3.9,7,10.8,Frank Phillips,1
+16,Jordyn,Ages,Sophomore,NA,43,26,27,6,1,15,195,196,96,74,69,191,6.86,22,2.66,Grayson,1
+21,Bailey,Ross,Sophomore,NA,38,20,18,1,1,6,135.2,153,86,61,45,69,3.56,12,3.15,Grayson,1
+14,Bailey,Kite,Sophomore,NA,16,12,4,2,0,2,31,26,31,26,42,24,5.42,2,5.87,Grayson,1
+18,Eileigh,Whyte,Sophomore,P/1B,31,21,9,9,0,17,179.1,215,130,92,26,170,6.64,27,3.59,Hill,1
+10,Chloe,Randall,Freshman,P,31,29,1,12,0,5,113.1,189,167,121,70,57,3.52,31,7.47,Hill,1
+7,Karolyn,Carter,Freshman,P/CINF,22,2,2,1,0,0,32.1,75,79,48,27,9,1.95,9,10.39,Hill,1
+22,Catalina,Sanchez,Freshman,P/3B,23,6,0,3,0,0,31,58,44,35,10,8,1.81,10,7.9,Hill,1
+8,Adrianna,Phillips,Freshman,P,34,25,9,11,1,12,120.1,187,167,134,65,65,3.78,26,7.8,Howard (TX),1
+20,Reagan,Avants,Freshman,P,17,10,4,6,1,6,73.2,105,74,58,31,39,3.71,17,5.51,Howard (TX),1
+2,Emily,Cordova,Freshman,P,13,9,4,1,0,4,48.1,101,83,66,29,17,2.46,13,9.56,Howard (TX),1
+6,Rose,Flores,Freshman,Utility,15,3,2,2,0,0,24.2,41,32,20,9,8,2.27,4,5.68,Howard (TX),1
+25,Daniela,Mejia,Freshman,IF,6,1,1,0,0,0,11,28,37,28,12,4,2.55,4,17.82,Howard (TX),1
+22,Makenzi,Jenkins,Freshman,P/1B,21,17,15,3,1,10,114.2,113,53,51,26,74,4.52,8,3.11,McLennan,1
+33,Brinly,Maples,Freshman,P,19,17,11,3,1,7,82.1,93,53,46,28,66,5.61,7,3.91,McLennan,1
+20,Katia,Reyes,Freshman,P,17,10,10,4,0,5,76,80,53,32,29,61,5.62,9,2.95,McLennan,1
+8,Matalyn,Wolkow,Sophomore,P,26,10,7,1,3,6,63.1,65,30,24,13,16,1.77,6,2.65,McLennan,1
+27,Ainsley,Davis,Freshman,P,6,3,1,2,0,1,16,22,15,15,6,11,4.81,2,6.56,McLennan,1
+5,Blanca,Sanchez,Freshman,,31,18,16,3,2,9,119,136,89,71,59,81,4.76,7,4.18,Midland,1
+10,Rikki,Wilkie,Freshman,,27,16,12,5,0,7,107,134,88,77,45,82,5.36,17,5.04,Midland,1
+9,Zoey,De Baca,Sophomore,,26,17,11,4,1,7,77.2,78,58,41,23,49,4.42,11,3.7,Midland,1
+14,Samantha,Rodriguez,Sophomore,P,7,2,1,2,0,0,13.1,19,22,19,16,3,1.57,5,9.97,Midland,1
+13,Azalea,Ramos,Freshman,,6,2,0,0,0,1,7.2,15,16,15,10,2,1.83,0,13.7,Midland,1
+37,Alexis,Tanguma,Sophomore,NA,25,20,8,8,2,7,99,89,63,45,49,53,3.75,0,3.18,North Central Texas,1
+21,Maddie,Strickling,Sophomore,NA,25,12,5,6,0,2,68,106,75,47,24,25,2.57,0,4.84,North Central Texas,1
+33,Raylea,Parsons,Freshman,NA,18,11,6,5,2,3,54.1,46,35,30,18,41,5.28,0,3.87,North Central Texas,1
+23,Annie-Klein,Allgood,Freshman,NA,24,4,7,1,1,1,53,72,49,32,15,23,3.04,0,4.23,North Central Texas,1
+12,Kennedy,Schroeder,Freshman,NA,19,7,4,2,1,2,41,62,42,32,18,22,3.76,0,5.46,North Central Texas,1
+8,Alliana,Bryant,Freshman,NA,8,0,0,1,0,0,13,15,14,12,13,5,2.69,0,6.46,North Central Texas,1
+14,Rayna,Cruickshanks,Sophomore,RHP,31,31,28,2,0,13,150.2,97,42,38,39,194,9.01,8,1.77,Odessa,1
+19,Emily,Brouse,Sophomore,RHP,29,22,18,3,2,10,110.2,68,38,30,55,137,8.67,5,1.9,Odessa,1
+9,Avery,Truss,Freshman,RHP,21,2,4,0,1,0,41,49,23,19,16,30,5.12,1,3.24,Odessa,1
+23,Mia,Perez,Freshman,RHP,13,5,4,1,0,1,36,37,28,22,33,42,8.17,2,4.28,Odessa,1
+12,Maya,Mongelli,Sophomore,RHP/C,8,0,0,0,2,0,9.2,4,0,0,1,5,3.62,0,0,Odessa,1
+14,Payton,Kadner,Freshman,,23,12,0,14,0,3,58,148,164,120,48,15,1.81,11,14.48,Ranger,1
+27,Chelsea,Zizzo,Freshman,P,26,9,0,10,0,3,57.1,133,125,94,19,18,2.2,16,11.48,Ranger,1
+28,Sarah,Gonzalez,Freshman,,23,17,0,14,0,0,51,145,142,101,35,19,2.61,13,13.86,Ranger,1
+12,Mia,Nemavides,Sophomore,,14,10,0,7,0,2,31.1,60,72,49,33,13,2.9,7,10.95,Ranger,1
+18,Annesty,Rainey,Freshman,,11,0,0,0,0,0,15.1,41,39,31,17,4,1.83,0,14.15,Ranger,1
+17,Emilee,Till,Sophomore,IF,8,0,0,2,0,0,9,32,26,25,7,3,2.33,5,19.44,Ranger,1
+8,Promise,Crews,Freshman,P,11,0,0,0,0,0,4.2,16,17,11,10,3,4.5,3,16.5,Ranger,1
+19,Savanah,Petersen,Freshman,IF,5,1,0,1,0,0,4,16,22,21,11,0,0,1,36.75,Ranger,1
+24,Lauren,Tetreault,Sophomore,RHP,35,29,16,11,0,9,139.2,132,98,57,48,194,9.72,10,2.86,Temple,1
+21,Shaylann,Grace,Sophomore,,29,14,19,3,0,6,129.1,108,71,48,22,139,7.52,18,2.6,Temple,1
+10,Audrie,Sayas,Freshman,,33,7,3,3,5,1,66,82,48,42,29,34,3.61,8,4.45,Temple,1
+18,Alexis,Belen,Freshman,,17,8,2,0,0,0,18.1,20,19,16,11,14,5.35,1,6.11,Temple,1
+5,Aahmyri,Kennedy,Sophomore,OF,1,0,0,0,0,0,5,7,6,3,2,4,5.6,1,4.2,Temple,1
+27,Kylee,Pierce,,,5,0,1,0,0,0,4,9,10,7,3,4,7,2,12.25,Temple,1
+77,Abbie,Bird,Sophomore,NA,27,25,12,13,0,23,148.2,231,194,158,98,116,5.46,17,7.44,Vernon,1
+22,Ryleigh,Ashford,Freshman,NA,21,20,7,13,0,17,97.1,196,131,116,50,36,2.59,18,8.34,Vernon,1
+12,Anslie,Roach,Freshman,NA,7,5,2,3,0,4,32,47,34,23,20,2,0.44,5,5.03,Vernon,1
+10,Mia,Garcia,Freshman,NA,1,0,0,0,0,0,3.1,8,10,6,7,1,2.1,1,12.6,Vernon,1
+9,Mia,Garcia,Sophomore,NA,1,0,0,0,0,0,1,3,4,3,3,1,7,0,21,Vernon,1
+19,Amelia,Hatthorn,Sophomore,P,26,1,14,4,1,1,118.1,119,73,60,39,80,4.73,8,3.55,Weatherford,1
+11,Averie,Gunther,Sophomore,P/OF,21,0,8,2,0,0,100.1,108,67,44,25,98,6.84,11,3.07,Weatherford,1
+32,Teoni,Lamb,Sophomore,P,24,0,12,1,1,0,86,63,37,21,27,96,7.81,1,1.71,Weatherford,1
+18,Chloe,Sales,Sophomore,IF/P,15,0,2,1,3,0,31.2,28,26,11,13,29,6.41,0,2.43,Weatherford,1
+10,Mikayla,Marrujo,Freshman,P,3,0,0,0,0,0,3.1,6,4,3,4,4,8.4,0,6.3,Weatherford,1
+24,Charlee,Horton,Sophomore,C,1,0,0,0,0,0,1,1,1,0,0,2,14,0,0,Weatherford,1
+1,Emma,Duncan,Sophomore,P/OF,30,24,17,3,0,19,146.1,90,63,40,60,260,12.44,7,1.91,Western Texas,1
+11,Destiny,Sanchez,Freshman,P/1B,19,8,2,3,0,0,52,103,85,53,19,10,1.35,7,7.13,Western Texas,1
+10,Alyssa,Hurt,Sophomore,,17,8,1,3,0,1,28.1,67,74,62,28,16,3.95,10,15.32,Western Texas,1
+23,Bianca,Gomez,Freshman,P/SS/S/,9,5,0,0,0,1,22.2,38,45,33,22,14,4.32,2,10.19,Western Texas,1
+22,Patricia,Murguia,Freshman,OF/P,4,0,0,0,0,0,3,12,10,9,1,2,4.67,2,21,Western Texas,1
+21,Emily,Greenfield,Sophomore,P/OF,1,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0,Western Texas,1
+21,Jenna,Henderson,Sophomore,,20,18,7,10,0,9,86,110,69,49,42,79,6.43,8,3.99,Barton,1
+7,Jessica,Morgan,Sophomore,RHP/UT,19,13,9,3,0,5,75,78,63,35,29,91,8.49,7,3.27,Barton,1
+13,Kayla,Beers,Sophomore,RHP,25,9,6,4,0,2,67,75,61,46,35,63,6.58,10,4.81,Barton,1
+24,KayLee,Richardson,Freshman,,13,6,4,2,0,2,37.1,39,32,28,18,31,5.81,4,5.25,Barton,1
+29,Sydni,Williams,Sophomore,RHP/INF,8,6,4,2,0,3,36,45,28,20,18,24,4.67,5,3.89,Barton,1
+15,Julia,Carey,Sophomore,RHP/UT,5,0,0,1,0,0,8.1,12,6,5,3,3,2.52,2,4.2,Barton,1
+7,Allyson,Montgomery,Sophomore,RHP,35,33,25,4,1,13,163.2,108,72,51,100,260,11.12,14,2.18,Butler,1
+24,Emma,Koeneke,Sophomore,RHP,31,22,16,6,2,5,113.1,115,76,59,54,109,6.73,13,3.64,Butler,1
+5,Lena,Walter,Freshman,RHP/INF,22,1,2,1,4,1,42.2,43,35,26,25,29,4.76,8,4.27,Butler,1
+34,Ariel,Matula,Sophomore,RHP,19,2,3,0,0,1,34.2,42,24,19,14,30,6.06,6,3.84,Butler,1
+21,Cheyenne,Handsaker,Freshman,RHP/OF,4,0,0,1,0,0,2.2,4,3,3,0,3,7.88,1,7.88,Butler,1
+34,Abby,Sims,Sophomore,P/OF,35,30,23,7,1,18,167.2,130,88,67,57,207,8.64,17,2.8,Colby,1
+20,Alexa,Wade,Sophomore,P/1B,34,22,16,6,0,17,151,168,96,68,73,120,5.56,15,3.15,Colby,1
+6,Ellie,Garrie,Freshman,MI/OF,2,1,0,1,0,0,4.1,10,13,11,4,3,4.85,2,17.77,Colby,1
+6,K'Lee,Flores,Sophomore,P,36,24,11,15,1,16,149,239,188,156,83,94,4.42,42,7.33,Dodge City,1
+11,Dalaney,Utajara,Freshman,P/INF,29,23,8,14,1,8,106.2,201,145,121,49,33,2.17,20,7.94,Dodge City,1
+13,Camryn,Lenz,Freshman,OF,10,2,0,1,0,0,18,27,25,24,11,6,2.33,3,9.33,Dodge City,1
+24,Alicyn,O'Neill,Sophomore,P/OF,1,0,0,0,0,0,2,4,3,3,2,1,3.5,0,10.5,Dodge City,1
+4,Raemie,Lopp,Sophomore,P,2,0,0,0,0,0,1,2,2,0,0,0,0,0,0,Dodge City,1
+18,CJ,Sherman,Freshman,P,34,15,7,4,0,2,77.1,135,151,84,62,37,3.35,15,7.6,Garden City,1
+10,Tori,Olson,Freshman,P/OF,21,8,4,8,0,4,69.2,98,99,64,44,47,4.72,19,6.43,Garden City,1
+2,Alexis,Garcia,Sophomore,P/OF,24,16,5,11,0,3,63.1,114,117,87,50,35,3.87,12,9.62,Garden City,1
+15,Maggie,Geise,Freshman,P,24,3,2,1,0,1,39,85,56,40,17,20,3.59,8,7.18,Garden City,1
+12,Lacey,Kearlsey,Sophomore,P/1B,10,9,3,6,0,1,31,54,45,29,11,22,4.97,6,6.55,Garden City,1
+12,Morgan,Pennycuff,Sophomore,P,24,23,17,4,0,4,87.1,74,45,41,30,81,6.49,11,3.29,Hutchinson,1
+19,Riley,Wertz,Sophomore,P,35,0,3,1,8,0,67.1,41,23,16,30,117,12.16,7,1.66,Hutchinson,1
+3,Emily,Munson,Sophomore,P,19,16,7,1,1,1,54.2,64,34,30,16,34,4.35,0,3.84,Hutchinson,1
+13,Kierstan,Weitze,Sophomore,P,19,4,10,1,0,0,40,46,23,15,11,43,7.52,3,2.63,Hutchinson,1
+21,Korri,Lies,Freshman,,11,2,3,1,0,1,30.1,23,15,10,11,20,4.62,4,2.31,Hutchinson,1
+11,Delaney,Blakesley,Freshman,P,13,7,4,0,0,0,28.1,23,10,10,4,22,5.44,2,2.47,Hutchinson,1
+14,Cheylene,Valdez-Asato,Freshman,IF,27,19,0,8,0,10,96.1,283,328,239,130,40,2.91,23,17.37,Northwest Kansas Tech,1
+19,Faith,Sandoval,Freshman,P,22,13,0,10,0,7,59.2,202,220,155,44,19,2.23,17,18.18,Northwest Kansas Tech,1
+10,Valadean,Jones,Freshman,OF,5,2,0,1,0,0,5.1,13,21,17,10,5,6.56,1,22.31,Northwest Kansas Tech,1
+13,Bryanna,Gallagher,Sophomore,P,28,13,0,6,0,3,78,143,166,109,88,28,2.51,12,9.78,Pratt,1
+21,Brylee,Ray,Freshman,,24,4,0,3,0,0,36.2,95,94,67,25,11,2.1,9,12.79,Pratt,1
+27,Macie,McCray,Sophomore,P,16,2,0,3,0,0,35,96,109,78,38,12,2.4,10,15.6,Pratt,1
+7,Lauren,Galliher,Freshman,,19,9,1,6,0,0,34.2,110,123,92,37,14,2.83,12,18.58,Pratt,1
+11,Aspen,DeFrain,Freshman,,14,6,0,2,0,2,33.2,72,77,57,36,15,3.12,8,11.85,Pratt,1
+14,Naveya,Gardner,Freshman,,2,0,0,0,0,0,1.1,8,7,0,2,0,0,0,0,Pratt,1
+10,NaTalia,Sewell,Freshman,,28,15,9,9,0,8,120.1,147,105,74,50,120,6.98,14,4.3,Seward County,1
+4,Aaliyah,Gutierrez,Freshman,,28,16,4,14,0,5,102,176,150,95,44,51,3.5,19,6.52,Seward County,1
+11,Corina,McClure,Freshman,,22,11,6,8,0,2,50,99,110,71,41,39,5.46,6,9.94,Seward County,1
+3,Ashanti,Thompson,Sophomore,P/OF,17,2,1,2,0,1,30,50,54,32,25,19,4.43,3,7.47,Seward County,1
+9,Alyson,Smith,Sophomore,P,21,15,13,3,1,9,98.2,97,56,38,27,83,5.89,10,2.7,Chattanooga State,1
+28,Madison,Murphy,Freshman,P,21,18,14,5,0,9,98.1,77,60,43,49,94,6.69,18,3.06,Chattanooga State,1
+23,Jessica,Cord,Freshman,P,13,11,7,2,0,6,52.1,56,44,34,24,36,4.82,7,4.55,Chattanooga State,1
+27,Taylor,Gajdik,Freshman,P,12,6,5,1,1,4,45,44,26,22,12,44,6.84,10,3.42,Chattanooga State,1
+4,Olivia,Smith,Sophomore,P,15,4,5,1,1,2,44.2,39,23,21,6,26,4.07,8,3.29,Chattanooga State,1
+7,Rayne,Gray,Sophomore,P,8,4,2,0,0,0,21.2,29,21,12,10,12,3.88,2,3.88,Chattanooga State,1
+16,Hadley,Burnette,Sophomore,P/OF,26,22,16,7,0,20,145,182,115,98,54,124,5.99,29,4.73,Cleveland State,1
+35,Bailee,Phillips,Sophomore,P/U,24,23,13,10,1,16,139.1,161,98,90,49,106,5.33,24,4.52,Cleveland State,1
+11,Kylie,Hayes,Freshman,P/OF,7,3,3,0,0,2,25.2,40,23,23,11,13,3.55,6,6.27,Cleveland State,1
+4,Emily,Higgins,Sophomore,P/IF,1,1,0,1,0,0,3,7,4,4,0,2,4.67,2,9.33,Cleveland State,1
+4,Samantha,Staggs,Freshman,"P, IF",25,15,2,9,0,5,90,150,157,115,79,69,5.37,25,8.94,Columbia State,1
+1,Kyia,Quigle,Sophomore,"P, 2B",21,18,0,13,0,7,88.1,148,154,123,57,35,2.77,22,9.75,Columbia State,1
+13,Steffani,Schrader,Sophomore,"P, OF",17,16,1,9,0,4,70,136,116,89,29,43,4.3,10,8.9,Columbia State,1
+14,Tori,Spears,Freshman,"P, 1B",18,2,0,1,0,1,32.2,69,60,43,25,13,2.79,4,9.21,Columbia State,1
+5,Timber,Creasy,Freshman,"2B,P",9,1,0,1,0,0,16.2,44,43,23,5,4,1.68,8,9.66,Columbia State,1
+9,Jaylee,Lopez,Freshman,OF,1,0,0,0,0,0,0.1,3,4,3,0,0,0,1,63,Columbia State,1
+33,Payton,Reasons,Sophomore,P,27,23,18,7,1,4,147.1,144,80,59,44,147,6.98,17,2.8,Dyersburg State,1
+28,Cadey,McDaniel,Freshman,P,22,22,14,7,0,1,130,148,95,60,18,103,5.55,10,3.23,Dyersburg State,1
+11,Cora,Bogue,Freshman,INF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dyersburg State,1
+21,Kassidy,Davis,Sophomore,P/OF/1st,35,27,6,14,0,11,147.2,208,123,99,37,93,4.41,22,4.69,Jackson State,1
+20,Callie,Chrystak,Freshman,P/1st,37,18,3,8,0,6,127,189,131,96,16,54,2.98,14,5.29,Jackson State,1
+28,Kaley,Haggard,Freshman,P/Utl,16,8,1,5,0,3,38,67,59,43,11,5,0.92,11,7.92,Jackson State,1
+23,Breanna,Ramsey,Freshman,SS/Utl,1,0,0,0,0,0,1.2,1,0,0,3,1,4.2,0,0,Jackson State,1
+34,Lanie,Stafford,Freshman,1st,1,0,0,0,0,0,0,1,5,5,3,0,0,0,Inf,Jackson State,1
+5,Mary,Bradley,Freshman,NA,41,6,9,15,2,1,145.2,174,142,90,55,161,7.74,26,4.32,Motlow State,1
+11,Hannah,Burks,Sophomore,NA,30,3,7,7,0,0,89.1,137,91,63,40,38,2.98,6,4.94,Motlow State,1
+1,Susanna,Cruit,Sophomore,NA,27,1,2,6,0,0,54.2,82,68,54,33,19,2.43,13,6.91,Motlow State,1
+20,Lameisha,Parker,Sophomore,NA,5,0,0,1,0,0,6.1,18,16,15,5,0,0,1,16.58,Motlow State,1
+13,Michalee,Clay,Freshman,NA,3,0,0,1,0,0,2.2,8,8,6,2,0,0,0,15.75,Motlow State,1
+7,Hanna,McReynolds,Freshman,P/UTL,32,9,4,17,1,3,115.2,162,124,97,46,57,3.45,18,5.87,Roane State,1
+34,Whitney,Carr,Sophomore,P/UTL,32,23,3,8,1,3,76.2,134,133,111,70,32,2.92,14,10.13,Roane State,1
+11,Zoie,Sullivan,Freshman,P/UTL,18,11,4,7,0,1,61,111,83,62,32,24,2.75,12,7.11,Roane State,1
+20,Mercedes,Brazzell,Freshman,P/UTL,15,8,3,5,0,3,53,83,68,47,29,37,4.89,10,6.21,Roane State,1
+0,Jenifer,Diehl,Freshman,P/2B,35,25,9,11,2,13,140.2,220,147,113,45,113,5.62,24,5.62,Southwest Tennessee,1
+6,Cailey,Robbins,Freshman,P,37,23,8,14,0,11,128.1,226,168,132,61,43,2.35,14,7.2,Southwest Tennessee,1
+3,Maleyia,Prather,Freshman,P/OF,17,5,4,6,1,0,43.1,48,36,27,18,36,5.82,2,4.36,Southwest Tennessee,1
+13,Mary Faith,McCluskey,Freshman,3B/C/P,6,3,2,1,0,1,14.2,24,25,20,15,2,0.95,2,9.55,Southwest Tennessee,1
+10,Addie,Middleton,Freshman,OF,3,1,0,1,0,0,1.2,9,9,8,6,1,4.2,1,33.6,Southwest Tennessee,1
+28,Shelbe,Sisk,Sophomore,OF/1B,1,0,0,0,0,0,0.2,1,1,1,0,0,0,1,10.5,Southwest Tennessee,1
+18,Halle Grace,Patton,Sophomore,NA,35,24,20,7,0,18,163.2,204,118,81,43,126,5.39,14,3.46,Volunteer State,1
+17,Madison,Croxford,Freshman,NA,29,24,14,7,0,13,134.1,137,94,58,58,83,4.33,20,3.02,Volunteer State,1
+7,Reagan,Swims,Freshman,NA,5,2,2,0,0,1,10,27,19,11,5,3,2.1,6,7.7,Volunteer State,1
+24,Cheyenne,Lester,Freshman,NA,1,1,1,0,0,0,3,6,3,3,0,0,0,1,7,Volunteer State,1
+24,Tori,Coffman,Freshman,P,36,31,32,1,2,21,185,90,33,30,74,296,11.2,13,1.14,Walters State,1
+34,Ashley,Milligan,Sophomore,P,30,26,21,3,1,12,142.1,106,63,52,74,167,8.21,13,2.56,Walters State,1
+17,Abigayle,Holt,Sophomore,P,11,1,1,0,0,1,14,15,6,1,3,4,2,1,0.5,Walters State,1
+8,Adrienne,Morrison,Sophomore,P,8,0,0,0,1,0,8.1,11,2,1,4,9,7.56,0,0.84,Walters State,1
+15,Haley,Guffey,Freshman,P,34,33,27,5,0,17,180,121,64,41,43,190,7.39,15,1.59,Central Florida,1
+33,Anna,Toon,Sophomore,P/1B,21,13,9,3,0,5,92,86,53,35,27,80,6.09,10,2.66,Central Florida,1
+16,Ashley,Martinec,Freshman,P,19,4,6,2,0,3,54.2,60,32,13,6,23,2.95,4,1.66,Central Florida,1
+17,Emma,Wyman,Freshman,P,18,9,4,3,0,2,51.2,45,27,18,27,53,7.18,7,2.44,Central Florida,1
+2,Gianna,Guerriero,Sophomore,OF,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,Central Florida,1
+7,Charity,Bibbs,Sophomore,RHP/UT,27,22,12,9,1,12,142,120,70,51,38,106,5.23,19,2.51,Chipola,1
+21,Amari,Brown,Freshman,RHP/UT,20,15,9,6,0,5,87.1,80,53,27,25,46,3.69,4,2.16,Chipola,1
+26,Sydney,Watson,Sophomore,RHP,16,10,3,5,0,2,48.1,46,40,28,35,27,3.91,0,4.06,Chipola,1
+99,Dymond,Roundtree,Freshman,RHP/ 1B,18,5,2,1,0,0,45.1,38,17,15,14,34,5.25,2,2.32,Chipola,1
+27,Riley,Reese,Sophomore,LHP,8,1,0,2,0,0,8.2,10,15,6,3,6,4.85,0,4.85,Chipola,1
+6,Hannah,Atwood,Sophomore,RHP/ UT,5,0,1,0,0,0,6,5,4,4,5,2,2.33,0,4.67,Chipola,1
+21,Emma,Ream,Freshman,P,34,24,8,16,0,13,160.1,173,97,67,49,101,4.41,9,2.93,Daytona State,1
+9,Madison,Mitzel,Freshman,P,31,15,11,8,0,4,103.2,153,97,77,29,27,1.82,7,5.2,Daytona State,1
+19,Mariah,Rivera,Sophomore,P,25,21,6,11,0,10,97.2,140,97,64,48,32,2.29,7,4.59,Daytona State,1
+4,Shelby,Harden,Freshman,,11,0,0,0,0,0,15.2,22,24,19,11,2,0.89,2,8.49,Daytona State,1
+15,Mandy,Hedetniemi-Taylor,Sophomore,P,31,23,9,8,3,18,144,122,61,42,24,125,6.08,6,2.04,Eastern Florida State,1
+25,Trinity,Howard,Sophomore,P,19,13,6,4,1,3,86.2,98,78,47,44,58,4.68,2,3.8,Eastern Florida State,1
+10,Destiny,Lake,Freshman,P,16,8,2,4,0,1,42.2,65,53,37,18,17,2.79,0,6.07,Eastern Florida State,1
+26,Kat,Wisor,Freshman,P,11,7,1,2,0,2,34,46,31,26,8,9,1.85,4,5.35,Eastern Florida State,1
+61,Madisyn,Langford,Freshman,P,3,0,0,0,0,0,9,11,10,8,6,4,3.11,0,6.22,Eastern Florida State,1
+18,Ariana,Gonzales,Sophomore,IF,3,0,0,0,0,0,4.1,10,4,4,1,1,1.62,0,6.46,Eastern Florida State,1
+18,Belle,Sardja,Sophomore,RHP,36,29,25,2,5,18,175,131,40,22,22,121,4.84,2,0.88,Florida SouthWestern State,1
+24,Lea,Chevrier,Freshman,RHP,28,12,13,2,6,4,102.2,90,40,30,41,113,7.7,6,2.05,Florida SouthWestern State,1
+8,Kylee,Graham,Sophomore,LHP,22,11,12,1,2,1,64,55,28,16,25,53,5.8,0,1.75,Florida SouthWestern State,1
+42,Samantha,Smith,Sophomore,RHP,12,4,3,0,0,0,24.2,24,16,12,14,21,5.96,3,3.41,Florida SouthWestern State,1
+12,Esmee,Ames,Freshman,RHP,10,3,1,0,0,0,15,11,7,4,16,18,8.4,0,1.87,Florida SouthWestern State,1
+1,Lexi,Shelby,Freshman,Pitcher,31,20,14,9,1,12,129.2,123,79,64,55,116,6.26,9,3.46,Gulf Coast State,1
+12,Marissa,Barnes,Freshman,P/1st,27,18,7,7,1,6,98.2,92,64,51,60,83,5.89,2,3.62,Gulf Coast State,1
+34,Kyrstyn,Head,Sophomore,P/DP,14,4,3,3,0,0,39.1,34,29,17,22,22,3.92,3,3.03,Gulf Coast State,1
+24,Olivia,Mardirosian,Sophomore,P/U,14,4,2,2,0,1,26.2,24,25,17,14,22,5.77,1,4.46,Gulf Coast State,1
+10,Bristol,Lovrekovic,Sophomore,P/DP,7,4,2,0,1,1,21.2,31,22,14,4,9,2.91,1,4.52,Gulf Coast State,1
+6,Rachael,Lee,Freshman,OF,2,0,0,0,0,0,3,2,2,1,2,1,2.33,1,2.33,Gulf Coast State,1
+13,Marisa,Mellone,Jr,P,23,1,5,1,2,1,104.1,108,61,43,16,61,4.09,1,2.88,Hillsborough,1
+11,Ashleigh,Penix,Jr,P/ 1B,16,1,3,1,0,1,92.2,101,64,31,22,51,3.85,8,2.34,Hillsborough,1
+7,Shaniyah,Pope,Sophomore,P,18,3,4,3,0,2,92.2,129,87,48,24,33,2.49,10,3.63,Hillsborough,1
+1,Mackenzie,Peters,Freshman,P/SB,4,0,0,1,0,0,16,21,22,10,11,8,3.5,2,4.38,Hillsborough,1
+16,Alyssa,Miranda,Freshman,P/FB,2,0,0,0,0,0,2.2,6,4,3,0,0,0,0,7.88,Hillsborough,1
+27,Alina,Varga,Sophomore,P,41,5,25,7,4,5,184,136,62,43,75,205,7.8,6,1.64,Indian River State,1
+7,Dominique,Prevette,Sophomore,P,31,2,20,3,3,0,132,84,38,20,32,153,8.11,4,1.06,Indian River State,1
+19,Emma,Solis,Freshman,P,16,0,1,2,1,0,37.1,39,23,15,19,29,5.44,4,2.81,Indian River State,1
+10,Mackenzie,Masternak,Freshman,P,11,0,1,0,0,0,20,19,23,13,17,17,5.95,2,4.55,Indian River State,1
+0,Maria,Navarro,Sophomore,P,20,15,6,8,1,10,98.2,108,79,41,44,49,3.48,5,2.91,Miami Dade,1
+2,Ashlyn,Blanchard,Sophomore,P,14,10,4,6,0,4,58.2,75,52,28,21,18,2.15,0,3.34,Miami Dade,1
+25,Mckenna,Thompson,Sophomore,P,10,6,4,4,0,3,42.1,50,39,23,26,36,5.95,1,3.8,Miami Dade,1
+17,Gina,Gallegos,Sophomore,P,14,5,0,1,0,0,35,47,34,20,14,20,4,3,4,Miami Dade,1
+34,Chryssia,Catalan,Sophomore,P,4,2,0,2,0,2,21,21,17,8,12,4,1.33,1,2.67,Miami Dade,1
+23,Julia,Petty,Sophomore,RHP,42,28,28,7,1,12,188.2,145,96,72,77,205,7.61,15,2.67,Northwest Florida State,1
+6,Allison,Brunson,Sophomore,RHP,29,27,18,3,0,13,128.2,105,56,41,64,93,5.06,3,2.23,Northwest Florida State,1
+16,Emma,Langston,Sophomore,"RHP, OF",23,4,4,0,1,3,56,46,19,16,14,57,7.13,6,2,Northwest Florida State,1
+13,Rycca,Hinton,Sophomore,"RHP, UT",14,9,7,1,0,5,47.1,42,17,11,24,41,6.06,3,1.63,Northwest Florida State,1
+20,Rani,Meaux,Freshman,IF,2,0,0,0,0,0,3,0,0,0,0,5,11.67,0,0,Northwest Florida State,1
+14,Lydia,Drake,Sophomore,P,28,26,19,7,0,21,161,132,66,45,20,180,7.83,16,1.96,Pensacola State,1
+15,Madison,Sabo,Freshman,P,17,10,7,5,0,1,65,70,45,21,10,30,3.23,7,2.26,Pensacola State,1
+9,Gabriella,Lindsey,Freshman,P,16,7,4,3,0,1,53.2,54,35,18,20,39,5.09,5,2.35,Pensacola State,1
+10,Presley,Williams,Sophomore,P,17,2,2,1,0,0,24,35,29,18,8,12,3.5,2,5.25,Pensacola State,1
+8,Georgia,Hood,Sophomore,P/1B,3,2,1,0,0,0,8.1,6,4,3,4,8,6.72,1,2.52,Pensacola State,1
+12,Cara,Willis,Freshman,OF,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Pensacola State,1
+52,Baileigh,Herrera,NA,NA,23,14,6,8,1,8,99.2,97,61,41,20,75,5.27,5,2.88,Polk State,1
+11,Kyra,Ward,NA,NA,22,14,5,10,0,8,96,91,71,55,42,80,5.83,1,4.01,Polk State,1
+16,Kailey,Guethle,NA,NA,14,7,6,5,0,4,53.2,53,38,17,15,35,4.57,2,2.22,Polk State,1
+21,Jacey,Bisbee,NA,NA,4,3,0,2,0,0,10.2,19,13,11,7,1,0.66,1,7.22,Polk State,1
+20,Kensley,Durrance,Sophomore,,30,24,15,9,1,14,155,147,67,47,40,116,5.24,9,2.12,Santa Fe,1
+13,Sophie,Abrams,Sophomore,P,31,23,11,9,1,7,131,142,88,66,63,59,3.15,8,3.53,Santa Fe,1
+14,Sydney,Fowler,Freshman,,15,5,3,3,1,1,45.2,48,24,20,12,24,3.68,7,3.07,Santa Fe,1
+12,Calen,Hayes,Sophomore,,7,0,0,1,0,0,8.1,10,10,8,2,1,0.84,3,6.72,Santa Fe,1
+27,Darian,Ingram,Sophomore,P,4,0,1,0,0,0,6,2,5,5,8,12,14,1,5.83,Santa Fe,1
+11,Keivana,Durand,Sophomore,NA,31,25,19,8,1,18,164,124,68,51,40,178,7.6,10,2.18,Seminole State (FL),1
+9,Tori,Beland,Freshman,NA,23,15,13,5,1,9,105.1,99,51,28,29,71,4.72,5,1.86,Seminole State (FL),1
+7,Angelina,Badalament,Sophomore,NA,20,18,13,1,0,9,99.2,85,35,28,37,72,5.06,3,1.97,Seminole State (FL),1
+22,Brianna,Johnsen,Freshman,NA,8,1,0,0,0,0,12,18,12,6,7,3,1.75,3,3.5,Seminole State (FL),1
+12,Dazha,Durand,Sophomore,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Seminole State (FL),1
+11,Justice,McCraine,Sophomore,P,35,13,12,6,4,4,127,158,84,58,39,61,3.36,3,3.2,St. Petersburg,1
+10,Kaylee,Childers,Freshman,P,25,18,11,3,0,6,85.1,112,56,47,30,37,3.04,4,3.86,St. Petersburg,1
+24,Kassidy,Goopaster,Freshman,P,20,13,5,8,0,2,60.2,94,49,38,9,44,5.08,1,4.38,St. Petersburg,1
+9,Sydney,Sackett,Freshman,P,17,6,4,1,0,0,37,71,43,32,17,10,1.89,3,6.05,St. Petersburg,1
+6,Karsyn,Rutherford,Freshman,P/UT,25,19,5,3,0,13,119.1,154,96,53,22,45,2.64,4,3.11,State College of Florida,1
+19,Brielle,Bostow,Freshman,P/UT,27,22,4,4,0,8,101.2,127,91,52,37,55,3.79,7,3.58,State College of Florida,1
+22,Sam,Carlin,Sophomore,P/UT,22,6,5,2,1,1,71,109,79,43,19,28,2.76,4,4.24,State College of Florida,1
+7,Brittany,Michael,Sophomore,P,19,13,8,7,0,8,89,82,43,32,22,75,5.9,7,2.52,Tallahassee,1
+10,Sydney,Ray,Sophomore,P,22,15,4,3,0,4,75,62,41,24,34,60,5.6,2,2.24,Tallahassee,1
+25,Kailynn,James,Sophomore,P,14,9,3,5,1,5,57.1,53,28,23,20,28,3.42,5,2.81,Tallahassee,1
+8,Jolee,Camp,Freshman,P,15,5,5,5,1,1,53.1,52,22,10,13,44,5.77,0,1.31,Tallahassee,1
+6,Teagan,Kehm,Freshman,RHP,25,21,1,12,0,7,78.2,226,249,180,76,17,1.51,24,16.02,Lamar,1
+12,Arika,Tercero,Freshman,RHP,21,16,2,14,0,3,55.2,151,196,134,79,22,2.77,12,16.85,Lamar,1
+2,Abcde,Garcia,Sophomore,IF,22,2,1,2,0,0,33,105,109,64,24,9,1.91,16,13.58,Lamar,1
+22,Mia,Knight,Sophomore,IF,18,3,0,3,0,1,26,78,103,80,43,10,2.69,11,21.54,Lamar,1
+1,Aubree,Leyba,Sophomore,OF,3,0,0,0,0,0,3.1,6,8,8,5,0,0,2,16.8,Lamar,1
+24,Alex,Villafranca,Freshman,3B,1,0,0,0,0,0,1,6,4,4,1,0,0,1,28,Lamar,1
+23,Elisha,Velasquez,Freshman,UT,28,1,9,4,0,1,127.2,205,138,114,67,110,6.03,12,6.25,Luna,1
+27,Reegan,Wilson,Sophomore,UT,18,2,1,4,0,2,63,152,125,93,32,23,2.56,4,10.33,Luna,1
+29,Valaree,Manzanares,Sophomore,UT,17,1,1,2,0,0,44,77,64,49,16,16,2.55,3,7.8,Luna,1
+1,Madelyn,Johnson,Sophomore,UT,9,0,1,2,0,0,17.2,42,39,26,7,3,1.19,7,10.3,Luna,1
+28,Angelica,Ortiz,Freshman,UT,1,0,0,0,0,0,5,13,10,9,2,2,2.8,1,12.6,Luna,1
+11,Angelica,Angel,Sophomore,UT,3,0,0,1,0,0,2,9,7,7,1,0,0,0,24.5,Luna,1
+22,Judith,Ayala,Freshman,UT,2,0,0,0,0,0,1,5,3,1,3,0,0,0,7,Luna,1
+4,Keira,Touchton,Sophomore,UT,1,0,0,0,0,0,1,1,1,0,2,1,7,0,0,Luna,1
+14,Ella,Covill-Marter,Freshman,P/IB,34,28,12,10,0,20,174,199,149,103,52,235,9.45,33,4.14,McCook,1
+13,Hailee,Ruble,Sophomore,P/IB,26,15,7,10,0,9,96.2,157,127,79,49,50,3.62,14,5.72,McCook,1
+32,Isabella,Robertson,Freshman,P,23,15,6,7,0,5,86.2,115,85,74,38,52,4.2,22,5.98,McCook,1
+15,Delaney,Barrett,Sophomore,P,31,20,19,4,1,18,148.2,195,121,92,61,49,2.31,9,4.33,Northeastern,1
+21,Michaela,Moorehouse,Sophomore,P/OF,23,21,13,2,0,16,110.2,175,130,103,59,36,2.28,10,6.52,Northeastern,1
+21,Courtney,Miller,Sophomore,P/1B,36,0,5,2,0,0,150.1,269,262,133,78,65,3.03,45,6.19,Otero,1
+30,Kayla,Crocker,Freshman,3B/P,16,0,0,0,0,0,68.1,113,113,80,66,17,1.74,17,8.2,Otero,1
+3,Jaelyn,Montoya,Freshman,OF/P,22,3,0,3,0,0,40,78,75,50,28,11,1.93,16,8.75,Otero,1
+12,Sidney,Larrew,Freshman,OF/MI,17,0,0,0,0,0,26,44,58,47,38,8,2.15,7,12.65,Otero,1
+11,Brooklyn,Ruiz,Sophomore,MI,2,1,0,1,0,0,2.2,10,17,14,7,0,0,2,36.75,Otero,1
+6,Kaylynn,Du Preez,Sophomore,OF,1,0,0,0,0,0,0,0,3,3,3,0,0,0,Inf,Otero,1
+7,Delilah,Segoviano,Freshman,OF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Otero,1
+13,Torie,Sandoval,Freshman,P,34,1,22,6,0,1,166,150,90,56,48,185,7.8,14,2.36,Trinidad State,1
+8,Kirstin,Ferguson,Sophomore,P,25,0,14,5,0,0,108,92,82,53,65,102,6.61,7,3.44,Trinidad State,1
+3,Hannah,Crouch,Sophomore,P,16,1,2,2,0,0,34,42,35,24,19,42,8.65,5,4.94,Trinidad State,1
+1,Jenisah,Mora,Freshman,SS,2,0,0,0,0,0,3,13,10,5,5,3,7,1,11.67,Trinidad State,1
+17,Caley,Leslie,Sophomore,P,36,16,6,12,0,8,119.1,252,217,154,72,47,2.76,28,9.03,Western Nebraska,1
+1,DesaRae,Woolsey,Sophomore,P,31,23,4,15,0,6,101.1,197,183,146,58,48,3.32,32,10.09,Western Nebraska,1
+23,Avery,Fox,Sophomore,P,10,8,1,8,0,3,37,67,46,37,19,22,4.16,8,7,Western Nebraska,1
+10,Kyla,Quiles,Freshman,RHP,31,19,4,2,2,9,137.2,115,94,61,57,141,7.17,19,3.1,Florence-Darlington Tech,1
+27,Deja,Smith,Sophomore,LHP,26,13,4,2,1,8,87,96,89,52,52,58,4.67,11,4.18,Florence-Darlington Tech,1
+14,Kiley,Holland,Freshman,RHP,19,13,2,0,1,3,67.1,93,58,41,28,19,1.98,6,4.26,Florence-Darlington Tech,1
+12,Brantleigh,Parrott,Freshman,NA,36,18,24,1,6,14,166.2,76,17,13,25,305,12.81,4,0.55,Gaston College,1
+27,Amiya,Tomlinson,Freshman,NA,27,21,9,4,0,1,95.1,120,113,68,88,58,4.26,7,4.99,Gaston College,1
+18,Tessa,Hunt,Freshman,NA,22,14,9,5,0,2,83,125,86,64,21,45,3.8,9,5.4,Gaston College,1
+25,Madie,Andrews,Sophomore,P/1B,23,0,8,3,1,0,135.1,167,103,66,33,87,4.5,14,3.41,Spartanburg Methodist,1
+8,Samantha,Carver,Sophomore,P/2B,22,1,6,3,0,1,102.2,173,111,69,10,47,3.2,12,4.7,Spartanburg Methodist,1
+33,Kennedy,Broyles,Freshman,P/CIF,8,0,2,2,1,0,23.2,50,35,31,6,12,3.55,2,9.17,Spartanburg Methodist,1
+16,Gracie,Cobb,Sophomore,1B/P,3,0,0,0,0,0,6,11,9,9,7,2,2.33,1,10.5,Spartanburg Methodist,1
+17,Kaylee,Barrett,Freshman,2nd/RHP,22,14,0,11,1,8,77.1,179,161,125,38,20,1.81,14,11.31,USC Sumter,1
+29,Aubrey,Brown,Sophomore,RHP,17,12,1,9,0,5,63.1,140,123,76,27,33,3.65,10,8.4,USC Sumter,1
+18,Savannah,Coyne,,RHP/UT,3,3,0,3,0,1,16.2,52,37,19,5,10,4.2,2,7.98,USC Sumter,1
+27,Madison,Starling-Martin,Freshman,3rd,1,1,0,1,0,0,3,16,14,12,1,0,0,0,28,USC Sumter,1
+13,Alexandra,Bell,Sophomore,RHP,24,13,16,4,0,12,139.1,145,78,33,23,122,6.13,8,1.66,USC Union,1
+27,Brianna,Compton,Freshman,RHP/UTL,23,9,4,9,0,6,89,129,111,40,40,52,4.09,7,3.15,USC Union,1
+15,Gillian,Hughes,Freshman,RHP,15,7,1,5,0,2,47,63,55,20,25,25,3.72,8,2.98,USC Union,1
+7,Katelyn,Turner,Freshman,LHP,11,2,1,1,1,0,26,45,31,15,8,11,2.96,1,4.04,USC Union,1
+23,Gracie,Starnes,Freshman,"OF, RHP",7,6,0,4,0,0,14.2,33,28,16,11,7,3.34,1,7.64,USC Union,1
+20,Madie,Anderson,Sophomore,RHP,30,29,20,5,0,17,164,109,51,40,49,131,5.59,14,1.71,Indian Hills,1
+11,Ryann,Cheek,Sophomore,LHP,24,13,11,3,3,4,72,35,18,12,16,79,7.68,4,1.17,Indian Hills,1
+8,Sara,Reid,Freshman,RHP,23,9,6,1,0,1,52,65,44,26,16,32,4.31,3,3.5,Indian Hills,1
+6,Thea,Banning,Freshman,RHP,19,5,6,2,1,0,40,65,36,19,11,30,5.25,3,3.32,Indian Hills,1
+3,TJ,Stoaks,Sophomore,OF/RHP,12,1,3,0,1,0,26,20,7,5,22,18,4.85,0,1.35,Indian Hills,1
+12,Maddison,Depencier,Freshman,RHP,27,21,12,7,0,10,118.2,131,92,79,73,125,7.37,9,4.66,Iowa Western,1
+3,Erin,Kirkland,Freshman,RHP,23,15,4,6,0,3,86,114,78,61,39,64,5.21,11,4.97,Iowa Western,1
+4,Jacee,Carlow,Freshman,RHP,20,5,7,5,0,2,58.2,56,53,38,42,62,7.4,9,4.53,Iowa Western,1
+20,Cara,Linnenkamp,Sophomore,P/3B,32,13,8,1,0,6,108.2,99,50,44,30,110,7.09,10,2.83,Southeastern,1
+3,Kylie,Schult,Freshman,,23,17,6,4,1,4,76.2,112,75,52,37,36,3.29,5,4.75,Southeastern,1
+17,Kayla,Norton,Sophomore,P,18,14,1,3,1,4,68,81,51,43,21,34,3.5,14,4.43,Southeastern,1
+19,Kiley,McConville,Sophomore,,5,0,0,0,3,0,8.1,3,1,1,1,9,7.56,0,0.84,Southeastern,1
+15,Mikayla,Doucette,Freshman,,1,0,0,0,0,0,1,2,0,0,1,2,14,0,0,Southeastern,1
+12,Taryn,Ganstrom,Freshman,,35,27,9,20,0,11,142.2,226,197,155,63,52,2.55,24,7.61,Southwestern,1
+29,Emily,McIntosh,Sophomore,RHP,34,18,5,12,2,11,125.1,191,148,110,45,43,2.4,30,6.14,Southwestern,1
+13,Jennifer,Katz,Sophomore,,6,3,0,2,0,0,8.2,20,33,31,20,3,2.42,3,25.04,Southwestern,1
+13,Alexis,Obregon,Sophomore,P,28,23,11,5,0,13,125.2,134,63,47,66,41,2.28,4,2.62,Alvin,1
+10,Hayley,Calhoun,Freshman,P,21,15,4,8,0,5,60.1,92,74,57,32,35,4.06,4,6.61,Alvin,1
+16,Celeste,Gonzales,Freshman,P,21,4,3,4,0,1,46.1,62,48,40,27,19,2.87,4,6.04,Alvin,1
+15,Abby,House,Freshman,P,20,6,1,3,0,0,44,69,54,34,29,13,2.07,1,5.41,Alvin,1
+10,Mia,Gilmore,Sophomore,P,29,22,14,8,0,15,150,180,91,58,26,94,4.39,6,2.71,Angelina,1
+19,Morgan,Louviere,Sophomore,P,26,17,5,4,1,4,93.2,127,68,45,26,41,3.06,7,3.36,Angelina,1
+24,Haley,Primrose,Sophomore,P/UTL,14,11,2,3,0,4,51,58,60,31,30,43,5.9,5,4.25,Angelina,1
+25,Gianna,Wade,Sophomore,P,13,0,1,0,0,0,19.1,16,10,6,16,16,5.79,2,2.17,Angelina,1
+6,Chloee,Mason,Sophomore,P,24,21,10,9,1,12,123.1,123,64,49,40,83,4.71,7,2.78,Blinn,1
+14,Peyton,Welker,Freshman,P,22,19,10,8,0,10,98.2,97,56,50,48,73,5.18,9,3.55,Blinn,1
+16,Sydnie,Cline,Freshman,P/UT,14,5,4,2,1,2,38.1,54,37,33,20,22,4.02,7,6.03,Blinn,1
+4,Skylar,Shanahan,Sophomore,P/UT,13,3,2,1,0,1,26,37,28,25,21,17,4.58,5,6.73,Blinn,1
+3,Kailey,Eldridge,Sophomore,P,9,0,1,1,0,0,16.1,26,20,13,15,8,3.43,0,5.57,Blinn,1
+2,Camdyn,Shugart,Freshman,P/UT,6,2,1,1,0,1,15.1,22,14,11,8,4,1.83,0,5.02,Blinn,1
+3,Macie,LaRue,Freshman,P,27,23,15,6,0,7,126.2,102,55,49,46,165,9.12,12,2.71,Bossier Parish,1
+22,Mallory,Pitre,Sophomore,P,35,27,16,7,0,6,124.2,116,64,49,44,161,9.04,10,2.75,Bossier Parish,1
+1,Brielle,Moreno,Freshman,,26,7,10,2,1,3,77,65,36,27,27,61,5.55,4,2.45,Bossier Parish,1
+99,Olivia,Ross,Freshman,P,20,4,2,1,0,0,36.2,52,30,24,9,42,8.02,2,4.58,Bossier Parish,1
+11,Rylee,Glenn,Freshman,P,18,1,2,0,0,0,34.1,44,22,18,21,14,2.85,1,3.67,Bossier Parish,1
+10,Morgan,Benge,Freshman,P/OF,8,0,0,1,0,0,13,14,8,7,5,14,7.54,1,3.77,Bossier Parish,1
+8,Emma,Garcia,Freshman,P,12,9,2,3,0,8,60.2,83,73,53,23,27,3.12,9,6.12,Coastal Bend,1
+7,Danielle,Pompa,Freshman,,12,10,1,3,0,5,48.2,100,76,42,33,11,1.58,0,6.04,Coastal Bend,1
+11,Debra,Favors,Freshman,P,12,8,0,2,0,6,36.1,95,85,56,23,16,3.08,1,10.79,Coastal Bend,1
+24,Elia,Palomo,Sophomore,C,4,2,0,0,0,1,15,28,18,10,10,6,2.8,1,4.67,Coastal Bend,1
+15,Krystal,Kutach,Freshman,IF,2,0,0,0,0,0,5.2,12,15,5,6,0,0,2,6.18,Coastal Bend,1
+2,Anamelia,Ramirez,Freshman,OF,1,1,0,0,0,0,0.1,1,4,4,5,0,0,0,84,Coastal Bend,1
+24,Gabriella,Guzman,Sophomore,NA,25,24,17,5,1,18,139.2,142,92,79,45,88,4.41,14,3.96,Galveston,1
+15,Karlie,Barba,Freshman,NA,22,16,14,3,1,13,104,93,58,51,57,65,4.38,7,3.43,Galveston,1
+10,Abigayle,Woodson,Freshman,NA,16,9,7,3,1,5,72.1,96,65,59,32,56,5.42,12,5.71,Galveston,1
+15,Alissa,McClellan,Freshman,3B,26,0,3,12,0,0,97.1,137,104,66,33,59,4.24,12,4.75,Kilgore,1
+20,Kaylee,Schmitz,Freshman,P,20,0,1,12,0,0,81,99,90,59,42,69,5.96,10,5.1,Kilgore,1
+19,Brooklyn,Pope,Freshman,P,13,0,0,0,0,0,23,38,38,28,16,9,2.74,1,8.52,Kilgore,1
+16,Olivia,Gilzow,Freshman,P,11,1,0,2,0,0,21.2,28,35,22,15,5,1.62,0,7.11,Kilgore,1
+25,Isabella,Garley,Freshman,P,4,0,0,2,0,0,12.2,23,23,18,8,3,1.66,1,9.95,Kilgore,1
+18,Audrey,Gilzow,Freshman,3B,10,0,0,0,0,0,12,24,26,19,10,6,3.5,3,11.08,Kilgore,1
+22,Katelyn,Segura,Sophomore,P,10,0,0,1,0,0,10.1,20,21,16,6,1,0.68,2,10.84,Kilgore,1
+22,Allie,Armstrong,Freshman,P,28,21,3,8,0,7,115.1,175,136,97,51,56,3.4,3,5.89,Lamar State-Port Arthur,1
+21,Zora,Brice,Freshman,P,17,11,3,5,1,7,65.1,89,76,52,40,49,5.25,5,5.57,Lamar State-Port Arthur,1
+4,Sage,Champagne,Freshman,P/IF,24,4,1,3,0,1,48,80,78,54,46,12,1.75,0,7.88,Lamar State-Port Arthur,1
+17,Avery,Zimos,Sophomore,P/OF,15,9,0,2,0,1,32.1,56,72,52,44,6,1.3,2,11.26,Lamar State-Port Arthur,1
+25,Bree,Dent,Sophomore,,32,22,11,10,1,13,127.2,164,102,73,28,69,3.78,20,4,Navarro,1
+8,Kennedy,Parker,Sophomore,P,25,17,6,6,0,7,103.2,95,82,60,61,121,8.17,19,4.05,Navarro,1
+11,Kate,Houser,Freshman,,24,11,7,6,0,1,70.2,86,60,45,60,40,3.96,8,4.46,Navarro,1
+2,Braylynn,Henderson,Freshman,RHP,32,24,12,8,2,10,136.2,123,93,64,55,149,7.63,18,3.28,Northeast Texas,1
+16,Anna,Green,Freshman,RHP,25,10,7,5,2,1,79.2,100,54,47,23,48,4.22,9,4.13,Northeast Texas,1
+1,Daphne,Bogenschutz,Sophomore,RHP,25,10,5,7,0,1,68.1,97,61,51,18,24,2.46,13,5.22,Northeast Texas,1
+17,Ashlyn,Castro,Freshman,RHP,1,0,0,0,0,0,3.1,5,3,3,0,0,0,0,6.3,Northeast Texas,1
+30,Jaycie,Hall,Sophomore,P,27,23,16,4,2,12,122.1,105,49,34,35,136,7.78,10,1.95,Paris,1
+16,Grace,Pippin,Freshman,P,24,10,12,6,0,4,96.1,119,79,50,44,50,3.63,13,3.63,Paris,1
+25,Mia,Montes,Freshman,P,17,6,4,4,0,3,50.2,58,40,21,21,30,4.14,9,2.9,Paris,1
+2,Samantha,Puente,Sophomore,P,15,6,1,1,0,0,23,33,29,25,22,9,2.74,4,7.61,Paris,1
+21,Angelina,Leal,Freshman,P,5,5,1,1,0,0,9.2,10,10,4,7,6,4.34,2,2.9,Paris,1
+15,Julianna,Rosas,Freshman,INF,1,0,0,0,0,0,3,9,9,8,2,0,0,1,18.67,Paris,1
+5,Hailey,Evans,Freshman,INF,1,0,0,0,0,0,1,2,1,1,1,1,7,0,7,Paris,1
+24,Christin,Haygood,Sophomore,NA,31,27,19,2,0,19,149,101,54,32,38,161,7.56,6,1.5,San Jacinto,1
+22,Reanna,Nieman,Freshman,NA,28,20,9,7,1,9,100.1,72,49,31,40,112,7.81,7,2.16,San Jacinto,1
+27,Hannah,Benavides,Sophomore,NA,14,6,5,2,0,2,42.1,39,32,23,8,34,5.62,3,3.8,San Jacinto,1
+4,Kristina,Nash,Freshman,NA,16,3,3,0,0,0,34,43,20,14,12,38,7.82,1,2.88,San Jacinto,1
+11,Destiney,Yoder,Freshman,NA,12,2,2,0,0,0,24,35,18,14,5,3,0.88,3,4.08,San Jacinto,1
+9,Arriana,Wright,Freshman,NA,11,0,0,3,0,0,12.2,20,20,11,9,12,6.63,0,6.08,San Jacinto,1
+3,Rawnie,Weststrate,Sophomore,P/IF,36,0,10,7,1,0,125.1,109,77,45,72,105,5.86,4,2.51,Trinity Valley,1
+77,Alessandra,Borjas,Freshman,P/UTL,28,0,10,8,0,0,109.1,127,80,57,57,71,4.55,11,3.65,Trinity Valley,1
+22,Nicole,Stuhr,Freshman,P,32,0,9,9,0,0,106.2,135,71,57,42,75,4.92,15,3.74,Trinity Valley,1
+9,Morgan,Brandon,Sophomore,P/IF,18,0,3,2,0,0,40.1,65,43,35,16,22,3.82,10,6.07,Trinity Valley,1
+33,Hannah,Pacheco,Sophomore,P/IF,4,0,0,3,0,0,5,8,5,5,2,0,0,1,7,Trinity Valley,1
+32,Paula,Ocrospoma,Freshman,P/IF,2,0,0,0,0,0,2,4,3,1,2,0,0,1,3.5,Trinity Valley,1
+18,Jordyn,Rodriguez,Sophomore,P/OF,32,27,13,8,0,11,137,175,110,86,36,82,4.19,16,4.39,Tyler,1
+11,Sierra,Oulette,Freshman,P,26,22,5,15,0,6,103.1,124,81,68,70,82,5.55,13,4.61,Tyler,1
+17,Abigail,Ramirez,Sophomore,P,27,1,3,4,1,0,58.2,67,52,35,51,40,4.77,3,4.18,Tyler,1
+10,Trinity,Muhle,Sophomore,OF/P,19,3,2,1,0,1,42,52,40,28,19,24,4,6,4.67,Tyler,1
+3,Sarah,Wall,Freshman,P,40,31,18,14,1,22,198,157,135,89,107,256,9.05,18,3.15,Monroe College,1
+21,Layla,Ramos,Sophomore,P,23,16,6,7,0,4,81.1,127,82,56,18,48,4.13,3,4.82,Monroe College,1
+4,Varela,Cappas,Sophomore,P,15,3,2,2,1,0,25.2,37,33,19,9,11,3,3,5.18,Monroe College,1
+10,Mia,Colamarino,Sophomore,P,6,2,2,0,0,1,12.1,23,15,12,5,7,3.97,0,6.81,Monroe College,1
+12,Shania,Thomas,Sophomore,IF/P,5,1,0,0,0,0,4.1,11,19,8,8,3,4.85,0,12.92,Monroe College,1
+11,Ashleigh,Stewart,Sophomore,IF,1,0,0,0,0,0,0.1,1,0,0,0,0,0,0,0,Monroe College,1
+33,Chelsea,Beville,Sophomore,P,37,24,17,7,4,18,165,105,70,41,68,230,9.76,14,1.74,Crowder,1
+3,Aidan,Dayberry,Sophomore,P,30,28,21,5,0,11,147,140,78,64,34,156,7.43,25,3.05,Crowder,1
+13,Jensyn,Elder,Freshman,P,16,5,4,2,0,1,38.2,42,24,23,15,37,6.7,7,4.16,Crowder,1
+11,Kinyon,DeCorte,Freshman,P,16,4,3,2,0,1,25.1,39,30,22,13,29,8.01,4,6.08,Crowder,1
+25,Aubree,Chisam,Freshman,P,2,0,0,0,0,0,2.1,3,5,1,2,3,9,1,3,Crowder,1
+5,SAMI,HUCK,Freshman,P/UTL,29,24,18,5,1,19,160.2,102,41,28,23,245,10.67,5,1.22,Jefferson (MO),1
+18,ALEXIS,FINDLEY,Sophomore,P,24,20,12,7,1,15,121.1,91,52,43,39,159,9.17,12,2.48,Jefferson (MO),1
+27,MALLOREY,ROGERS,Freshman,P/INF,12,6,5,1,0,0,37,32,21,18,8,28,5.3,4,3.41,Jefferson (MO),1
+24,MACKENZIE,DANIELS,Freshman,P/UTL,7,2,2,1,2,0,21,23,14,10,4,15,5,1,3.33,Jefferson (MO),1
+16,HATTIE,OSTERMEYER,Freshman,P,1,0,0,0,0,0,0.2,1,0,0,0,1,10.5,0,0,Jefferson (MO),1
+13,TAYLOR,MARLER,Freshman,P,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,Jefferson (MO),1
+9,Kasey,Kilburn,Sophomore,NA,26,19,11,9,2,18,134.1,158,104,65,47,161,8.39,12,3.39,Metropolitan,1
+25,Myel,White,Sophomore,NA,12,11,2,7,0,9,61,66,51,41,37,66,7.57,9,4.7,Metropolitan,1
+11,Avery,Howard,Sophomore,NA,11,10,3,7,0,2,44.1,62,63,53,39,25,3.95,14,8.37,Metropolitan,1
+12,Avery,Prather,Freshman,NA,9,7,2,4,0,2,37,61,46,39,17,15,2.84,11,7.38,Metropolitan,1
+15,Natalie,Segura,Freshman,NA,7,2,0,2,0,2,20.2,30,25,14,15,7,2.37,0,4.74,Metropolitan,1
+23,Jaedyn,Lopez,Freshman,NA,1,0,0,0,0,0,2,3,4,4,2,2,7,1,14,Metropolitan,1
+8,Lauren,Krohn,Freshman,,33,27,8,12,0,16,163,188,168,134,130,183,7.86,28,5.75,North Central Missouri,1
+10,Maeve,Lavoy,Freshman,,40,27,13,9,0,19,163,251,204,142,67,96,4.12,40,6.1,North Central Missouri,1
+7,Emma,Angel,Sophomore,P/OF,7,3,0,1,0,0,11.2,31,36,27,17,9,5.4,5,16.2,North Central Missouri,1
+20,Caragan,Baker,Sophomore,P/IF,1,1,0,0,0,0,3.1,6,9,7,3,0,0,0,14.7,North Central Missouri,1
+5,Chloe,Helmer,Freshman,,1,0,0,0,0,0,1,1,2,2,1,0,0,0,14,North Central Missouri,1
+22,Jocelyn,Cunningham,Sophomore,P/3B,27,25,13,9,0,17,152.1,148,90,59,31,118,5.42,16,2.71,St. Charles,1
+25,Anna,Cheatham,Freshman,P,30,24,9,13,1,18,142.2,195,130,93,48,99,4.86,15,4.56,St. Charles,1
+6,Kelly,Allensworth,Sophomore,P/1B,15,4,3,2,0,0,40.1,75,56,36,32,12,2.08,3,6.25,St. Charles,1
+17,Janna,Joerling,Sophomore,P/1B,2,1,1,0,0,0,2.1,1,5,3,4,3,9,0,9,St. Charles,1
+9,Mallory,Waller,Sophomore,OF/UTL,2,0,0,0,0,0,2,2,1,1,1,0,0,0,3.5,St. Charles,1
+17,Kennidi,Harris,Sophomore,P,21,20,4,7,0,9,111.2,152,89,58,33,52,3.26,8,3.64,State Fair,1
+5,Charlee,Reese,Freshman,P,20,14,2,2,0,3,74.2,113,88,72,47,49,4.59,6,6.75,State Fair,1
+12,Grace,VanDenburgh,Freshman,P,13,5,0,3,0,1,34.1,63,38,36,4,12,2.45,7,7.34,State Fair,1
+15,Kaycee,Thompson,Sophomore,P,12,3,0,0,0,0,27,41,22,21,11,7,1.81,9,5.44,State Fair,1
+23,Alexis,Hughes,Sophomore,P,6,2,0,2,0,2,21.2,29,23,20,6,10,3.23,4,6.46,State Fair,1
+19,Tabitha,Imhoff,Sophomore,P,9,2,0,0,0,0,19.2,44,28,22,5,6,2.14,2,7.83,State Fair,1
+18,AJ,Agers,Freshman,P/SS,34,29,26,4,0,22,183.2,183,75,56,43,133,5.07,10,2.13,Three Rivers,1
+12,Elly,Eckrich,Freshman,P/1B,26,24,14,8,0,11,122,136,87,63,52,134,7.69,20,3.61,Three Rivers,1
+16,McKenna,Moore,Sophomore,P,17,3,4,0,0,2,42.1,44,24,20,11,33,5.46,2,3.31,Three Rivers,1
+8,Jordan,Moore,Freshman,P,1,0,0,0,0,0,1,0,0,0,3,2,14,0,0,Three Rivers,1
+23,Karis,Smith,Freshman,,23,0,9,5,0,0,110.1,122,69,55,43,68,4.31,12,3.49,Abraham Baldwin,1
+22,Graysen,Brannen,Sophomore,P/2B,22,1,9,8,0,0,82,86,41,32,40,45,3.84,6,2.73,Abraham Baldwin,1
+17,Julianna,Franklin,Sophomore,P,26,0,8,2,0,0,66.1,60,41,34,31,51,5.38,1,3.59,Abraham Baldwin,1
+5,Madison,Strickland,Sophomore,P/OF,16,1,2,1,1,1,37.2,46,27,17,14,25,4.65,7,3.16,Abraham Baldwin,1
+24,Brittney Paige,Hill,Freshman,,8,0,3,1,0,0,16.1,23,14,14,9,8,3.43,2,6,Abraham Baldwin,1
+12,Faith,Stowers,Freshman,P,34,18,1,0,1,12,155,256,183,145,54,32,1.45,39,6.55,Andrew,1
+28,Emilee,Register,Sophomore,P,28,15,0,1,0,7,93.1,138,165,116,96,40,3,23,8.7,Andrew,1
+24,Abigail,Hopper,Freshman,P,17,13,1,1,0,0,47,81,81,61,39,25,3.72,4,9.09,Andrew,1
+0,Phoebe,Durden,Sophomore,,10,4,0,0,0,0,24.1,48,40,26,13,3,0.86,2,7.48,Andrew,1
+17,Hailey,Stovall,Sophomore,P,3,1,0,0,0,0,5.1,16,13,12,4,0,0,2,15.75,Andrew,1
+36,JESLYN,OLSON,Freshman,P,19,0,4,7,0,0,95.1,118,79,47,12,32,2.35,2,3.45,East Georgia State,1
+17,SOPHIE,KRESSE,Sophomore,P,16,0,1,3,0,0,56.1,90,51,43,16,7,0.87,0,5.34,East Georgia State,1
+0,ASHLEIGH,MILES,Sophomore,"P, UT",9,2,1,7,0,0,46,48,51,31,19,34,5.17,1,4.72,East Georgia State,1
+11,KYLEE,USSERY,Sophomore,"INF, P",5,0,0,2,0,0,9.1,16,18,9,6,2,1.5,2,6.75,East Georgia State,1
+10,DESTINY,BOAZ,Sophomore,P,2,0,1,0,0,0,4,5,1,1,4,1,1.75,0,1.75,East Georgia State,1
+7,MOLLY,GAYLES,Freshman,"INF, OF",1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,East Georgia State,1
+34,Jaycie,Hand,Freshman,,34,25,9,14,1,7,124,198,155,99,33,49,2.77,18,5.59,Georgia Highlands,1
+28,Rena,Fraga,Freshman,,28,25,5,11,0,5,101.1,180,119,87,18,25,1.73,18,6.01,Georgia Highlands,1
+11,Emma,Veitch,Sophomore,RHP/1B,34,0,4,3,4,0,80,101,82,37,33,65,5.69,6,3.24,Georgia Highlands,1
+5,Katie,Traynor,Sophomore,RHP,2,0,0,0,0,0,0,1,2,2,5,0,0,0,Inf,Georgia Highlands,1
+27,Addie,Moss,Freshman,,30,24,20,6,2,18,162.1,165,92,66,33,83,3.58,21,2.85,Georgia Military,1
+88,Avien,Trull,Sophomore,P/UT,23,23,12,10,0,14,128.1,157,104,72,53,43,2.35,14,3.93,Georgia Military,1
+15,Hailey,Daughtry,Freshman,P,18,7,5,2,3,5,61.1,67,39,33,34,30,3.42,8,3.77,Georgia Military,1
+22,Katelynn,Anglin,Freshman,,3,1,0,0,0,0,4,10,10,10,6,2,3.5,0,17.5,Georgia Military,1
+38,Katelyn,Munoz,Freshman,RHP,37,27,16,12,2,16,169,161,107,67,40,183,7.58,21,2.78,Gordon State,1
+26,Taylor,Beigle,Freshman,RHP,30,8,3,7,0,0,70.1,109,73,39,16,32,3.18,1,3.88,Gordon State,1
+3,Victoria,O'Neal,Sophomore,RHP,25,11,4,5,0,0,60.2,90,69,51,30,28,3.23,16,5.88,Gordon State,1
+20,Raeghan,Byrom,Sophomore,UT,7,0,1,0,0,0,13,16,11,10,6,5,2.69,1,5.38,Gordon State,1
+33,Sydney,Knight,Freshman,C,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Gordon State,1
+1,Reagan,Waller,Freshman,OF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Gordon State,1
+9,Sierra,Ussery,Sophomore,P,44,1,13,26,0,1,250.2,306,214,133,53,207,5.78,33,3.71,South Georgia State,1
+33,Keely,Bryant,Sophomore,Util.,8,0,0,4,0,0,22,39,53,28,35,9,2.86,3,8.91,South Georgia State,1
+2,Sarina,Elder,Sophomore,P/OF,6,1,1,3,0,1,21.1,35,35,24,19,1,0.33,0,7.88,South Georgia State,1
+44,Megan,Lee,Sophomore,C/1B,8,0,0,1,0,0,13.1,36,40,23,25,3,1.57,2,12.07,South Georgia State,1
+1,Gracie,Horne,Freshman,OF,2,0,0,2,0,0,1.2,16,20,14,5,0,0,3,58.8,South Georgia State,1
+31,Taiah,Wilson,Freshman,Pitcher/Infield,23,22,0,18,0,19,95.2,447,411,322,60,21,1.54,57,23.56,Colorado Northwestern,1
+5,Sharzay,Herrera,Freshman,Pitcher/Outfield,18,13,0,10,0,11,61.1,284,317,240,64,8,0.91,56,27.39,Colorado Northwestern,1
+23,Presley,Frost,Sophomore,Pitcher/Shortstop,7,5,0,4,0,2,20.1,97,98,94,11,5,1.72,23,32.36,Colorado Northwestern,1
+2,Jillian,Boswell,Freshman,Catcher/Outfielder,2,0,0,0,0,0,4,18,19,17,5,1,1.75,0,29.75,Colorado Northwestern,1
+5,Tiffany,Hermansen,Freshman,RHP,32,17,15,5,1,9,124.1,139,104,88,71,97,5.46,26,4.95,Salt Lake,1
+12,Taylor,Hagen,Freshman,RHP,26,16,11,4,1,5,102,128,95,73,65,76,5.22,12,5.01,Salt Lake,1
+29,Bailey,Marvin,Sophomore,RHP,14,11,7,1,0,4,53.1,63,40,38,22,36,4.72,14,4.99,Salt Lake,1
+10,Ella,Crookston,Freshman,RHPP,12,8,4,1,0,1,24.1,27,28,26,21,12,3.45,7,7.48,Salt Lake,1
+3,Aubree,Leonard,Freshman,RHP,12,1,0,0,0,1,17.2,16,19,16,28,15,5.94,2,6.34,Salt Lake,1
+7,Mikelle,Anthony,Sophomore,UTIL,1,1,0,0,0,1,5,3,0,0,1,6,8.4,0,0,Salt Lake,1
+6,Kaci,Smith,Sophomore,,24,15,6,9,0,4,77.1,134,88,59,36,54,4.89,6,5.34,Snow,1
+7,August,Cowan,Sophomore,,17,10,4,9,1,8,72.2,125,90,72,31,52,5.01,12,6.94,Snow,1
+24,Andrea,Sweat,Freshman,P,19,8,4,5,0,4,62,84,70,55,38,54,6.1,11,6.21,Snow,1
+33,Kenley,Henson,Freshman,,17,4,3,3,0,0,42.2,67,61,49,32,24,3.94,10,8.04,Snow,1
+4,Brinley,Ellsworth,Freshman,P/INF,11,8,3,0,0,1,34,57,39,34,16,31,6.38,7,7,Snow,1
+9,Saige,Ewing,Jr,,8,3,3,1,0,1,17,29,29,20,12,18,7.41,3,8.24,Snow,1
+7,Gracie,Walters,NA,P,24,23,18,2,1,14,124.1,91,52,46,47,168,9.46,13,2.59,Southern Idaho,1
+8,Brooke,Merrill,NA,P,21,15,9,3,3,9,83.1,75,47,38,38,78,6.55,9,3.19,Southern Idaho,1
+20,Abby,Hayes,NA,P,23,13,6,6,1,2,80.1,118,80,54,34,45,3.92,18,4.71,Southern Idaho,1
+9,Markessa,Jensen,NA,P,20,12,6,4,0,3,63,75,61,56,49,38,4.22,18,6.22,Southern Idaho,1
+10,Makenzie,Evans,NA,OF/P,21,0,5,2,1,0,39,47,43,32,43,24,4.31,12,5.74,Southern Idaho,1
+40,Laynee,Anzalone,Freshman,P,34,24,15,13,0,16,156,223,162,137,67,161,7.22,26,6.15,Southern Nevada,1
+28,Mia,Flores,Freshman,P,23,13,8,4,0,4,69.2,90,67,59,29,30,3.01,14,5.93,Southern Nevada,1
+7,Madison,McDowell,Freshman,P,22,17,4,6,0,3,56,84,78,69,46,34,4.25,16,8.63,Southern Nevada,1
+20,Alivia,Parks,Freshman,P,19,0,0,2,0,0,40,90,73,65,18,7,1.22,17,11.38,Southern Nevada,1
+9,Kylie,Sharapan,Freshman,P/OF,5,2,1,1,0,1,9.2,24,19,14,6,3,2.17,3,10.14,Southern Nevada,1
+23,Preslee,Christensen,Freshman,P,35,25,14,8,0,4,110.1,112,97,84,76,97,6.15,21,5.33,Utah State Eastern,1
+15,Lexi,Butterfield,Freshman,P,30,10,10,4,1,1,83,125,97,86,45,30,2.53,21,7.25,Utah State Eastern,1
+5,Sydney,Smith,Sophomore,P,21,8,2,4,1,1,57.2,88,65,61,35,37,4.49,17,7.4,Utah State Eastern,1
+13,Brinley,Johnson,Freshman,P/1B,17,8,3,4,0,2,46,73,53,45,25,23,3.5,9,6.85,Utah State Eastern,1
+1,Oakley,Giacoletto,Sophomore,P,9,1,0,0,0,0,14.2,29,23,20,12,14,6.68,4,9.55,Utah State Eastern,1
+11,Kiera-Paige,Shumway,Freshman,INF,7,2,3,2,0,1,13.1,16,18,12,9,6,3.15,3,6.3,Utah State Eastern,1
+3,Mackenzie,Burton,Sophomore,P/UTL,21,18,13,4,1,15,109,93,41,27,37,76,4.88,4,1.73,Harford,1
+10,Caroline,Hilyard,Freshman,P/INF,13,12,8,4,0,9,73,96,52,42,14,44,4.22,5,4.03,Harford,1
+7,Riley,Fisher,Freshman,P,7,4,4,1,0,2,29.1,29,13,11,20,5,1.19,0,2.63,Harford,1
+46,Jess,Bouthet,Sophomore,UTL,1,0,0,0,0,0,0.2,1,2,0,1,0,0,0,0,Harford,1
+21,Jessy,Aston,Freshman,P,29,23,10,9,0,9,112.2,150,109,75,57,49,3.04,6,4.66,Bevill State,1
+22,Santana,Clark,Freshman,OF,17,14,7,5,0,4,70.1,111,75,49,31,29,2.89,35,4.88,Bevill State,1
+8,Kyla,Edmonson,Freshman,P,31,18,7,3,0,7,58,159,128,87,30,45,5.43,15,10.5,Bevill State,1
+20,Katelyn,Makemson,Sophomore,P,20,1,6,1,1,0,49,59,35,32,21,28,4,9,4.57,Bevill State,1
+35,Emma,Black,Freshman,P,13,0,0,0,0,0,16,30,24,20,9,5,2.19,5,8.75,Bevill State,1
+4,Emily,Adkins,Freshman,P,5,0,0,0,0,0,6.1,9,8,6,2,1,1.11,2,6.63,Bevill State,1
+19,Faith,Hardy,Sophomore,P,29,23,16,12,0,12,139.1,185,104,79,49,66,3.32,14,3.97,Bishop State,1
+29,Lauren,Glass,Sophomore,P,26,21,11,6,0,8,112.2,135,73,49,40,49,3.04,4,3.04,Bishop State,1
+18,Grace,Lucus,Sophomore,P,15,6,2,6,0,3,48,73,56,36,30,17,2.48,8,5.25,Bishop State,1
+23,Chloe,Mosley,Sophomore,P,13,3,3,0,1,2,36,34,22,16,18,8,1.56,6,3.11,Bishop State,1
+30,Alana,Fussell,Freshman,P,10,3,1,1,0,1,26,43,23,19,18,16,4.31,3,5.12,Bishop State,1
+21,Rylie,Tittle,Freshman,P,30,27,11,12,1,18,156.1,165,101,72,42,125,5.6,13,3.22,Calhoun,1
+15,Rylie,Bearden,Freshman,P,21,7,5,4,2,0,47.1,73,62,42,20,19,2.81,4,6.21,Calhoun,1
+2,Anna Grace,Luker,Freshman,OF/P,16,7,2,4,2,1,38.2,50,32,27,14,13,2.35,3,4.89,Calhoun,1
+9,Linzie,Wilson,Freshman,INF,9,2,0,2,0,0,21.2,21,26,15,12,9,2.91,2,4.85,Calhoun,1
+5,Alyssa,Harwell,Freshman,P,12,1,2,0,0,0,18,30,32,22,17,7,2.72,3,8.56,Calhoun,1
+14,Katlyan,Dulaney,Freshman,INF/P,6,4,1,3,0,0,16,34,30,17,6,10,4.38,2,7.44,Calhoun,1
+29,Ashlyn,Potter,Freshman,UTL,6,0,0,1,0,0,12.1,10,7,6,1,4,2.27,1,3.41,Calhoun,1
+16,Lexi,Dobbins,Freshman,INF,3,0,0,0,0,0,3,6,7,4,1,2,4.67,3,9.33,Calhoun,1
+9,Jenna,Castleberry,Freshman,NA,29,29,18,6,0,14,150.1,127,80,70,50,125,5.82,21,3.26,Central Alabama,1
+1,Leah,Patterson,Sophomore,NA,29,24,14,9,0,16,145,134,75,61,55,108,5.21,15,2.94,Central Alabama,1
+23,Samantha,Melton,Sophomore,NA,22,6,5,4,5,3,64.2,95,59,43,22,33,3.57,8,4.65,Central Alabama,1
+11,Alexis,Walls,Freshman,NA,12,1,2,2,1,1,31,56,38,29,6,7,1.58,7,6.55,Central Alabama,1
+35,Carly,Puckett,Sophomore,P/UTL,29,21,6,17,0,9,123,179,130,85,53,46,2.62,19,4.84,Chattahoochee Valley,1
+3,Desalynn,Nesbitt,Sophomore,P/DP/UTL,19,10,2,7,0,5,63.1,100,68,51,31,28,3.09,12,5.64,Chattahoochee Valley,1
+14,Addison,Woodham,Sophomore,P/1B,18,13,2,8,0,3,53.1,102,84,62,27,27,3.54,11,8.14,Chattahoochee Valley,1
+15,Haley,Thomason,Sophomore,P/INF,21,4,1,3,1,1,44.2,66,61,29,30,16,2.51,6,4.54,Chattahoochee Valley,1
+11,Bekah,Hargrove,Freshman,OF,3,0,0,0,0,0,3.1,8,11,11,5,0,0,1,23.1,Chattahoochee Valley,1
+14,Shellie,Littlefield,Freshman,"P, 1B",44,36,26,13,0,28,245,253,161,129,109,118,3.37,32,3.69,Coastal Alabama - Bay Minette,1
+25,Desiree,Denmark,Freshman,"P, OF",29,23,7,10,0,9,96.1,159,124,84,47,24,1.74,17,6.1,Coastal Alabama - Bay Minette,1
+26,Danielle,McCartney,Sophomore,"3B, C",15,3,2,1,0,0,28.1,41,35,26,24,10,2.47,9,6.42,Coastal Alabama - Bay Minette,1
+0,Madelyn,Becker,Freshman,3B,4,0,0,1,0,0,11,21,23,16,11,4,2.55,1,10.18,Coastal Alabama - Bay Minette,1
+6,Hollie,Graham,Freshman,RHP,30,21,7,11,0,9,133,142,124,89,55,36,1.89,23,4.68,Coastal Alabama - Brewton,1
+28,Kylee,Necaise,Freshman,RHP,26,19,3,18,0,4,96,136,131,101,50,31,2.26,19,7.36,Coastal Alabama - Brewton,1
+14,Ella,Kraszewski,Freshman,RHP/OF,23,9,0,6,1,2,56,84,81,69,35,29,3.63,12,8.63,Coastal Alabama - Brewton,1
+1,MaKenzie,Thomas,Freshman,UTL,20,3,1,2,0,0,30.2,67,63,35,17,4,0.91,5,7.99,Coastal Alabama - Brewton,1
+12,Emily,Phillips,Sophomore,P/SS,25,23,17,5,0,19,151.2,115,58,35,25,169,7.8,14,1.62,Coastal Alabama - Monroeville,1
+6,Megan,Roe,Freshman,P/1B,29,19,9,11,1,10,139.1,165,118,64,45,84,4.22,11,3.22,Coastal Alabama - Monroeville,1
+1,Peyton,Adams,,P,17,12,4,5,0,3,60.2,68,66,50,50,47,5.42,9,5.77,Coastal Alabama - Monroeville,1
+8,Gracen,Hodges,,P,12,3,0,1,1,0,17.1,34,24,18,3,8,3.23,1,7.27,Coastal Alabama - Monroeville,1
+15,Olivia,Shadburn,Sophomore,P/Util.,4,0,0,0,0,0,1.2,7,8,5,3,0,0,0,21,Coastal Alabama - Monroeville,1
+21,Kyleigh,Coin,Sophomore,,31,26,9,7,0,20,153,157,143,96,126,87,3.98,9,4.39,Enterprise State,1
+8,Maggie,Furr,Freshman,,28,16,4,4,0,8,107,166,122,105,33,24,1.57,6,6.87,Enterprise State,1
+9,Aurlee,Perkins,Freshman,,12,0,0,0,0,0,18.1,41,26,22,13,2,0.76,2,8.4,Enterprise State,1
+27,Bailey,Jenkins,Sophomore,3B,7,5,1,3,0,1,16.2,40,36,35,12,3,1.26,4,14.7,Enterprise State,1
+14,Maddie,Smith,Sophomore,P/2B,6,4,0,0,0,0,13,19,17,14,10,6,3.23,0,7.54,Enterprise State,1
+16,Abbi,Hataway,Freshman,,3,0,0,0,0,0,3,9,6,4,2,0,0,0,9.33,Enterprise State,1
+8,Madelyn,Watson,Sophomore,RHP,17,14,3,1,0,9,73.2,79,65,38,42,63,5.99,5,3.61,Lurleen B. Wallace,1
+3,Lauren,Hudson,Sophomore,RHP,13,12,1,1,0,8,64,65,42,21,30,17,1.86,2,2.3,Lurleen B. Wallace,1
+50,Faith,Daniel,Sophomore,RHP,13,9,1,0,0,5,55,63,47,26,25,21,2.67,1,3.31,Lurleen B. Wallace,1
+7,Riley,Sweeney,Sophomore,OF/RHP,11,2,1,1,0,1,30.2,39,40,22,13,20,4.57,2,5.02,Lurleen B. Wallace,1
+18,Madison,Poplin,Freshman,LHP/1B,10,3,1,0,0,1,27.2,34,24,16,8,12,3.04,3,4.05,Lurleen B. Wallace,1
+22,Emily,Taylor,Freshman,RHP/1B,8,2,0,0,0,0,18.1,18,22,15,9,9,3.44,2,5.73,Lurleen B. Wallace,1
+6,Abbey,Glidewell,Freshman,RHP,4,3,0,0,0,0,12.2,16,22,7,11,6,3.32,0,3.87,Lurleen B. Wallace,1
+1,Courtney,Lunsford,Jr,INF/P,2,2,0,0,0,0,2.2,9,13,8,2,0,0,1,21,Lurleen B. Wallace,1
+14,Jessie,Steadman,Sophomore,RHP,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Lurleen B. Wallace,1
+55,Kinley,Bolton,Sophomore,P,35,29,19,11,1,19,183.2,162,78,66,56,164,6.25,14,2.52,Marion Military,1
+14,Harleigh,Anderson,Sophomore,P,26,19,10,5,1,6,96.1,138,86,74,38,42,3.05,10,5.38,Marion Military,1
+21,Ashley,Maddox,Freshman,P,24,5,3,1,0,1,55.1,93,55,48,13,23,2.91,12,6.07,Marion Military,1
+9,Jaylee,Crow,Freshman,P,11,3,2,2,0,0,23,35,20,13,5,9,2.74,1,3.96,Marion Military,1
+32,Taylor,Cameron,Freshman,P,30,26,6,18,1,17,159.1,171,146,101,102,125,5.49,16,4.44,Northwest-Shoals Community College,1
+4,Mycala,Mitchell,Freshman,P,27,21,4,16,2,15,121.2,165,114,91,36,73,4.2,10,5.24,Northwest-Shoals Community College,1
+73,Chloe,Handley,Freshman,OF/P,9,5,3,2,0,1,26,37,45,35,26,13,3.5,3,9.42,Northwest-Shoals Community College,1
+21,Brooklyn,Owens,Freshman,INF/P,13,1,1,2,0,0,18.2,46,49,24,11,10,3.75,4,9,Northwest-Shoals Community College,1
+5,Rachel,Whiddon,Sophomore,RHP,32,25,10,5,2,17,146.2,193,114,77,35,89,4.25,4,3.68,Shelton State,1
+22,Elizabeth,Brooks,Freshman,RHP,26,20,5,6,0,11,121.2,161,97,78,34,62,3.57,10,4.49,Shelton State,1
+11,KiKi,Lipsey,Sophomore,RHP,10,2,0,3,0,0,25,35,31,28,12,7,1.96,3,7.84,Shelton State,1
+9,Morgan,Dawson,Freshman,3B,1,0,0,0,0,0,0.2,3,3,3,0,0,0,1,31.5,Shelton State,1
+24,Lydia,West,Freshman,P,40,27,14,14,2,18,196.1,215,118,92,57,100,3.57,36,3.28,Snead State,1
+21,Reagan,Cornelius,Sophomore,P,31,27,14,10,1,13,140.2,140,99,81,68,119,5.92,28,4.03,Snead State,1
+3,Brittany,Slaten,Freshman,P,7,6,2,4,0,3,28,26,31,24,27,19,4.75,6,6,Snead State,1
+4,Ashlyn,Hallman,Sophomore,P,6,2,1,2,0,0,12.1,23,28,19,16,11,6.24,3,10.78,Snead State,1
+7,Trinity,Britnell,Freshman,P,9,1,0,3,0,0,11.1,21,23,13,6,1,0.62,1,8.03,Snead State,1
+13,Chloe,Smith,Freshman,P,5,0,0,0,1,0,8,10,9,6,11,1,0.88,0,5.25,Snead State,1
+28,Kaylee,Harris,Sophomore,P,20,11,5,0,0,6,79,89,50,40,37,39,3.46,5,3.54,Southern Union State,1
+25,Maddy,Walker,Sophomore,P,19,10,2,1,0,5,70.1,74,37,27,17,49,4.88,3,2.69,Southern Union State,1
+12,Ally,Rushing,Freshman,P/UT,20,8,2,1,0,3,51.1,88,55,44,14,21,2.86,6,6,Southern Union State,1
+3,Nicole,Turner,Sophomore,P/UT,13,13,1,1,0,4,51.1,65,41,27,25,28,3.82,3,3.68,Southern Union State,1
+1,Addi,Yarbrough,Freshman,P/UT,16,7,0,1,0,2,46.2,80,48,44,16,17,2.55,5,6.6,Southern Union State,1
+22,Emma,Machen,Freshman,P,5,2,1,0,0,0,12,21,20,10,6,5,2.92,4,5.83,Southern Union State,1
+3,Emily,Simon,Freshman,P,24,2,17,1,3,2,127.1,72,36,18,35,156,8.58,3,0.99,Wallace State,1
+22,Alivia,Wilken,Sophomore,P,19,0,16,2,1,0,93.1,77,28,19,17,80,6,2,1.43,Wallace State,1
+1,Katie,Simon,Freshman,,19,1,11,3,0,1,89.2,61,31,22,54,122,9.52,0,1.72,Wallace State,1
+16,Amelia,Sherrill,Freshman,P,8,0,5,0,1,0,32.2,36,14,11,13,20,4.29,0,2.36,Wallace State,1
+32,Tessa,Word,Freshman,P,9,2,3,1,0,0,26,27,19,17,11,23,6.19,2,4.58,Wallace State,1
+13,Lola,Jarrad,Sophomore,P,3,0,0,0,0,0,5,6,5,4,6,2,2.8,0,5.6,Wallace State,1
+10,Anna Grace,Hennesy,Sophomore,RHP,29,29,20,3,0,16,166.2,160,80,57,44,80,3.36,19,2.39,Wallace-Dothan,1
+24,Olivia,Elliott,Freshman,"RHP, 3B",25,22,14,7,0,15,118.1,145,84,61,22,56,3.31,19,3.61,Wallace-Dothan,1
+25,Maci,Curlee,Sophomore,RHP,20,7,8,2,3,4,68.1,61,41,30,39,30,3.07,3,3.07,Wallace-Dothan,1
+20,Emily,Castle,Sophomore,LHP,7,0,0,0,0,0,13.2,15,7,7,1,6,3.07,1,3.59,Wallace-Dothan,1
+14,Jalei,Freeman,Freshman,RHP,5,0,0,1,0,0,5.1,9,10,7,7,3,3.94,2,9.19,Wallace-Dothan,1
+16,Morgan,Moss,Freshman,RHP,4,0,0,0,0,0,4,2,4,2,5,3,5.25,0,3.5,Wallace-Dothan,1
+11,Kristyn,Lormand,Sophomore,UT,25,15,8,8,2,12,112.2,139,102,75,40,52,3.23,14,4.66,Baton Rouge,1
+26,Marley,Olivier,Sophomore,P,21,16,9,8,0,5,82.2,129,96,58,18,53,4.49,12,4.91,Baton Rouge,1
+8,Macy,Castleman,Freshman,P,21,15,8,5,0,8,79.2,83,72,48,53,35,3.08,8,4.22,Baton Rouge,1
+1,Karaline,Randazzo,Freshman,UT,2,0,1,0,0,0,1,4,4,2,2,0,0,0,14,Baton Rouge,1
+9,Karlie,Bean,Freshman,P/1B,19,17,11,6,0,10,98.2,140,90,61,48,86,6.1,11,4.33,Frontier,1
+8,Madison,Shipley,Sophomore,P/OF,19,13,7,6,0,6,80.2,123,90,56,22,56,4.86,10,4.86,Frontier,1
+21,Morgan,Carr,Sophomore,P/1B,13,13,6,5,0,4,64,92,73,63,44,70,7.66,6,6.89,Frontier,1
+20,Kyleigh,Guinzy,Sophomore,P/3B,20,5,4,3,0,1,51,95,66,49,9,27,3.71,12,6.73,Frontier,1
+11,Destiny,Powers,Sophomore,P/3B,14,4,2,2,1,1,32.1,81,73,59,25,23,4.98,8,12.77,Frontier,1
+1,Celena,Luna,Freshman,3B/OF,2,2,0,2,0,0,8.2,9,13,11,11,4,3.23,1,8.88,Frontier,1
+7,Kaylee,Halsema,Freshman,P/C,3,0,0,0,0,0,3.2,6,7,3,3,3,5.73,1,5.73,Frontier,1
+20,Avery,Budde,Freshman,P/IF,30,16,19,3,0,10,136,141,76,64,33,77,3.96,13,3.29,John A. Logan,1
+3,Emma,Markham,Freshman,P,27,16,12,6,1,6,114.2,111,58,53,40,109,6.65,11,3.24,John A. Logan,1
+8,Hailie,Charmat,Freshman,P,31,20,8,4,4,4,85.1,97,63,55,35,88,7.22,10,4.51,John A. Logan,1
+27,Jordan,Poppleton,Freshman,P/UTL,7,4,2,0,0,2,15,17,8,4,4,11,5.13,0,1.87,John A. Logan,1
+7,Adi,Foutch,Freshman,IF/UTL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,John A. Logan,1
+17,Karlie,McKenzie,Freshman,RHP/1B,47,14,23,3,0,9,153.2,111,74,49,56,264,12.03,16,2.23,Kaskaskia,1
+14,Ivy,Smart,Sophomore,RHP/1B,34,25,12,5,1,9,128.2,138,101,66,46,93,5.06,7,3.59,Kaskaskia,1
+7,Sydnee,Garrett,Sophomore,RHP/3B,31,25,13,7,0,5,114.1,122,90,53,59,56,3.43,8,3.24,Kaskaskia,1
+21,Aspen,Schmidt,Freshman,RHP/OF,10,3,1,3,0,1,25.1,28,24,15,13,19,5.25,0,4.14,Kaskaskia,1
+15,Tinley,Beecham,Freshman,NA,34,20,18,4,3,10,179,134,82,59,49,115,4.5,19,2.31,Lake Land,1
+31,Rylie,Burney,Freshman,NA,30,24,17,5,0,5,116.2,144,81,59,34,65,3.9,15,3.54,Lake Land,1
+33,Bryanna,French,Freshman,NA,32,18,15,3,1,10,112.2,129,64,43,31,58,3.6,7,2.67,Lake Land,1
+44,Ailene,Walker,Freshman,NA,5,0,0,0,0,0,6.2,8,11,9,6,3,3.15,1,9.45,Lake Land,1
+12,Kendall,Mathews,Freshman,NA,1,0,0,0,0,0,2,0,0,0,0,4,14,0,0,Lake Land,1
+25,Taylor,Henry,Freshman,NA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Lake Land,1
+23,Halle,Ellis,Sophomore,P,26,22,3,3,1,19,148.1,147,108,64,48,118,5.57,21,3.02,Lincoln Trail,1
+20,Kendal,Edmondson,Freshman,P,23,16,6,0,0,14,107,104,91,55,52,64,4.19,12,3.6,Lincoln Trail,1
+32,Addie,Brasier,Freshman,UTL,13,9,0,0,1,2,26.1,31,25,17,11,10,2.66,1,4.52,Lincoln Trail,1
+57,Athena,McGinness,Freshman,NA,28,17,6,8,1,8,107.1,102,91,61,63,118,7.7,16,3.98,Olney Central,1
+24,Erica,Henry,Sophomore,NA,29,17,6,3,0,5,100,131,99,53,35,36,2.52,9,3.71,Olney Central,1
+0,Aubrey,Page,Sophomore,NA,18,8,2,3,2,1,51.2,85,71,47,13,17,2.3,9,6.37,Olney Central,1
+11,Madison,Cherry,Sophomore,NA,15,8,4,7,0,1,40.1,60,53,25,14,16,2.78,5,4.34,Olney Central,1
+21,Hanna,Krockenberger,Freshman,NA,17,3,0,1,0,0,25.1,53,47,28,9,9,2.49,6,7.74,Olney Central,1
+17,Libby,Mayers,Sophomore,"P, UT",21,18,3,7,0,5,84.2,156,106,74,24,23,1.9,22,6.12,Rend Lake,1
+14,Caitlen,England,Freshman,P,21,6,0,5,2,1,53,78,55,43,15,23,3.04,12,5.68,Rend Lake,1
+1,Emily,Melvin,Freshman,"P, OF",17,13,1,3,0,2,50,93,91,67,24,10,1.4,11,9.38,Rend Lake,1
+6,Ashlyn,Childers,Freshman,"P, UT",12,0,0,1,0,0,23.1,45,45,31,18,8,2.4,4,9.3,Rend Lake,1
+10,Valerie,Greenley,Sophomore,P/OF,36,28,1,3,0,12,137,244,206,153,64,66,3.37,34,7.82,Shawnee,1
+22,Chandler,Moss,Sophomore,P/3B/SS,32,23,2,3,0,14,127,263,225,126,41,56,3.09,26,6.94,Shawnee,1
+20,Jayden,Welch,Freshman,P/1B,18,0,0,0,0,0,21.1,38,48,35,21,4,1.31,7,11.48,Shawnee,1
+22,Whitley,Hunter,NA,P/3B,38,32,17,19,0,26,203.1,166,150,78,85,223,7.68,11,2.69,Southeastern Illinois,1
+10,Madison,Bolte,NA,P/3B,22,6,4,5,1,0,52.2,84,55,48,21,15,1.99,4,6.38,Southeastern Illinois,1
+15,Morgan,Snell,NA,P,16,9,2,3,1,2,44.2,56,44,35,33,18,2.82,2,5.49,Southeastern Illinois,1
+27,Rachel,Richter,NA,P,14,7,3,1,2,0,30.1,51,33,27,20,12,2.77,1,6.23,Southeastern Illinois,1
+20,Grace,Middendorf,Freshman,P,26,22,10,9,1,10,119.2,146,112,84,56,69,4.04,12,4.91,Southwestern Illinois,1
+22,Kylie,Angel,Freshman,P,22,21,8,9,0,7,108.2,148,103,90,37,60,3.87,41,5.8,Southwestern Illinois,1
+25,Liz,Young,Sophomore,P,14,6,5,3,0,4,53,64,32,27,10,16,2.11,5,3.57,Southwestern Illinois,1
+7,Emily,Allsman,Sophomore,P,21,4,3,4,2,2,49.2,64,38,26,7,22,3.1,8,3.66,Southwestern Illinois,1
+9,Kiley,Ladage,Freshman,1B/P,2,1,1,0,0,1,9,8,2,1,2,4,3.11,0,0.78,Southwestern Illinois,1
+16,Lexi,Renner,Sophomore,OF/P,1,0,0,0,0,0,0.1,1,1,1,0,0,0,1,21,Southwestern Illinois,1
+10,Demi,Wolfe,Freshman,IF,37,30,10,15,0,11,160.2,200,145,110,73,118,5.14,22,4.79,Wabash Valley,1
+7,Lexi,Burris,Sophomore,P,32,25,7,12,1,10,133.2,209,146,116,57,81,4.24,12,6.07,Wabash Valley,1
+8,Kyrsten,White,Sophomore,P/OF,35,4,4,7,1,1,77.2,128,87,69,21,32,2.88,12,6.22,Wabash Valley,1
+8,Paige,Salazar,Sophomore,P/OF,28,10,10,11,0,6,130,182,112,82,45,110,5.92,16,4.42,Chandler-Gilbert,2
+5,Sydnee,Edwards,Sophomore,P/UT,23,15,6,10,1,7,80.1,123,100,76,46,58,5.05,12,6.62,Chandler-Gilbert,2
+16,Ahjaida,Solomon,Freshman,P/INF,28,16,2,7,0,2,76.1,149,125,100,71,49,4.49,12,9.17,Chandler-Gilbert,2
+10,Isabella,Hernandez,Freshman,Pitcher,19,13,1,3,0,0,32.1,80,63,46,17,26,5.63,6,9.96,Chandler-Gilbert,2
+3,Jocelyn,Ruiz,Freshman,Pitcher,3,0,0,0,0,0,2,8,11,7,4,1,3.5,0,24.5,Chandler-Gilbert,2
+15,Kelly,Katalbas,Freshman,,46,42,9,32,0,37,264.2,390,282,216,72,210,5.55,26,5.71,GateWay (AZ),2
+21,Kaitlin,Samuelson,Freshman,,8,6,0,5,0,1,11.2,25,46,17,25,9,5.4,0,10.2,GateWay (AZ),2
+4,Angelina,Martinez,Freshman,OF,5,0,0,1,0,0,5.2,20,22,15,7,2,2.47,1,18.53,GateWay (AZ),2
+24,Jai'dyn,Moore,Freshman,P/1B,2,0,0,0,0,0,3.2,16,21,16,4,1,1.91,1,30.55,GateWay (AZ),2
+99,MJ,Bannon,Freshman,NA,32,2,6,16,0,1,139,235,184,141,53,95,4.78,23,7.1,Glendale,2
+13,Mia,Machado,Sophomore,NA,36,0,3,18,0,0,113.2,233,191,116,46,39,2.4,23,7.14,Glendale,2
+33,Sydney,Roe,Sophomore,NA,13,1,3,6,0,0,57.1,70,50,36,25,43,5.25,12,4.4,Glendale,2
+17,Carmen,Salinas,Freshman,NA,10,0,1,3,0,0,14,43,43,36,12,9,4.5,12,18,Glendale,2
+3,Jade,Nunez,Sophomore,NA,4,0,0,0,0,0,7.1,7,10,4,2,5,4.77,1,3.82,Glendale,2
+16,Natalie,Martinez,Freshman,NA,2,0,0,0,0,0,5.1,8,10,10,5,2,2.63,2,13.13,Glendale,2
+77,Taylor,Caccavale,Freshman,NA,2,0,0,0,0,0,2,2,3,3,5,1,3.5,0,10.5,Glendale,2
+34,Alanie,Ornelas,Sophomore,P,31,20,12,10,0,5,117,176,116,106,42,62,3.71,20,6.34,Mesa,2
+2,Jerzey,Gutierrez,Freshman,P,20,13,8,7,0,10,82.1,107,69,61,23,74,6.29,16,5.19,Mesa,2
+9,Alyssa,Grandpre,Freshman,P,26,15,4,7,1,1,69.2,140,101,90,30,20,2.01,18,9.04,Mesa,2
+26,Sydnie,Navaho,Freshman,P,30,9,3,4,1,2,68,101,87,74,48,25,2.57,7,7.62,Mesa,2
+6,Dawn,Morris,Sophomore,NA,22,0,6,13,0,0,116.2,184,140,115,42,55,3.3,22,6.9,Paradise Valley,2
+19,Holly,Myers,Freshman,NA,22,0,6,12,0,0,107.2,173,164,134,82,32,2.08,14,8.71,Paradise Valley,2
+4,Angelique,Aguayo,Sophomore,NA,10,0,0,3,2,0,21.2,45,37,26,22,19,6.14,3,8.4,Paradise Valley,2
+22,Jazlyn,Romero,Sophomore,NA,9,0,0,2,0,0,17,31,33,29,16,2,0.82,2,11.94,Paradise Valley,2
+23,Emily,Viramontes,Sophomore,NA,1,0,0,0,0,0,3,4,2,2,1,3,7,0,4.67,Paradise Valley,2
+16,Alexis,Ayersman,Freshman,P/INF,35,19,21,4,2,16,160,165,82,57,43,132,5.77,7,2.49,Phoenix,2
+6,Loganne,Stepp,Freshman,,25,21,13,3,0,9,108,81,63,50,54,157,10.18,18,3.24,Phoenix,2
+2,Sydney,Haake,Freshman,P/INF,23,13,11,3,0,2,74.1,96,68,40,21,59,5.56,12,3.77,Phoenix,2
+44,Alyssa,Tinnin,Freshman,P,18,7,3,2,2,0,41,51,39,26,21,32,5.46,4,4.44,Phoenix,2
+3,Adriana,Armstrong,Freshman,P/1B,30,25,10,17,0,19,144,247,198,126,59,80,3.89,27,6.13,Scottsdale,2
+5,Catalina,Sanchez,Freshman,UTIL,22,18,3,14,0,11,83.2,144,119,76,46,30,2.51,19,6.36,Scottsdale,2
+27,Erica,Gilles,Freshman,P,10,2,1,2,0,1,23.1,44,38,26,18,5,1.5,7,7.8,Scottsdale,2
+7,Lakisha,Shorty,Sophomore,UTIL,6,1,0,0,0,0,13,18,21,16,12,7,3.77,3,8.62,Scottsdale,2
+8,Katherine,Lincoln,Freshman,MI/P,1,1,0,1,0,0,2.2,8,8,4,3,1,2.63,0,10.5,Scottsdale,2
+23,Anisa,Reynolds,Sophomore,P/OF,32,26,22,4,1,18,159.2,167,100,76,60,110,4.82,22,3.33,South Mountain,2
+1,Angelica,Tello,Freshman,P,29,24,17,2,2,12,124.2,129,99,74,25,95,5.33,24,4.16,South Mountain,2
+9,Mykenzie,Flores,Freshman,P,26,10,9,3,2,6,81.2,101,66,55,30,50,4.29,12,4.71,South Mountain,2
+22,Adenira,Marquez,Freshman,P/INF,11,4,6,1,0,4,33,32,22,17,11,12,2.55,8,3.61,South Mountain,2
+17,Isabel,Ray,Sophomore,RHP/IF,25,23,8,16,0,12,135.1,216,157,98,25,79,4.09,28,5.07,Carl Albert State,2
+19,Allee,Erne,Freshman,RHP,28,9,4,5,4,3,77.2,132,108,82,34,19,1.71,21,7.39,Carl Albert State,2
+7,Kattie,Bailey,Freshman,LHP/IF,20,11,2,10,3,2,60,84,114,66,65,12,1.4,9,7.7,Carl Albert State,2
+11,Shaileigh,Gilkey,Freshman,OF,1,1,1,0,0,1,7,5,4,2,2,9,9,0,2,Carl Albert State,2
+22,Abby,Ellis,Freshman,IF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Carl Albert State,2
+20,Alexa,Hopkins,Sophomore,P,53,4,22,2,3,1,172,112,29,25,21,168,6.84,3,1.02,Murray State,2
+11,Christina,Clark,Freshman,P,29,1,18,0,0,0,90,71,25,19,15,90,7,5,1.48,Murray State,2
+5,Ileana,Lucio,Sophomore,P,27,0,17,0,0,0,84,66,30,27,35,108,9,5,2.25,Murray State,2
+16,Taylor,Marchin,Freshman,P,5,0,1,0,0,0,8,9,7,7,1,5,4.38,2,6.13,Murray State,2
+26,Makenna,Keeton,Sophomore,P/1B,27,22,12,7,0,10,124.1,133,79,64,29,106,5.97,20,3.6,National Park,2
+10,Jadyn,Hart,Sophomore,P/OF,19,6,8,6,0,3,69,70,52,36,24,78,7.91,8,3.65,National Park,2
+5,Cameron,Person,Freshman,P/1B,23,15,6,5,0,2,67.1,80,54,35,48,41,4.26,6,3.64,National Park,2
+8,Kacey,Solida,Sophomore,P,23,11,7,2,2,5,64.1,81,44,36,17,37,4.03,11,3.92,National Park,2
+8,Alyson,Rooney,Freshman,P,23,19,5,15,0,16,114,175,146,81,32,93,5.71,16,4.97,North Arkansas,2
+25,Jorden,Hodges,Freshman,P,18,12,5,7,0,8,75.1,119,88,57,23,44,4.09,8,5.3,North Arkansas,2
+15,Macey,Teague,Freshman,P,15,5,1,9,0,2,53,103,77,55,18,15,1.98,6,7.26,North Arkansas,2
+7,Jessica,Fieker,Freshman,P,7,6,3,2,0,3,31.2,51,25,22,10,13,2.87,2,4.86,North Arkansas,2
+28,Mara,Lakey,Freshman,P,3,1,0,0,0,0,4.2,7,4,3,1,2,3,0,4.5,North Arkansas,2
+22,Morgan,Mcguire,Freshman,IF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,North Arkansas,2
+33,KARIS,ROBINSON,Sophomore,P,19,13,3,1,0,3,69.2,96,69,42,38,40,4.02,7,4.22,SAU Tech,2
+12,ELLIE,COX,Freshman,P/1B,16,5,2,0,1,1,40.2,59,40,32,12,18,3.1,2,5.51,SAU Tech,2
+1,RALEY,SULLIVAN,Sophomore,P,15,6,1,1,2,0,37.2,58,36,30,16,17,3.16,3,5.58,SAU Tech,2
+0,Jordyn,Standley,Sophomore,P,11,3,0,0,0,0,18.1,24,17,15,5,17,6.49,0,5.73,SAU Tech,2
+8,GABRIELLA,EVERITT,Freshman,P/3B,10,3,2,0,1,1,13,33,21,18,7,12,6.46,2,9.69,SAU Tech,2
+5,CADENCE,GRAY,Freshman,UTL,4,0,0,0,0,0,6.2,10,11,7,4,1,1.05,1,7.35,SAU Tech,2
+13,ALYSSA,STULTZ,Freshman,UTL,5,2,0,1,0,0,2.1,13,17,14,3,1,3,1,42,SAU Tech,2
+10,KATLYN,ERICKSON,Freshman,P,2,0,0,0,0,0,1,4,6,6,4,0,0,1,42,SAU Tech,2
+12,Peyton,McCloskey,Freshman,P,40,2,3,5,1,1,138.1,219,197,119,64,52,2.63,2,6.02,South Arkansas,2
+20,Jaden,Boydstun,Freshman,OF,25,2,1,0,0,0,72,114,107,69,52,33,3.21,3,6.71,South Arkansas,2
+24,Alyssa,Norris,Freshman,P,24,1,3,0,2,1,61.2,89,74,53,34,58,6.58,6,6.02,South Arkansas,2
+7,Makenna,Denofrio,Sophomore,INF,2,0,0,0,0,0,4,14,14,8,2,1,1.75,0,14,South Arkansas,2
+6,Gabbi,Kelly,Freshman,INF,1,0,0,0,0,0,1,3,3,3,0,0,0,0,21,South Arkansas,2
+13,Maddie,Muller,Freshman,P/IF,26,24,13,9,1,16,141.1,132,87,50,34,152,7.53,11,2.48,UA Rich Mountain,2
+0,Blaire,Gentry,Sophomore,P/IF,19,18,7,8,0,8,93,114,88,61,37,82,6.17,13,4.59,UA Rich Mountain,2
+20,McKenna,Bittle,Freshman,P/OF,13,6,1,3,1,0,34.1,44,33,25,26,32,6.52,2,5.1,UA Rich Mountain,2
+6,Caitlyn,Mayo,Sophomore,P/OF,16,2,3,4,1,1,29.1,35,24,16,9,19,4.53,3,3.82,UA Rich Mountain,2
+10,Elise,Trautman,Freshman,P/OF,8,1,3,0,1,1,14.1,16,8,7,6,11,5.37,1,3.42,UA Rich Mountain,2
+31,Madie,Rohre,Freshman,P/IF,1,0,0,0,0,0,1.2,7,6,6,0,1,4.2,0,25.2,UA Rich Mountain,2
+5,Bailey,Emery,Freshman,P/2B,28,25,13,8,0,11,129.2,160,120,88,81,125,6.75,9,4.75,Black Hawk-Moline,2
+14,Emily,Gamble,Sophomore,P/OF,28,22,9,11,0,9,129.2,164,132,80,50,91,4.91,8,4.32,Black Hawk-Moline,2
+17,Elizabeth,Fish,Freshman,P/UT,13,5,3,4,0,1,37.1,61,50,24,21,17,3.19,6,4.5,Black Hawk-Moline,2
+3,Olivia,King,Freshman,P/1B,11,4,5,1,1,1,32,40,41,27,20,22,4.81,1,5.91,Black Hawk-Moline,2
+8,Katelynn,Emerick,Freshman,P/2B/3B,20,2,2,1,5,0,31.1,42,19,15,2,14,3.13,2,3.35,Black Hawk-Moline,2
+2,Macey,Clark,Freshman,,28,24,14,8,0,17,144,170,95,73,56,146,7.1,9,3.55,Bryant and Stratton College (WI),2
+28,Kylie,Zehren,Freshman,P,22,18,10,6,2,5,100,121,80,61,47,72,5.04,11,4.27,Bryant and Stratton College (WI),2
+41,Erika,Reif,Sophomore,P,20,8,9,4,1,4,50.2,58,31,24,16,31,4.28,3,3.32,Bryant and Stratton College (WI),2
+25,Zaria,Jean-Pierre,Freshman,,5,1,0,0,1,0,9,14,8,5,5,4,3.11,0,3.89,Bryant and Stratton College (WI),2
+33,Jacie,Jones,Freshman,,2,0,0,0,2,0,6.2,9,4,4,2,5,5.25,0,4.2,Bryant and Stratton College (WI),2
+16,Chelsey,Catton,Sophomore,P,22,18,4,11,0,12,91,168,164,114,85,72,5.54,6,8.77,Carl Sandburg,2
+9,Brooklyn,Walker,Sophomore,P,19,15,6,7,0,9,82,131,98,67,51,60,5.12,4,5.72,Carl Sandburg,2
+13,Carley,Hacke,Freshman,P/IF,9,6,0,1,0,1,22.1,61,50,38,9,6,1.88,1,11.91,Carl Sandburg,2
+10,Ava,Ruggles,Freshman,IF,10,3,0,3,0,2,22.1,55,52,39,18,4,1.25,3,12.22,Carl Sandburg,2
+25,Maleaha,Nagel,Freshman,P/IF,4,3,0,3,0,2,13.1,28,23,20,9,5,2.63,5,10.5,Carl Sandburg,2
+0,Emma,Wolfe,Sophomore,IF,4,1,0,1,0,0,6.2,24,18,11,2,5,5.25,0,11.55,Carl Sandburg,2
+14,Rebecca,Schwartz,Freshman,P,35,23,18,11,0,18,173,235,146,105,51,172,6.96,17,4.25,Highland (IL),2
+13,Ashley,Vogel,Freshman,P/UT,28,26,11,11,0,15,121,193,123,81,22,44,2.55,8,4.69,Highland (IL),2
+12,Sloane,Ambrose,Freshman,P/INF,9,1,0,1,0,0,13.2,25,19,16,5,4,2.05,0,8.2,Highland (IL),2
+6,Anna,Skoumal,Freshman,OF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Highland (IL),2
+1,Neelah,Vandeberg,Freshman,INF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Highland (IL),2
+2,Katie,Bates,Freshman,"P, IF",22,1,10,5,0,1,110.2,117,64,38,24,108,6.83,2,2.4,Illinois Valley,2
+9,Holly,Shriber,Freshman,"P, IF",18,0,6,5,0,0,96.1,140,102,66,32,91,6.61,5,4.8,Illinois Valley,2
+5,Hailey,Rakers,Freshman,"P, IF",8,0,0,0,0,0,10.2,35,26,17,3,3,1.97,1,11.16,Illinois Valley,2
+24,Taylor,Staton,Sophomore,"P, IF",1,0,0,0,0,0,1.2,3,3,2,0,2,8.4,0,8.4,Illinois Valley,2
+24,Koralie,Morin,Freshman,P /IF,28,17,9,10,3,10,118.2,152,104,75,46,123,7.26,16,4.42,Kankakee,2
+6,Kaitlynn,Heale,Sophomore,P / OF,31,22,14,10,0,11,111.2,157,99,62,44,89,5.58,7,3.89,Kankakee,2
+20,Kaitlyn,Marks,Sophomore,P / OF,19,10,5,1,0,3,56,78,60,36,37,34,4.25,1,4.5,Kankakee,2
+19,Paxtyn,Hicks,Sophomore,IF / P,2,1,1,0,0,1,6.2,8,3,1,1,5,5.25,0,1.05,Kankakee,2
+14,Lauren,Waller,Freshman,IF / OF / P,1,0,0,0,0,0,1,3,4,4,3,1,7,1,28,Kankakee,2
+27,Kya,Logston,Jr,P/UT,27,24,2,10,0,18,125.1,267,211,160,60,72,4.02,12,8.94,Kishwaukee,2
+23,Reese,Ward,Sophomore,P/1B,26,24,3,6,0,18,124,256,172,139,36,84,4.74,6,7.85,Kishwaukee,2
+20,Samantha,Koper,Sophomore,UT,7,0,0,0,0,0,9.1,12,10,9,4,2,1.5,2,6.75,Kishwaukee,2
+12,Amber,Smith,Freshman,,28,19,3,12,0,5,99,150,154,107,73,109,7.71,3,7.57,Lake County,2
+16,Julianna,Villalobos,Jr,"P, 1B",31,15,2,14,0,5,83.2,154,176,97,82,40,3.35,7,8.12,Lake County,2
+23,Katelyn,Volkmar,Freshman,,14,6,0,6,0,1,35,79,86,68,41,6,1.2,3,13.6,Lake County,2
+10,Haley,Bibby,Sophomore,UT,1,1,0,0,0,0,1,1,4,3,2,1,7,0,21,Lake County,2
+19,Kiana,Patterson,Sophomore,P/OF,21,17,13,4,2,12,94,116,78,51,26,67,4.99,5,3.8,Madison,2
+2,Claire,Smedema,Sophomore,P/OF,18,9,5,3,0,3,57.2,59,35,20,25,53,6.43,1,2.43,Madison,2
+14,Hannah,Aldrich,Freshman,P/IF,15,10,6,4,0,3,56,69,50,38,28,34,4.25,7,4.75,Madison,2
+22,Addison,Warner,Sophomore,P,11,5,2,3,2,3,36,43,35,19,14,26,5.06,2,3.69,Madison,2
+8,Ella,Wyskochil,Freshman,P/UT,11,4,1,4,1,2,34.2,58,35,24,7,12,2.42,2,4.85,Madison,2
+20,Brooke,Cimler,Freshman,P/IF,2,2,0,2,0,0,5.1,9,8,4,5,2,2.63,0,5.25,Madison,2
+18,Abbie,Honkala,Freshman,P,23,11,2,1,0,7,80,157,136,99,52,37,3.24,8,8.66,McHenry County,2
+5,Peyton,Atwater,Sophomore,P/UTL,20,10,0,4,0,0,55.1,108,102,63,36,10,1.27,10,7.97,McHenry County,2
+22,Kelli,Seiler,Freshman,INF,17,9,0,0,0,0,38.2,71,62,51,34,9,1.63,10,9.23,McHenry County,2
+13,Caitlin,Pruitt,Sophomore,P/OF,1,0,0,0,0,0,2.2,3,2,2,4,0,0,0,5.25,McHenry County,2
+16,Kaylin,Berwanger,Freshman,OF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,McHenry County,2
+0,Lena,Rogers,Sophomore,INF/OF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,McHenry County,2
+3,Cassidy,Ostema,Freshman,P/1B,23,20,4,4,0,19,126.2,240,201,131,56,41,2.27,11,7.24,Moraine Valley,2
+9,Ruby,Amigon,Freshman,P/1B,16,14,3,3,0,5,53.2,126,108,88,38,20,2.61,8,11.48,Moraine Valley,2
+11,Emily,Madrigal,Sophomore,IF/P,15,7,3,3,0,6,53.1,110,78,46,15,11,1.44,4,6.04,Moraine Valley,2
+8,Heather,Ward,Sophomore,P/1B,31,23,6,13,0,10,134,230,168,113,45,54,2.82,13,5.9,Morton,2
+3,Kennedi,Meinecke,Sophomore,P/2B,30,22,8,11,0,10,132,236,178,127,38,69,3.66,17,6.73,Morton,2
+42,Mikayla,Berquist,Freshman,P/1B,16,11,4,8,1,8,73.2,96,58,28,11,55,5.23,4,2.66,Morton,2
+2,Kayla,Patrick,Freshman,OF/P,7,1,0,1,0,0,8,22,33,29,18,1,0.88,3,25.38,Morton,2
+1,Emily,Bickett,Freshman,SS/CF,3,0,0,0,0,0,2.2,7,10,6,6,2,5.25,1,15.75,Morton,2
+3,Colby,McDivitt,Freshman,P/INF,29,20,9,11,0,18,154.2,219,153,101,29,111,5.02,13,4.57,Prairie State,2
+43,Mariana,Serratos,Sophomore,P/2B,12,11,3,5,0,5,49.1,74,61,39,26,28,3.97,4,5.53,Prairie State,2
+14,Jayla,Matela,Freshman,P/OF,13,4,1,3,0,4,46,92,71,47,8,15,2.28,10,7.15,Prairie State,2
+1,Madison,Carlson,NA,P,35,30,25,4,1,20,166.2,157,80,51,29,140,5.88,6,2.14,Rock Valley,2
+16,Hannah,Martin,NA,P,30,14,10,5,1,4,96.1,90,60,39,35,87,6.32,9,2.83,Rock Valley,2
+22,Alison,Hassett,NA,P,23,12,8,3,0,5,67.2,75,50,38,36,59,6.1,12,3.93,Rock Valley,2
+21,Riley,Stiles,NA,P,2,0,0,0,0,0,2,4,6,5,4,4,14,0,17.5,Rock Valley,2
+11,Samantha,Tourtillott,NA,IF,1,0,0,0,0,0,1,0,0,0,1,1,7,0,0,Rock Valley,2
+14,Nicole,Boelens,Freshman,P/OF,16,9,1,4,0,6,52.2,123,102,79,30,25,3.32,1,10.5,Sauk Valley,2
+25,Tyra,Sayler,Freshman,P/IF,16,13,1,7,0,3,52.1,116,87,58,25,15,2.01,0,7.76,Sauk Valley,2
+22,Rileigh,Kinison,Sophomore,P/IF,17,2,0,0,0,1,49.2,96,72,49,20,10,1.41,1,6.91,Sauk Valley,2
+17,Madelynn,Jones,Freshman,P/IF,12,12,2,2,0,5,39.1,90,67,51,21,17,3.03,0,9.08,Sauk Valley,2
+18,Skyler,Katschke,Freshman,"P, 1B",28,15,9,2,0,7,94,103,59,40,44,45,3.35,13,2.98,South Suburban,2
+7,Genasis,Vanderlaan,Freshman,"P, 2B",27,20,9,3,0,8,93.2,110,82,63,30,68,5.08,13,4.71,South Suburban,2
+8,Abbey,Grafenauer,Freshman,"P, 1B",19,8,1,1,0,3,49,48,36,26,32,35,5,4,3.71,South Suburban,2
+11,MaCayla,Boone,Sophomore,"P, 1B",8,3,0,1,0,1,14,14,15,7,13,8,4,0,3.5,South Suburban,2
+27,Jocelyn,Rodriguez,Freshman,"P, Mid",7,0,1,2,0,0,9.1,17,14,13,12,5,3.75,1,9.75,South Suburban,2
+99,Claire,Schneider,Freshman,"P, UT",2,0,0,0,0,0,2.1,7,8,5,0,0,0,4,15,South Suburban,2
+26,Claire,Stillwell,Sophomore,,48,39,18,10,0,13,156,164,136,90,70,211,9.47,8,4.04,Triton,2
+14,McKenzie,Johnson,Freshman,RHP,33,11,18,7,1,7,154.2,122,102,68,79,227,10.27,7,3.08,Triton,2
+22,Daniella,Trentadue,Freshman,,12,3,2,2,0,1,26.1,31,23,19,18,24,6.38,4,5.05,Triton,2
+23,Jocelyn,Foss,Freshman,,6,0,1,1,1,0,11.2,13,9,8,5,7,4.2,0,4.8,Triton,2
+31,Jeri,Bradford,Freshman,RHP,2,0,0,0,0,0,3,4,2,0,2,3,7,0,0,Triton,2
+20,Breanne,Deutscher,Sophomore,,1,1,0,1,0,0,2,5,6,6,2,0,0,0,21,Triton,2
+18,Sarah,Mosqueda,Freshman,RHP,1,0,0,0,0,0,1,2,1,1,1,0,0,0,7,Triton,2
+13,Taylor,Warren,Sophomore,RHP,32,28,22,7,0,26,185.2,183,88,50,34,151,5.69,11,1.89,Waubonsee,2
+25,Taylor,Hamaker,Freshman,OF,16,4,6,2,0,2,48.2,56,32,18,11,40,5.75,5,2.59,Waubonsee,2
+19,Valerie,Osthoff,Freshman,INF,15,12,6,2,0,0,46.1,54,47,21,23,24,3.63,6,3.17,Waubonsee,2
+8,Kayla,Tranter,Sophomore,1B/OF,8,7,1,4,0,4,31.2,58,51,36,16,17,3.76,3,7.96,Waubonsee,2
+15,Brooklyn,Ellis,Freshman,P/IF,19,10,6,6,1,5,77,114,86,66,24,26,2.36,12,6,Allen County,2
+17,Skyler,Jackson,Sophomore,P/IF,17,14,6,7,1,6,75.1,78,72,50,42,63,5.85,9,4.65,Allen County,2
+9,MaKayla,McGinnis,Sophomore,P/IF,15,7,1,7,2,3,52.1,98,76,61,15,22,2.94,7,8.16,Allen County,2
+7,Morgan,Collins,Freshman,IF/P,11,7,2,3,0,1,38,58,77,46,46,22,4.05,9,8.47,Allen County,2
+0,Carissa,Knight,Sophomore,P/IF,4,3,0,2,1,1,13,23,24,17,7,7,3.77,1,9.15,Allen County,2
+5,Taylor,Dekok,Sophomore,P/1B,25,21,9,7,0,14,115.1,150,105,82,60,73,4.43,8,4.98,Cloud County,2
+17,Kiera,Brack,Freshman,P/1B,23,12,5,10,1,4,86,130,85,78,37,53,4.31,14,6.35,Cloud County,2
+8,Jayden,Rehlander,Freshman,OF/SS/:P,11,7,1,6,0,2,37.1,64,54,39,28,21,3.94,5,7.31,Cloud County,2
+15,Taryn,McKinney,Freshman,OF/P,12,5,3,2,0,1,27.1,40,36,27,18,12,3.07,0,6.91,Cloud County,2
+20,Lynsey,Stewart,Freshman,P/1B,12,1,2,1,1,0,20,28,24,18,10,8,2.8,4,6.3,Cloud County,2
+10,Joslyn,Airington,Sophomore,P/1B,19,7,3,6,0,2,74,132,101,82,33,31,2.93,10,7.76,Coffeyville,2
+20,Justina,Raye,Freshman,P/UTL,22,18,0,7,0,6,70.2,126,121,86,51,50,4.95,8,8.52,Coffeyville,2
+4,Jade,Jimboy,Freshman,P/OF,22,9,0,2,0,0,42.1,79,61,41,12,19,3.14,1,6.78,Coffeyville,2
+6,Morgan,McDaniel,Freshman,P/OF,14,4,0,0,0,0,15.1,41,42,29,17,4,1.83,4,13.24,Coffeyville,2
+7,Lainey,Hardman,Freshman,OF/P,7,1,0,0,0,0,9,24,35,26,14,3,2.33,4,20.22,Coffeyville,2
+23,Saige,Smith,Freshman,P,39,2,25,7,3,0,183.1,138,89,61,66,263,10.04,13,2.33,Cowley,2
+15,Jaala,Nowlin,Freshman,P,25,1,10,3,1,0,80,82,66,48,39,45,3.94,8,4.2,Cowley,2
+2,Ellie,Kuntz,Sophomore,P,17,2,3,3,1,1,34.1,41,38,24,31,37,7.54,3,4.89,Cowley,2
+21,Sydney,Price,Sophomore,P/INF,8,0,2,1,1,0,15.2,22,18,13,11,12,5.36,3,5.81,Cowley,2
+25,Taylor,Mercer,Sophomore,P,9,0,0,0,2,0,8.1,8,4,2,3,5,4.2,1,1.68,Cowley,2
+20,Kennedy,Toothman,Sophomore,P,7,0,0,1,2,0,8,13,9,8,2,1,0.88,0,7,Cowley,2
+18,Maddy,Cole,Freshman,,29,24,15,6,1,11,129.1,133,75,51,41,75,4.06,10,2.76,Fort Scott,2
+24,Jenni,Jennings,Sophomore,P,30,16,8,7,4,5,103.1,136,84,52,31,54,3.66,14,3.52,Fort Scott,2
+9,Brittany,Winchester,Sophomore,P/1B,21,8,6,3,2,1,65.2,104,57,45,18,29,3.09,10,4.8,Fort Scott,2
+20,Saedra,Allen,Sophomore,P,3,0,0,1,0,0,8.1,12,13,12,6,8,6.72,3,10.08,Fort Scott,2
+3,Julia,Paisley,Freshman,IF,1,0,0,0,0,0,2.1,0,2,2,5,0,0,0,6,Fort Scott,2
+12,Hannah,Williams,Sophomore,NA,26,9,4,14,0,5,139.1,172,124,82,91,117,5.88,11,4.12,Hesston,2
+7,Emma,Killingsworth,Freshman,NA,17,9,3,10,0,6,80,115,81,57,42,34,2.98,2,4.99,Hesston,2
+4,Lauren,Payne,Freshman,NA,11,4,2,4,1,0,23.1,35,45,40,40,4,1.2,3,12,Hesston,2
+10,EMMA,KREISEL,Freshman,RHP,28,20,13,10,2,10,116.1,139,89,69,60,145,8.72,4,4.15,Highland (KS),2
+15,HALLEY,ASBURY,Sophomore,LHP,26,15,5,6,0,6,86,111,71,60,50,114,9.28,10,4.88,Highland (KS),2
+6,MEG,MCCALLUM,Freshman,RHP,21,5,3,1,1,0,53.1,65,41,28,25,35,4.59,2,3.68,Highland (KS),2
+12,KENDYL,SCHMITZ,Freshman,RHP,11,6,4,4,0,1,24.2,46,38,35,15,16,4.54,2,9.93,Highland (KS),2
+7,ELLIE,STEMBER,Sophomore,RHP,7,1,1,0,0,0,9,13,12,9,10,9,7,1,7,Highland (KS),2
+22,CALLYN,PAVLISH,Sophomore,UT,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,Highland (KS),2
+28,Mykala,Johnico,Sophomore,RHP,31,25,15,11,0,20,166.1,105,73,49,78,259,10.9,11,2.06,Independence,2
+23,Graci,Buckley,Sophomore,RHP,19,15,8,6,0,10,98,104,79,61,47,84,6,9,4.36,Independence,2
+15,Gabriella,Simpson,Freshman,LHP,12,8,2,6,0,3,47.1,68,57,42,21,37,5.47,6,6.21,Independence,2
+27,Shelby,Kaack,Freshman,C/INF,1,0,0,0,0,0,3.2,1,0,0,1,2,3.82,0,0,Independence,2
+8,Jordan,Harrison,Sophomore,P/1B,26,17,20,3,0,13,134,100,45,34,46,159,8.31,6,1.78,Johnson County,2
+20,Maggie,McNally,Freshman,P/OF,26,23,13,4,0,10,113.2,82,63,44,82,132,8.13,3,2.71,Johnson County,2
+4,Deja,Gardenhire,Freshman,1B/P,9,0,0,1,1,0,11.1,14,14,10,4,4,2.47,2,6.18,Johnson County,2
+19,Landri,Lopez,Freshman,P,35,24,12,12,1,13,158.1,188,139,110,112,79,3.49,4,4.86,Kansas City Kansas,2
+9,Jayden,Hull,Freshman,P,26,17,7,9,0,7,104.1,172,105,93,45,41,2.75,9,6.24,Kansas City Kansas,2
+3,Jessica,Bell,Freshman,2B,5,0,0,0,0,0,10.1,9,8,8,8,1,0.68,0,5.42,Kansas City Kansas,2
+14,Karson,Hassan,Freshman,P,4,2,1,1,0,0,9,10,12,12,7,6,4.67,0,9.33,Kansas City Kansas,2
+12,Emily,Ashford,Sophomore,P,4,1,0,1,0,0,4.2,15,16,14,4,5,7.5,2,21,Kansas City Kansas,2
+4,Maya,Sheldon,Sophomore,OF,3,0,1,0,0,0,4,10,4,3,2,0,0,0,5.25,Kansas City Kansas,2
+11,Savannah,Short,Freshman,3B,2,1,0,0,0,0,3.2,3,4,3,5,1,1.91,0,5.73,Kansas City Kansas,2
+22,Raven,Hough,Sophomore,RHP,20,19,7,6,0,16,119,180,103,75,31,42,2.47,18,4.41,Labette,2
+25,Lexi,Miller,Freshman,RHP,21,17,5,4,0,13,103.1,143,105,72,37,41,2.78,16,4.88,Labette,2
+20,Ellie,Facklam,Sophomore,RHP/3B,14,10,6,4,0,8,64.2,72,56,32,21,25,2.71,9,3.46,Labette,2
+13,Lauren,Fuller,Sophomore,Pitcher,31,22,11,6,3,10,132.2,161,86,63,27,57,3.01,9,3.32,Neosho County,2
+33,Logan,Cates,Freshman,Pitcher,21,15,3,4,1,8,90.2,80,57,28,40,99,7.64,4,2.16,Neosho County,2
+23,Gracie,Turner,Freshman,Pitcher,21,9,3,4,2,3,69,94,61,42,26,42,4.26,15,4.26,Neosho County,2
+10,Dina,Marchoud,Freshman,Pitcher/Utility,6,2,0,1,0,0,14.1,20,17,10,7,8,3.91,2,4.88,Neosho County,2
+25,Zoe,Newcomb,Sophomore,First Base,5,2,1,0,0,0,12,22,16,10,7,3,1.75,2,5.83,Neosho County,2
+24,Vivian,Gorey,Freshman,,19,15,6,9,3,9,84,82,79,74,56,77,6.42,17,6.17,Florida State Jacksonville,2
+17,Savannah,Lister,Jr,P,17,12,3,8,1,6,60.2,77,52,41,26,24,2.77,5,4.73,Florida State Jacksonville,2
+20,Abby,Rutledge,Freshman,,16,6,4,2,2,2,52.1,49,38,30,23,42,5.62,2,4.01,Florida State Jacksonville,2
+21,Hailee,DeCicco,Sr,P,12,8,6,3,0,4,51,56,31,27,17,17,2.33,5,3.71,Florida State Jacksonville,2
+7,Darian,Pippin,Sophomore,RHP,32,23,16,7,1,14,152.1,139,77,58,28,108,4.96,12,2.67,Lake-Sumter State,2
+12,Ali,Shenefield,Sophomore,,25,18,18,4,3,13,125,97,43,34,27,158,8.85,9,1.9,Lake-Sumter State,2
+16,Mia,Lovett,Sophomore,RHP,15,9,2,4,0,1,44.1,65,43,28,18,23,3.63,0,4.42,Lake-Sumter State,2
+14,Kayley,Williams,Freshman,RHP,13,7,1,2,1,2,36.1,44,31,22,13,16,3.08,3,4.24,Lake-Sumter State,2
+6,Elizabeth,Auciello,Freshman,LHP,14,5,5,1,0,2,35.1,65,51,32,7,20,3.96,7,6.34,Lake-Sumter State,2
+29,Savannah,Lee,Sophomore,P/1B,21,17,9,5,0,8,100.2,112,52,40,28,51,3.55,2,2.78,Pasco-Hernando State,2
+2,Emily,Proctor,Sophomore,P,14,9,6,3,1,5,69.1,67,30,23,34,57,5.75,1,2.32,Pasco-Hernando State,2
+25,Jasmin,Fontela,Sophomore,P/1B,19,9,4,6,1,0,51.1,56,40,31,23,21,2.86,1,4.23,Pasco-Hernando State,2
+15,Ava,Daly,Freshman,P,19,5,7,3,1,1,50,56,28,15,16,31,4.34,1,2.1,Pasco-Hernando State,2
+6,Alysse,Bagley,Freshman,P,11,3,1,2,1,0,21.1,30,21,18,12,14,4.59,1,5.91,Pasco-Hernando State,2
+11,Gracie,Stanley,Freshman,Inf/P,6,2,0,1,1,0,13.2,16,12,10,7,7,3.59,0,5.12,Pasco-Hernando State,2
+16,Emylee,Mountin,Sophomore,P,34,3,4,7,1,0,128,199,123,68,35,26,1.42,5,3.72,South Florida State,2
+21,Makayla,Oster,Freshman,P/ 2nd,31,1,6,2,0,0,120.1,129,99,69,78,56,3.26,5,4.01,South Florida State,2
+6,Sidney,Toukonen,Freshman,P,27,3,2,7,2,0,95.1,92,100,65,78,65,4.77,4,4.77,South Florida State,2
+10,Kaylee,Underwood,Freshman,1ST,3,0,0,0,0,0,6.2,2,4,3,10,1,1.05,0,3.15,South Florida State,2
+24,Ana,Gonzalez,Sophomore,1 st,1,0,0,0,0,0,0,4,3,3,0,0,0,0,Inf,South Florida State,2
+21,Carolyn,Lasater,Freshman,RHP,31,26,6,15,0,15,146.1,213,160,117,98,47,2.25,20,5.6,St. Johns River State,2
+4,Lexi,Phillips,Sophomore,P/INF,24,18,8,11,3,10,117,143,91,68,35,49,2.93,10,4.07,St. Johns River State,2
+19,Bailey,Henderson,Freshman,RHP,18,11,3,7,0,3,45.2,88,92,74,44,11,1.69,1,11.34,St. Johns River State,2
+8,Tayler,Barrett,Sophomore,INF,16,2,1,2,1,0,42.1,65,50,35,23,15,2.48,2,5.79,St. Johns River State,2
+24,Madison,Duncan,Freshman,,5,2,0,2,0,1,20.2,28,29,22,25,5,1.69,1,7.45,St. Johns River State,2
+10,Marlee,Dillinger,Sophomore,P,1,1,0,1,0,0,2.1,3,5,3,6,1,3,0,9,St. Johns River State,2
+15,Kailee,Pollard,Sophomore,P/I,33,30,18,9,0,15,131.2,158,110,73,52,81,4.31,4,3.88,Central,2
+16,Addison,Kudron,Freshman,P,22,7,6,3,2,5,82.2,98,54,39,30,25,2.12,5,3.3,Central,2
+18,Andrea,Palma,Freshman,,16,6,4,1,0,3,45.1,57,38,32,16,27,4.17,5,4.94,Central,2
+4,Addison,Heule,Freshman,P,8,5,2,1,1,2,30.1,45,27,23,15,11,2.54,2,5.31,Central,2
+4,Angelina,Lockhart,Sophomore,P/OF,24,17,5,11,1,7,87,88,165,79,101,63,5.07,10,6.36,North Platte,2
+10,Taelyn,Dakamas,Sophomore,P,23,14,5,8,0,5,76.1,72,79,42,46,36,3.3,13,3.85,North Platte,2
+16,Sasha,Strandberg,Freshman,,10,8,1,4,0,2,40,48,63,40,30,37,6.48,12,7,North Platte,2
+23,April,Grace,Freshman,,9,6,3,3,0,2,30.1,25,40,22,27,15,3.46,4,5.08,North Platte,2
+11,Jenelle,Gudjonson,Freshman,,15,1,0,2,2,0,26.1,43,36,18,11,19,5.05,4,4.78,North Platte,2
+9,Paige,Beiriger,Sophomore,P/2B,22,19,9,8,1,15,120.1,167,117,83,34,38,2.21,23,4.83,Southeast,2
+28,Macy,Sabatka,Freshman,P/1B,24,16,2,13,0,10,109.2,191,166,105,16,29,1.85,21,6.7,Southeast,2
+45,Jaedyn,Ratzlaff,Freshman,P,9,7,1,6,0,6,39.2,76,71,53,25,19,3.35,9,9.35,Southeast,2
+2,Ellie,Haas,Freshman,P/1B,7,5,2,3,0,1,20,35,40,31,20,9,3.15,9,10.85,Southeast,2
+8,Savannah,Birdsong,Sophomore,"P, IF",24,18,5,9,1,12,106,127,110,85,81,113,7.46,13,5.61,Brunswick,2
+18,Zoie,Hamilton,Freshman,OF,19,16,5,11,0,2,77,120,106,78,40,61,5.55,8,7.09,Brunswick,2
+14,Ava,Hinson,Freshman,"P, 1B",16,4,2,2,2,0,32,49,69,36,32,33,7.22,3,7.88,Brunswick,2
+3,Emily,Jones,Freshman,"P, 2B",15,3,1,3,2,2,26,45,39,21,14,8,2.15,1,5.65,Brunswick,2
+16,Jennna,Davis,Freshman,OF,4,0,0,0,0,0,7,11,4,3,4,4,4,0,3,Brunswick,2
+4,Raven,Hampton,Sophomore,UT,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Brunswick,2
+12,Chloe,Gust,Freshman,1B/P,26,20,8,4,0,4,127.2,121,61,47,41,77,4.22,12,2.58,Bryant &amp; Stratton (VA),2
+23,Alyssa,Galvan,Sophomore,SP,18,15,6,3,0,3,71,111,62,48,19,27,2.66,12,4.73,Bryant &amp; Stratton (VA),2
+5,Kaitlyn,Covey,Freshman,"SP, U",14,5,2,1,1,2,51.1,66,50,36,23,23,3.14,7,4.91,Bryant &amp; Stratton (VA),2
+10,Rachel,Smith,Sophomore,SP,11,5,1,1,0,0,19.1,47,52,45,28,2,0.72,6,16.29,Bryant &amp; Stratton (VA),2
+2,Iyana,Betts,Freshman,"SP, CF",4,0,2,0,0,0,9.2,19,14,13,4,6,4.34,1,9.41,Bryant &amp; Stratton (VA),2
+6,Mayson,Lail,Freshman,,29,24,22,4,1,11,166,103,43,39,46,213,8.98,16,1.64,Catawba Valley,2
+20,Jillian,Jones,Sophomore,P/UTIL,26,25,21,2,0,9,150,120,51,36,31,108,5.04,9,1.68,Catawba Valley,2
+11,Brooke,Dover,Sophomore,P,35,29,8,4,0,13,186,186,143,96,118,175,6.59,14,3.61,Cleveland,2
+2,Kaylen,Cales,Freshman,Utility,21,12,2,7,0,5,81,118,131,76,74,27,2.33,7,6.57,Cleveland,2
+6,Andrea,Melton,Freshman,Utility,9,5,0,2,0,1,26.2,65,64,58,26,8,2.1,4,15.22,Cleveland,2
+16,Tamarah,Lowery,Freshman,P/1B,32,22,13,6,0,9,157.1,202,148,102,53,174,7.74,10,4.54,Fayetteville Tech,2
+9,Faith,Martin,Freshman,UTL,12,10,2,9,0,1,43,76,74,48,34,16,2.6,3,7.81,Fayetteville Tech,2
+8,Kylie,Reswik,Sophomore,P/1B,19,4,2,3,0,1,40,83,73,47,19,16,2.8,11,8.22,Fayetteville Tech,2
+1,Ava,Basolt,Freshman,IF,7,3,1,2,0,1,27.2,54,39,27,11,14,3.54,5,6.83,Fayetteville Tech,2
+6,Hailey,Pait,Sophomore,UTL,6,6,1,3,0,1,22,45,34,26,8,1,0.32,3,8.27,Fayetteville Tech,2
+13,Brianna,Brewer,Freshman,P,7,1,1,0,1,0,10.1,10,16,5,15,2,1.35,1,3.39,Fayetteville Tech,2
+14,Zoey,Jones,Freshman,,37,34,31,2,0,19,170,97,33,25,52,170,7,6,1.03,Louisburg,2
+21,Kennedy,Byrd,Freshman,,31,25,22,2,1,11,130,73,37,25,35,136,7.32,11,1.35,Louisburg,2
+33,Emilee,Prince,Sophomore,P,20,6,4,1,0,2,50.1,34,25,19,14,61,8.48,7,2.64,Louisburg,2
+79,Riley,Lingerfelt,Sophomore,P,18,3,5,0,1,1,44,24,12,8,8,55,8.75,6,1.27,Louisburg,2
+18,Darrah,Nickens,Freshman,,1,0,1,0,0,0,3,8,4,4,2,1,2.33,1,9.33,Louisburg,2
+1,Lindsey,Curlings,Sophomore,UTL,31,23,8,6,0,2,128.1,185,121,85,51,39,2.13,6,4.64,Pitt,2
+4,Amaya,Cerutti,Sophomore,P,17,8,4,4,0,0,58.1,90,70,38,13,23,2.76,8,4.56,Pitt,2
+21,Jalexis,Terry,Freshman,1B/P,7,0,0,0,0,0,12,19,19,17,19,2,1.17,0,9.92,Pitt,2
+12,Kearsyn,Henderson,Sophomore,INF,3,2,1,1,0,0,8.2,20,21,13,10,3,2.42,3,10.5,Pitt,2
+8,Emma,Fisher,Sophomore,UTL,5,2,1,1,0,0,6.1,18,26,24,17,6,6.63,5,26.53,Pitt,2
+5,Christa,Golden,Freshman,OF,2,0,0,0,0,0,1.1,0,0,0,0,2,10.5,0,0,Pitt,2
+28,Jayanna,Richards,Freshman,,20,12,2,6,0,1,86.1,139,93,51,18,51,4.14,6,4.14,Richard Bland,2
+16,Casey,Hart,Sophomore,P/1B,22,11,3,4,0,1,85.1,148,111,85,41,53,4.35,13,6.97,Richard Bland,2
+4,Lily,Curtis,Sophomore,OF/P,12,2,1,0,0,1,24,36,24,13,13,10,2.92,2,3.79,Richard Bland,2
+25,Maggie,Linthicum,Sophomore,P,8,4,2,0,0,0,15.2,33,34,22,12,8,3.57,4,9.83,Richard Bland,2
+44,Jenna,Nicolski,Freshman,,10,1,0,0,0,0,13,31,29,20,10,8,4.31,3,10.77,Richard Bland,2
+18,Lauren,Hilburn,,P,23,5,12,7,0,1,123.2,137,76,58,35,157,8.89,4,3.28,Southeastern-Whiteville,2
+4,Hannah,Andrews,,P,20,4,2,8,0,1,71,127,104,78,36,34,3.35,10,7.69,Southeastern-Whiteville,2
+5,Leah,Floyd,,UTL,8,2,0,1,0,0,23.1,44,41,26,15,11,3.3,3,7.8,Southeastern-Whiteville,2
+9,Marissa,Ivey,Freshman,P,5,0,0,1,0,0,7.1,17,13,11,7,2,1.91,1,10.5,Southeastern-Whiteville,2
+1,Carly,Billings,,OF,1,1,0,0,0,0,0.1,0,0,0,0,0,0,0,0,Southeastern-Whiteville,2
+41,Laci,Williams,Xfer.,NA,29,17,0,7,0,7,135.2,250,193,165,50,77,3.97,19,8.51,Southwest Virginia,2
+15,Lauren,Earls,Xfer.,NA,14,9,0,3,0,5,55.2,108,65,42,26,35,4.4,2,5.28,Southwest Virginia,2
+16,Olivia,Absher,Sophomore,NA,3,0,0,0,0,0,5,16,9,9,6,2,2.8,0,12.6,Southwest Virginia,2
+15,Tori,James,Freshman,,21,14,2,10,0,5,94.2,156,130,89,33,40,2.96,19,6.58,Wake Tech,2
+9,Lexi,Jones,Sophomore,RHP/UTL,21,16,4,12,0,5,87.2,166,126,98,33,24,1.92,20,7.83,Wake Tech,2
+13,Emily,Clark,Freshman,P,9,1,0,2,0,1,16,23,27,16,11,8,3.5,1,7,Wake Tech,2
+10,Allie,Lane,Freshman,SS,2,0,0,0,0,0,2,5,3,1,1,0,0,1,3.5,Wake Tech,2
+4,Sydney,Kennedy,Sophomore,RHP/Uti,35,31,27,4,0,15,169,129,70,47,62,257,10.64,16,1.95,Des Moines Area,2
+10,Courtney,Donahue,Freshman,RHP/1B,35,20,16,3,1,6,108.1,101,57,45,39,134,8.66,10,2.91,Des Moines Area,2
+12,Kinsley,Robertson,Freshman,RHP/1B,25,13,9,4,0,2,70.1,68,41,28,27,58,5.77,17,2.79,Des Moines Area,2
+19,Lauryn,Foudree,Freshman,RHP,19,1,0,0,0,0,33.1,32,15,11,9,38,7.98,3,2.31,Des Moines Area,2
+16,Grace,Bailey,Freshman,RHP/1B,12,1,2,1,3,0,20.1,22,7,6,2,14,4.82,1,2.07,Des Moines Area,2
+27,Lauren,Brennan,Sophomore,RHP/ 1B,23,10,1,12,1,2,77.1,149,128,95,37,34,3.08,14,8.6,Ellsworth,2
+11,Saige,Keller,Freshman,RHP/UTL,22,16,4,11,0,4,67.2,128,130,89,58,51,5.28,8,9.21,Ellsworth,2
+12,Jocelyn,Hartley,Sophomore,RHP,19,8,0,7,0,1,45,102,94,75,39,27,4.2,10,11.67,Ellsworth,2
+13,Taryn,Cory,Freshman,INF,14,12,0,10,0,1,40.2,100,94,81,27,21,3.61,13,13.94,Ellsworth,2
+20,Lili,Ruiz,Sophomore,RHP/ OF,9,0,0,0,0,0,13.2,32,24,21,6,8,4.1,2,10.76,Ellsworth,2
+5,Kierstyn,Sutton,Freshman,OF,2,0,0,0,0,0,3,8,8,8,5,0,0,0,18.67,Ellsworth,2
+26,Haley,Martinez,Freshman,P/INF,2,0,0,0,0,0,2.2,9,6,6,2,1,2.63,0,15.75,Ellsworth,2
+6,Marleigh,Sikes,Freshman,RHP/UTL,1,0,0,0,0,0,2.2,7,8,8,5,0,0,1,21,Ellsworth,2
+10,Katelynn,Hursh,Freshman,OF,1,0,0,0,0,0,1,0,1,0,1,1,7,0,0,Ellsworth,2
+17,Taylor,Lee,Sophomore,P,31,24,12,10,0,8,134.1,161,144,105,87,87,4.53,15,5.47,Iowa Central,2
+10,Katelyn,Dennis,Freshman,P,30,23,9,9,0,6,109.2,145,124,92,75,54,3.45,14,5.87,Iowa Central,2
+5,Riley,Gilroy,Sophomore,OF/P,35,10,9,7,6,9,106.1,92,82,65,69,134,8.82,16,4.28,Iowa Central,2
+25,Mackenna,Jones,Sophomore,P/1B,35,28,18,8,1,26,184.2,169,102,73,66,252,9.55,33,2.77,Iowa Lakes,2
+10,Jayda,Staige,Sophomore,P,23,13,6,6,0,2,74.2,95,112,81,64,79,7.41,14,7.59,Iowa Lakes,2
+21,Baylee,O'Donnell,Sophomore,P/1B,22,13,9,2,0,3,74,114,79,67,44,47,4.45,18,6.34,Iowa Lakes,2
+12,Kara,Maiers,Sophomore,P,28,24,15,9,1,18,159.1,146,86,47,43,166,7.29,18,2.06,Kirkwood,2
+4,Sailor,Hall,Freshman,P,29,24,19,4,0,14,138.2,144,78,56,26,83,4.19,13,2.83,Kirkwood,2
+14,Jenna,Sprague,Freshman,P,24,13,10,5,0,8,81,81,45,34,16,80,6.91,14,2.94,Kirkwood,2
+13,Delia,Schwartz,Freshman,P,6,2,1,0,0,1,17,25,17,15,5,3,1.24,5,6.18,Kirkwood,2
+3,Laken,Lienhard,Sophomore,P/INF,27,21,19,5,1,18,136,127,78,53,35,126,6.49,19,2.73,North Iowa Area,2
+10,Brynn,Stalberger,Freshman,,26,22,11,6,0,13,123,140,112,83,62,106,6.03,18,4.72,North Iowa Area,2
+11,Emily,Jones,Freshman,,12,6,6,2,0,3,41,47,33,19,7,22,3.76,6,3.24,North Iowa Area,2
+31,Leah,Martinez,Freshman,,1,0,0,0,0,0,1,0,0,0,1,1,7,0,0,North Iowa Area,2
+11,Jade,Schultz,NA,NA,27,19,13,9,2,16,150,181,106,72,44,157,7.33,5,3.36,Alpena,2
+5,Alaina,Saari,NA,NA,11,8,4,3,0,4,36.2,63,39,23,6,12,2.29,1,4.39,Alpena,2
+22,Makayla,Kamyszek,NA,NA,7,4,1,2,0,1,24,54,49,30,12,10,2.92,2,8.75,Alpena,2
+9,Rhea,Amrich,NA,NA,1,1,0,1,0,0,0.2,2,3,3,3,0,0,0,31.5,Alpena,2
+23,Elizabeth,Romel,NA,NA,1,1,0,0,0,0,0,3,5,3,1,0,0,0,Inf,Alpena,2
+3,Rachael,Winkel,Sophomore,P,33,24,9,17,0,15,157.1,262,179,133,60,115,5.12,19,5.92,Bay College,2
+9,Natalie,Belanger,Sophomore,IF,19,13,2,5,1,1,59.2,90,91,52,50,49,5.75,11,6.1,Bay College,2
+17,Isabella,Drabant,Freshman,P,6,4,0,4,0,1,23,43,26,22,12,7,2.13,3,6.7,Bay College,2
+11,Brooke,Gannon,Sophomore,P,6,0,1,1,0,0,12,22,21,17,16,10,5.83,0,9.92,Bay College,2
+8,Diane,Salinas,Freshman,P,5,1,0,2,0,0,8,36,34,21,1,4,3.5,0,18.38,Bay College,2
+6,Kali,Stanchina,Freshman,IF,1,0,0,0,0,0,0,3,4,4,0,0,0,1,Inf,Bay College,2
+19,Sam,Goode,Sophomore,P/ 1B,13,8,2,7,0,4,67.2,119,84,59,23,54,5.59,4,6.1,Bryant & Stratton (OH),2
+25,Rylee,Croucher,Freshman,,11,9,1,5,0,4,51.2,115,109,90,42,39,5.28,4,12.19,Bryant & Stratton (OH),2
+21,Lexie,George,Freshman,,1,1,0,0,0,0,5,7,2,2,1,6,8.4,0,2.8,Bryant & Stratton (OH),2
+8,Abby,Southern,Freshman,,1,0,0,0,0,0,0.2,0,0,0,1,1,10.5,0,0,Bryant & Stratton (OH),2
+7,Amariah,Hoerner,Freshman,,15,3,2,1,0,3,84.2,115,94,74,56,82,6.78,2,6.12,Clark State,2
+13,Hailey,Berry,Freshman,P,10,2,0,3,0,1,35.2,80,83,64,34,8,1.57,1,12.56,Clark State,2
+10,Arizona,Henderson,Sophomore,INF,8,0,0,0,0,0,14,35,26,17,8,6,3,2,8.5,Clark State,2
+18,Hallie,Mullett,Sophomore,NA,21,5,6,6,1,2,85,112,77,54,17,92,7.58,7,4.45,Cuyahoga,2
+31,Lyndsey,Baglia,Sophomore,NA,23,3,4,5,0,1,81.1,115,82,67,18,85,7.32,7,5.77,Cuyahoga,2
+25,Maelly,McGowen,Freshman,NA,12,0,2,0,0,0,22,37,23,18,4,5,1.59,3,5.73,Cuyahoga,2
+26,Olivia,Lopez,Freshman,NA,5,0,0,1,0,0,10.2,30,31,17,9,4,2.63,2,11.16,Cuyahoga,2
+13,Mikayla,Rash,Freshman,NA,3,1,0,1,0,0,6.1,16,19,19,5,1,1.11,4,21,Cuyahoga,2
+9,Grace,Shaffer,Sophomore,P,24,14,11,7,0,7,115,163,107,67,32,76,4.63,7,4.08,Edison State,2
+12,Savannah,Wead,Sophomore,P,28,18,13,5,2,6,100.2,170,114,91,51,76,5.28,6,6.33,Edison State,2
+24,Anna,Quinn,Freshman,P/U,13,5,5,1,0,3,31,55,41,27,9,13,2.94,3,6.1,Edison State,2
+21,Morgan,Pine,Sophomore,1B/P,10,1,0,2,4,0,12,24,20,16,6,8,4.67,2,9.33,Edison State,2
+19,Hallie,McCoy,Sophomore,NA,20,16,3,11,0,7,83.1,136,104,58,12,39,3.28,12,4.87,Glen Oaks,2
+12,Dakota,Sigler,Freshman,NA,19,7,4,9,0,3,75.1,114,87,54,34,47,4.37,3,5.02,Glen Oaks,2
+21,Sierra,Smith,Freshman,NA,10,5,2,4,0,2,33,40,27,19,14,16,3.39,1,4.03,Glen Oaks,2
+22,Brenna,Meyer,Freshman,NA,13,4,0,2,0,0,21.1,31,23,14,9,8,2.63,4,4.59,Glen Oaks,2
+13,Torie,Barga,Freshman,NA,1,1,1,0,0,1,6,11,6,6,2,5,5.83,1,7,Glen Oaks,2
+0,Izabella,Regner,Freshman,P/MI,29,26,20,5,3,23,174.2,126,54,34,29,292,11.7,7,1.36,Grand Rapids,2
+19,Macy,Huver,Freshman,P/1B/3B,20,17,5,13,0,13,102,214,181,117,30,33,2.26,20,8.03,Grand Rapids,2
+3,Alyssa,Wierenga,Freshman,MI/OF,1,0,0,0,0,0,2.1,5,6,6,4,0,0,0,18,Grand Rapids,2
+10,Sydney,Pease,Freshman,"P,2B",25,18,11,5,0,9,110.2,148,82,62,41,61,3.86,7,3.92,Henry Ford,2
+11,Jessica,Hoeszle,Freshman,P,22,13,7,6,1,9,90.1,147,92,49,27,68,5.27,6,3.8,Henry Ford,2
+34,Jada,Oliver,Freshman,"P,3B",13,5,2,2,0,1,43.1,64,55,42,19,17,2.75,4,6.78,Henry Ford,2
+8,Josephine,Niehoff,Freshman,"P, 1B",3,3,0,1,0,0,7,18,14,12,5,0,0,0,12,Henry Ford,2
+41,Alina,Uicker,Sophomore,"P, UT",3,2,0,0,0,0,6.1,11,6,5,0,3,3.32,1,5.53,Henry Ford,2
+15,Jaylynn,Reyes,Freshman,"P, 3B",1,0,0,0,0,0,1,5,5,3,0,0,0,0,21,Henry Ford,2
+9,Andee,Lester,Sophomore,P/1st,18,8,7,2,0,5,81.2,86,67,46,61,47,4.03,1,3.94,Hocking,2
+99,Alexis,Wilkes,Freshman,P/1st,16,4,4,1,0,2,63.1,82,64,45,34,34,3.76,3,4.97,Hocking,2
+21,Kristen,Stromack,Freshman,P/Inf,11,7,1,3,0,2,43.2,33,19,16,13,50,8.02,1,2.56,Hocking,2
+45,Abigail,Wilkerson,Freshman,P,6,0,1,0,0,0,21.2,31,18,11,10,13,4.2,2,3.55,Hocking,2
+16,Carah,Mldadek,Freshman,P/OF,4,0,0,0,0,0,12,16,11,10,5,4,2.33,0,5.83,Hocking,2
+3,Karyna,Lewis,Freshman,OF,1,0,0,0,0,0,5,8,3,3,1,0,0,0,4.2,Hocking,2
+19,Emily,Breslin,Sophomore,P/1B,30,25,18,5,0,21,162,126,49,32,22,199,8.6,10,1.38,Jackson,2
+23,Ashley,Williams,Sophomore,P/1B,19,17,7,6,0,3,75,73,60,38,61,68,6.35,3,3.55,Jackson,2
+6,Rayven,Buchanan,Freshman,P,17,8,6,2,0,2,50.2,59,42,27,24,54,7.46,3,3.73,Jackson,2
+2,Morgan,Michael,Sophomore,P/2B,20,2,4,0,1,0,44.1,73,56,35,17,23,3.63,1,5.53,Jackson,2
+32,Lauren,Keller,Freshman,P/OF,8,6,5,2,0,2,28,48,33,26,19,16,4,2,6.5,Jackson,2
+22,Savannah,Kirk,Sophomore,UT,1,0,0,0,0,0,2,1,1,1,0,0,0,0,3.5,Jackson,2
+10,Sophia,Pavese,Sophomore,P/OF,24,23,8,8,0,10,105,120,81,69,46,107,7.13,14,4.6,Kalamazoo Valley,2
+6,Hannah,Mellinger,Sophomore,,19,12,6,1,0,6,71,93,61,50,21,48,4.73,12,4.93,Kalamazoo Valley,2
+22,Bayli,Reed,Freshman,P/1B,17,1,1,0,0,1,42.2,64,38,29,17,20,3.28,12,4.76,Kalamazoo Valley,2
+15,Abby,Lucas,Freshman,P/1B,15,9,4,4,0,1,33.1,52,48,37,16,23,4.83,7,7.77,Kalamazoo Valley,2
+4,Karly,Manning,Freshman,NA,27,18,12,7,0,14,139.1,124,86,45,67,203,10.2,10,2.26,Lake Michigan,2
+23,Angela,Schmidt,Sophomore,NA,24,20,4,8,0,12,100.1,171,114,77,16,82,5.72,4,5.37,Lake Michigan,2
+6,Jersie,Dawson,Freshman,NA,10,4,1,0,0,2,24.2,62,51,45,20,15,4.26,7,12.77,Lake Michigan,2
+5,Lily,Seay,Freshman,RHP/OF,14,2,0,3,0,2,62,116,108,84,56,27,3.05,5,9.48,Lakeland,2
+14,Tatianna,Matuz,Sophomore,1B/3B,11,3,1,4,0,2,47,126,97,75,19,10,1.49,3,11.17,Lakeland,2
+1,Faith,Hartman,Freshman,RHP/OF,6,1,0,1,0,0,29,58,51,41,13,15,3.62,2,9.9,Lakeland,2
+10,Samantha,Toke,Sophomore,OF,3,0,0,0,0,0,8.2,22,20,17,8,5,4.04,1,13.73,Lakeland,2
+9,Morgen,Ahlfeld,Sophomore,"P,OF",35,7,22,11,1,5,175,196,118,84,62,198,7.92,20,3.36,Lansing,2
+23,Madison,Travis,Freshman,"P,OF",16,0,6,3,1,0,55.2,64,50,32,25,33,4.15,9,4.02,Lansing,2
+21,Lydia,Davenport,Sophomore,"P,IF",18,1,6,5,0,0,55,76,65,50,20,51,6.49,13,6.36,Lansing,2
+18,Kelsey,Merillat,Freshman,P,16,0,1,1,0,0,27.1,35,25,15,5,17,4.35,6,3.84,Lansing,2
+18,Allison,Vogt,Freshman,RHP,28,18,12,8,1,14,118.2,162,75,65,26,125,7.37,9,3.83,Macomb,2
+5,Carly,Sierzenga,Sophomore,LHP,19,14,5,8,1,6,78.1,127,72,59,29,72,6.43,6,5.27,Macomb,2
+27,Katelynn,Fraser,Freshman,RHP,18,10,5,4,1,2,76,122,65,52,29,44,4.05,9,4.79,Macomb,2
+3,Jessica,Dineen,Sophomore,,22,7,0,0,0,0,60,126,111,64,9,10,1.17,3,7.47,Marian-Ancilla,2
+18,Victoria,Franklin,Sophomore,,14,2,0,0,0,0,44.1,62,86,51,34,19,3,1,8.05,Marian-Ancilla,2
+31,Madison,McGuire,Sophomore,,12,2,0,0,0,0,15.2,30,24,18,6,1,0.45,1,8.04,Marian-Ancilla,2
+99,Alexis,Janeczko,Sophomore,,8,0,0,0,0,0,15.1,46,47,27,15,5,2.28,4,12.33,Marian-Ancilla,2
+8,Allison,Zahm,Freshman,,12,3,0,0,0,0,12.2,34,36,29,17,4,2.21,4,16.03,Marian-Ancilla,2
+20,Jane,Wright,Sophomore,RF,4,1,0,0,0,0,7.2,30,24,18,2,0,0,0,16.43,Marian-Ancilla,2
+24,Ally,Hamm,Sophomore,,1,0,0,0,0,0,4,0,8,0,1,1,1.75,0,0,Marian-Ancilla,2
+19,Hannah,Goldsborough,Sophomore,,2,0,0,0,0,0,3.1,14,17,10,6,1,2.1,1,21,Marian-Ancilla,2
+6,Makayla,Serrano,Freshman,,1,0,0,0,0,0,3,7,7,2,0,1,2.33,0,4.67,Marian-Ancilla,2
+7,Kierra,Himes,Freshman,,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,Marian-Ancilla,2
+82,Izzy,Johnson,Sophomore,,1,0,0,0,0,0,0.1,1,0,0,0,0,0,0,0,Marian-Ancilla,2
+14,Heidi,Nagel,Freshman,P,36,18,17,9,0,16,177.2,164,82,55,38,257,10.13,11,2.17,Mid Michigan,2
+22,Maggie,Wallace,Sophomore,P/1B,17,4,2,10,0,0,55.1,127,121,68,28,34,4.3,6,8.6,Mid Michigan,2
+10,Shelby,Bundy,Freshman,,13,6,3,3,0,1,45.1,60,56,36,26,37,5.71,8,5.56,Mid Michigan,2
+1,Angelina,Lanham,Sophomore,OF,7,5,1,2,0,1,26,32,34,24,22,23,6.19,4,6.46,Mid Michigan,2
+33,Joey,Newton,Freshman,P,30,17,11,7,3,10,113.1,169,119,112,53,83,5.13,22,6.92,Mott,2
+14,Claire,Ouellette,Freshman,P/1B,17,12,8,3,1,6,74,123,61,54,7,34,3.22,10,5.11,Mott,2
+24,Isabella,Passey,Freshman,P/OF,15,14,4,9,0,5,67.2,124,89,67,18,35,3.62,11,6.93,Mott,2
+4,Madalyn,Caudill,Freshman,P/OF,9,3,1,3,0,2,23,51,37,34,10,10,3.04,2,10.35,Mott,2
+27,Mara,LaHaine,Freshman,P,4,0,0,0,0,0,4,8,4,3,2,2,3.5,0,5.25,Mott,2
+13,Lilli,Goodrich,Freshman,P/1B,15,11,4,7,2,10,75,90,63,48,44,75,7,5,4.48,Muskegon,2
+2,Brianna,Pastor,Sophomore,P/IF,10,9,3,5,0,5,49.2,76,67,46,22,28,3.95,5,6.48,Muskegon,2
+3,Cassie,Kohnke,Sophomore,OF/P,10,5,2,4,0,1,30,62,55,40,21,7,1.63,7,9.33,Muskegon,2
+8,Brooklyn,Galdeen,Freshman,IF/P,6,4,2,2,0,2,24.2,39,23,19,5,13,3.69,2,5.39,Muskegon,2
+6,Emily,Meyer,NA,NA,28,19,14,5,0,11,126,165,103,76,36,90,5,11,4.22,Oakland,2
+1,Emma,McGrath,NA,NA,29,10,12,3,2,7,93,111,69,49,46,49,3.69,6,3.69,Oakland,2
+7,Shelby,Skrzypczak,NA,NA,22,9,10,4,0,1,72,103,73,52,23,28,2.72,9,5.06,Oakland,2
+17,Emma,Ruthenberg,NA,NA,4,0,0,0,0,0,6.2,14,9,7,2,0,0,0,7.35,Oakland,2
+3,Shannon,Mosesso,Freshman,P,21,15,4,10,0,8,98,142,103,71,46,50,3.57,2,5.07,Schoolcraft,2
+11,Alexa,Swiatkowski,Freshman,P,13,6,3,3,0,3,43,73,53,30,18,14,2.28,4,4.88,Schoolcraft,2
+5,Sophie,Bater,Sophomore,P/IF,15,10,1,7,0,3,38.2,54,49,38,27,17,3.08,3,6.88,Schoolcraft,2
+17,Emily,Wiltsie,Sophomore,P,11,6,0,2,0,3,30.1,65,45,37,16,15,3.46,4,8.54,Schoolcraft,2
+24,Amber,Burzlaff,Freshman,P/OF,4,0,0,0,1,0,3.1,9,9,7,3,0,0,0,14.7,Schoolcraft,2
+10,Kenadee,Amshay,Sophomore,P,25,4,0,14,0,2,85.2,171,162,93,58,36,2.94,6,7.6,St. Clair County,2
+5,Kaylie,Rickert,Freshman,P,22,2,1,6,0,0,62.1,143,101,83,13,29,3.26,17,9.32,St. Clair County,2
+2,Meriah,Mason,Sophomore,OF,18,4,1,10,0,1,47.1,118,91,64,20,29,4.29,9,9.46,St. Clair County,2
+12,Brandi,Bassett,Freshman,UT,12,1,0,3,0,1,37,61,43,38,7,15,2.84,7,7.19,St. Clair County,2
+8,Morgan,Gianformaggio,Freshman,P,2,0,1,0,0,0,4,6,8,7,3,0,0,1,12.25,St. Clair County,2
+11,Abigail,Thibodeau,Sophomore,C/2B,1,0,0,0,0,0,1,2,3,3,2,0,0,0,21,St. Clair County,2
+11,Brooklyn,Benno,Sophomore,P/1B,30,3,5,17,0,3,137,252,176,131,36,96,4.91,25,6.69,Bismarck State,2
+24,Julie,Dysart,Freshman,,17,1,3,8,0,1,56.1,142,116,70,37,11,1.37,13,8.7,Bismarck State,2
+10,Malee,Wittenberg,Sophomore,Util,6,0,0,1,0,0,11.1,45,42,41,18,7,4.32,1,25.32,Bismarck State,2
+18,Emily,Kuehl,Sophomore,P,19,18,6,8,0,12,98.1,165,120,65,21,76,5.41,12,4.63,Dakota County Tech,2
+16,Allie,Sibbald,Freshman,P,16,10,3,6,0,9,69.2,96,68,50,22,47,4.72,7,5.02,Dakota County Tech,2
+15,Heather,Berrett,,NA,29,23,16,0,0,13,137,123,69,43,38,176,8.99,4,2.2,Dawson,2
+42,Faith,McDonald,,NA,19,8,9,2,0,4,67.1,63,39,27,19,67,6.97,3,2.81,Dawson,2
+23,Alison,Eldridge,Sophomore,NA,9,4,1,2,0,0,25.1,31,33,24,21,16,4.42,4,6.63,Dawson,2
+27,Ashlyn,Cowdell,,NA,3,2,2,1,0,0,10,8,7,7,10,9,6.3,0,4.9,Dawson,2
+18,Bradie,Strang,,NA,5,0,0,0,0,0,5.1,4,5,3,0,5,6.56,2,3.94,Dawson,2
+8,Jaylin,Joss,Sophomore,,20,17,5,10,0,12,106.1,163,124,88,43,76,5,12,5.79,Lake Region State,2
+10,Darian,Bender,Freshman,P,15,11,1,10,0,3,49.1,97,101,79,37,25,3.55,16,11.21,Lake Region State,2
+24,Madison,Dauphinais,Freshman,P,18,6,1,5,0,2,29.1,79,93,82,34,19,4.53,18,19.57,Lake Region State,2
+12,Taylor,Gebhart,Freshman,,11,3,0,3,0,0,13.1,30,32,28,23,6,3.15,7,14.7,Lake Region State,2
+7,Gabrielle,Delorme,Freshman,,4,1,1,3,0,0,6.1,16,19,17,6,12,13.26,1,18.79,Lake Region State,2
+17,Jozey,Goodall,Sophomore,,5,1,0,1,0,0,6.1,15,16,15,9,3,3.32,3,16.58,Lake Region State,2
+13,Tesia,Hrom,Sophomore,,3,2,0,1,0,0,3,5,15,14,15,0,0,0,32.67,Lake Region State,2
+44,Peyton,Whitehead,Freshman,P/INF,21,13,11,4,0,11,92.1,88,59,45,43,84,6.37,14,3.41,Miles,2
+35,Madilyn,Henry,Sophomore,P/INF,13,11,10,1,0,9,63.1,87,58,44,17,44,4.86,9,4.86,Miles,2
+99,Alex,Carr,Sophomore,P/OF,13,9,7,0,0,5,48.1,56,39,28,12,36,5.21,9,4.06,Miles,2
+27,Hazel,Eaton,Sophomore,,9,7,6,2,0,5,28,43,28,25,16,16,4,7,6.25,Miles,2
+2,Arin,Eaton,Freshman,,3,3,1,1,0,0,9,16,12,11,6,9,7,1,8.56,Miles,2
+10,Kaleigh,Topilko,Freshman,P/1B,21,16,2,7,0,9,101,173,129,108,63,83,5.75,15,7.49,Williston State,2
+2,Poppy,Carman,Sophomore,P / 1B,21,11,4,2,0,6,57,125,92,66,35,39,4.79,7,8.11,Williston State,2
+24,Ava,Keicher,Freshman,P,17,10,1,4,0,2,50,129,103,91,30,11,1.54,9,12.74,Williston State,2
+14,Taylan,Hansen,Freshman,P/INF,10,2,0,0,0,0,16.2,43,40,27,14,6,2.52,6,11.34,Williston State,2
+3,Taylor,Barman,Sophomore,P/INF,9,3,0,2,0,0,15.1,23,22,8,13,5,2.28,3,3.65,Williston State,2
+14,Molly,Martin,Freshman,P/OF,24,2,3,7,0,2,75.1,151,92,71,26,49,4.55,6,6.6,Orange County,2
+15,Erin,Feeney,Sophomore,P/C/INF,13,2,3,8,0,1,59,114,100,52,34,37,4.39,3,6.17,Orange County,2
+6,Jessica,Stewart,Sophomore,P/INF,10,3,1,5,0,0,16,38,45,28,13,5,2.19,2,12.25,Orange County,2
+21,Miranda,Faber,Freshman,P/INF,5,2,0,2,0,0,13,30,22,15,4,3,1.62,0,8.08,Orange County,2
+7,Madison,Brennan,Freshman,C/ INF,4,0,1,1,0,0,5.1,15,19,15,8,2,2.63,1,19.69,Orange County,2
+15,Taylor,Hanger,Sophomore,P / 1B,23,19,12,9,0,16,123.2,160,95,67,42,80,4.53,10,3.79,East Central (MO),2
+23,Kylie,McDaniel,Freshman,P / OF,20,13,3,11,0,3,66.2,122,95,54,19,38,3.99,8,5.67,East Central (MO),2
+31,Ryan,Stutzman,Freshman,3B / P,17,8,1,4,0,2,52,91,71,44,25,24,3.23,12,5.92,East Central (MO),2
+10,Mattison,Webb,Sophomore,P,29,23,4,12,0,7,118.2,184,169,111,76,43,2.54,19,6.55,Mineral Area,2
+6,Alyssa,Spane,Sophomore,,28,23,3,17,0,7,117,223,180,139,74,44,2.63,26,8.32,Mineral Area,2
+15,Alyssa,Brown,Freshman,,18,3,0,4,1,2,40.2,81,59,45,17,9,1.55,10,7.75,Mineral Area,2
+16,Chloe,Coppedge,Sophomore,1B,3,0,0,0,0,0,9,14,9,5,3,3,2.33,2,3.89,Mineral Area,2
+21,Emily,Miranda,Freshman,IF,5,0,0,0,0,0,8.2,12,5,5,4,1,0.81,0,4.04,Mineral Area,2
+22,Mady,Klostermann,NA,NA,26,23,9,11,0,12,118,165,115,78,17,76,4.51,5,4.63,Moberly Area,2
+11,Gracie,Hatton,NA,NA,22,18,4,12,0,4,89,143,121,72,45,46,3.62,11,5.66,Moberly Area,2
+24,Abigayle,McNelly,NA,NA,16,3,0,5,0,0,36.2,57,52,30,19,16,3.05,0,5.73,Moberly Area,2
+30,Madelynn,Harvey,NA,NA,13,3,1,1,0,0,28.1,62,60,38,19,8,1.98,3,9.39,Moberly Area,2
+35,Emma,West,NA,NA,7,0,2,0,0,0,10.1,18,10,9,8,3,2.03,0,6.1,Moberly Area,2
+2,Lexi,Sherrick,Sophomore,P/2B,32,29,26,3,1,20,171.1,139,63,44,37,162,6.62,6,1.8,St. Louis,2
+7,Erin,Gill,Sophomore,OF/P,25,25,19,1,0,10,105.1,87,39,26,36,71,4.72,5,1.73,St. Louis,2
+11,Mackenzie,Caudill,Sophomore,P,24,5,8,3,1,5,78.2,56,22,20,54,78,6.94,5,1.78,St. Louis,2
+18,Kaylee,Yost,Freshman,P/OF,3,0,0,0,0,0,5.1,3,3,0,3,6,7.88,0,0,St. Louis,2
+17,Isabella,Pondrom,Sophomore,P/INF,3,0,0,0,0,0,2,5,11,6,7,2,7,2,21,St. Louis,2
+5,Carly,Collins,Sophomore,P,26,6,14,4,0,3,114.1,116,57,45,19,98,6,6,2.76,Delaware Tech,2
+3,Alexis,Dowdy,Freshman,P,18,3,11,3,0,2,77.2,67,39,29,17,88,7.93,0,2.61,Delaware Tech,2
+6,Kinley,Elliott,Freshman,P,16,0,2,1,1,0,29.1,64,32,27,4,24,5.73,1,6.44,Delaware Tech,2
+11,Victoria,Henry,Sophomore,P,10,2,4,0,0,0,22,23,13,10,9,10,3.18,1,3.18,Delaware Tech,2
+12,Hannah,Moore,Freshman,P,8,0,1,1,0,0,10.1,18,14,8,3,8,5.42,0,5.42,Delaware Tech,2
+17,Allyson,Lemerise,Freshman,,21,18,11,7,0,13,112.1,119,77,63,48,76,4.74,12,3.93,Lackawanna,2
+5,Alvia,Graber,Freshman,P/1B,20,20,8,8,0,8,91.2,128,109,77,50,63,4.81,7,5.88,Lackawanna,2
+9,Tess,Ruschman,Sophomore,P/INF,13,6,4,3,0,4,48.2,73,43,35,9,29,4.17,4,5.03,Lackawanna,2
+7,Aria,Reyes,Freshman,P/2B,13,3,3,2,0,0,27.1,38,22,20,10,17,4.35,3,5.12,Lackawanna,2
+14,Emilee,Dickinson,Freshman,,3,0,0,0,0,0,4,3,3,3,3,3,5.25,0,5.25,Lackawanna,2
+27,Riley,Ernst,Freshman,,2,0,0,0,0,0,3,0,0,0,2,2,4.67,0,0,Lackawanna,2
+10,Gabby,Wettig,Freshman,,2,0,0,0,0,0,2,0,1,1,1,0,0,0,3.5,Lackawanna,2
+11,Shea,Krebs,Freshman,P,24,20,18,4,0,10,109.1,107,62,45,41,123,7.88,8,2.88,Mercer County,2
+13,Delaney,Misier,Sophomore,P,29,14,10,5,6,8,105.1,100,56,41,27,111,7.38,5,2.72,Mercer County,2
+4,Gianna,DeMatteo,Sophomore,P,21,16,11,1,0,8,88.1,125,76,64,30,33,2.62,6,5.07,Mercer County,2
+3,Mia,Land,Sophomore,OF,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Mercer County,2
+9,Julie,Vervaet,Sophomore,P/IF,28,21,12,6,0,18,145,110,78,57,110,218,10.52,5,2.75,Morris,2
+10,Kelly,Sesnick,Sophomore,P/IF,23,19,6,11,1,11,88,172,130,89,22,27,2.15,14,7.08,Morris,2
+2,Madison,Paseler,Freshman,OF/IF/P,3,0,0,0,0,0,4,11,6,10,5,1,1.75,0,17.5,Morris,2
+86,Vianna,D'Amico,Freshman,IF/P,1,1,0,1,0,0,1,3,10,10,4,2,14,0,70,Morris,2
+23,Shannon,Russo,Sophomore,NA,17,11,1,9,0,9,65.1,149,153,77,20,43,4.61,15,8.25,Raritan Valley,2
+14,Olivia,Mele,Sophomore,NA,13,11,1,10,0,5,42,125,168,107,76,26,4.33,1,17.83,Raritan Valley,2
+10,Morgan,Mecham,Freshman,1B / P,18,8,10,6,0,5,89,136,75,58,15,76,5.98,9,4.56,Salem,2
+8,Caitlyn,LaGreca,Freshman,IF / P,17,6,6,10,0,4,81.1,139,98,70,20,57,4.91,7,6.02,Salem,2
+7,Karyn,Trice,Freshman,OF / P,4,0,0,0,0,0,8.1,15,12,9,2,9,7.56,1,7.56,Salem,2
+12,Emily,Mallow,Sophomore,RHP/ 1B,4,2,1,0,0,2,15,29,27,14,6,11,5.13,1,6.53,Allegany Maryland,2
+24,Cassidy,Drobek,,RHP/ 3B,2,2,0,1,0,0,7.2,22,27,12,15,7,6.39,1,10.96,Allegany Maryland,2
+4,Jordyn,Warnick,Sophomore,SS/ RHP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Allegany Maryland,2
+10,Jaclyn,Nevins,Sophomore,P/IF,18,15,7,7,0,13,100.1,139,83,61,29,87,6.07,13,4.26,Anne Arundel,2
+20,Kendall,Thomas,Freshman,P/IF,12,5,4,5,0,4,50.2,87,48,38,7,16,2.21,5,5.25,Anne Arundel,2
+1,Kaleigh,Hurd,Sophomore,P/OF,11,9,1,4,0,2,36.2,67,53,42,12,10,1.91,8,8.02,Anne Arundel,2
+17,Makayla,Blake,Freshman,IF/P,3,1,0,1,0,0,5,10,6,5,3,1,1.4,0,7,Anne Arundel,2
+18,Kayleigh,Rishel,Freshman,P,32,16,17,9,0,14,171,194,96,82,41,144,5.89,5,3.36,CCBC Catonsville,2
+12,Felicity,Voss,Sophomore,P,13,5,2,7,0,5,61.1,121,104,89,16,25,2.85,11,10.16,CCBC Catonsville,2
+10,Olivia,Wheel,Sophomore,,18,14,11,3,0,4,76.1,84,43,37,22,56,5.14,7,3.39,Chesapeake,2
+24,Hannah,Schmitz,Freshman,,16,8,4,4,1,2,48.2,54,44,36,31,46,6.62,3,5.18,Chesapeake,2
+8,Madison,Gentry,Sophomore,,16,9,5,2,0,4,45.1,61,50,44,24,44,6.79,7,6.79,Chesapeake,2
+5,Brooke,Stulir,Freshman,,3,0,0,0,0,0,4,10,15,13,7,2,3.5,2,22.75,Chesapeake,2
+22,Emily,Gunther,Freshman,P,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,Chesapeake,2
+34,Mary,Valle,Freshman,,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,Chesapeake,2
+2,Paige,Flinchum,Freshman,P/ U,2,2,0,1,0,2,0,0,0,0,0,0,0,0,0,Frederick,2
+39,Carli,Thayer,Freshman,P/IF/OF,4,4,0,1,0,4,0,0,0,0,0,0,0,0,0,Frederick,2
+3,Lucia,Dawson,Freshman,NA,10,9,0,8,0,8,40,175,185,80,23,12,2.1,17,14,Garrett,2
+20,Aimma,Miller,Freshman,NA,2,1,0,1,0,0,5,24,24,20,15,0,0,2,28,Garrett,2
+2,Peyton,Sheffler,Sophomore,P/OF,16,12,5,6,1,9,80.1,159,109,95,40,40,3.49,20,8.28,Hagerstown,2
+25,Adrianna,Beeler,Sophomore,IF/P,16,12,3,8,0,8,69.2,143,84,67,18,29,2.91,12,6.73,Hagerstown,2
+15,Samantha,Hobert,Sophomore,P/IF,28,19,5,16,0,15,134.2,240,174,143,70,92,4.78,27,7.43,Howard (MD),2
+10,Kasey,Smith,Freshman,P/IF,19,18,6,5,0,7,71,133,94,87,35,41,4.04,23,8.58,Howard (MD),2
+24,Alyssa,Kelly,Freshman,U,11,1,2,4,0,0,22,36,27,17,10,8,2.55,1,5.41,Howard (MD),2
+13,Kyndall,Hopkins,Freshman,"P, IF",17,15,1,8,1,15,91.1,121,111,76,60,105,8.05,7,5.82,Montgomery,2
+12,Lesa,Mouzon,Freshman,"2nd, OF, P",10,10,2,4,0,8,48,99,82,67,37,20,2.92,4,9.77,Montgomery,2
+9,Jenna,Jew,Sophomore,"OF, 3rd, P",2,1,0,0,0,0,6,16,18,14,6,4,4.67,2,16.33,Montgomery,2
+25,Abby,Peace,Freshman,P/IF,29,25,22,2,2,22,152.2,89,38,29,55,270,12.38,1,1.33,Potomac State,2
+24,Jenna,Burkhamer,Sophomore,OF/P,20,19,15,2,1,5,90,91,57,27,26,53,4.12,4,2.1,Potomac State,2
+14,Riley,Schulze,Freshman,IF/OF,13,2,3,0,2,0,30.2,28,21,10,22,20,4.57,1,2.28,Potomac State,2
+10,Katelin,Secrist,Freshman,P/OF,4,0,1,1,0,0,5,12,11,4,4,3,4.2,0,5.6,Potomac State,2
+24,Madison,Kavlick,Freshman,RHP/1B,18,14,3,9,0,7,77.2,159,129,77,35,37,3.33,18,6.94,Southern Maryland,2
+22,Lacey,Bateman,Freshman,RHP/1B,12,9,5,3,1,6,59.1,84,54,34,6,71,8.38,3,4.01,Southern Maryland,2
+6,Kaela,Gilligan,Sophomore,OF/Util,7,3,1,2,0,1,14.2,24,38,31,19,5,2.39,3,14.8,Southern Maryland,2
+4,Larissa,Simonds,Freshman,C/OF,1,0,0,0,0,0,3.2,6,4,2,7,1,1.91,0,3.82,Southern Maryland,2
+8,Kaela,Pangman,Freshman,P/INF,22,21,4,6,0,16,104.1,231,199,142,41,35,2.35,10,9.53,Coahoma,2
+26,Madison,Stringer,Freshman,Pitcher,16,4,0,2,0,2,46,99,92,60,42,8,1.22,1,9.13,Coahoma,2
+30,Delainee,Burnham,Freshman,P,18,7,0,4,0,1,43.1,109,117,83,29,12,1.94,3,13.41,Coahoma,2
+6,Ta’Kia,Jackson,Sophomore,Pitcher,9,8,2,1,0,0,15,36,65,41,29,8,3.73,2,19.13,Coahoma,2
+19,Bailey,Edwards,Sophomore,P/INF,1,1,0,1,0,0,2.1,9,10,10,3,0,0,0,30,Coahoma,2
+12,Cara,Biswell,Freshman,P,29,23,20,3,1,16,150.2,120,57,50,45,128,5.95,11,2.32,Copiah-Lincoln,2
+22,Lila,Blackburn,Sophomore,P/UTL,24,21,12,2,0,3,88.1,67,51,34,48,89,7.05,7,2.69,Copiah-Lincoln,2
+5,Belle,West,Sophomore,P/UTL,24,14,11,5,1,3,63,60,35,26,20,43,4.78,2,2.89,Copiah-Lincoln,2
+2,Laney,Waguespack,Freshman,P/UTL,21,1,6,0,3,0,47.2,46,25,20,22,33,4.85,2,2.94,Copiah-Lincoln,2
+9,Elena,Thompson,Sophomore,P,10,0,0,0,0,0,10,7,9,7,8,4,2.8,1,4.9,Copiah-Lincoln,2
+18,Mckinleigh,Evans,Sophomore,P,34,5,12,8,1,1,145.2,154,116,86,89,93,4.47,17,4.13,East Central (MS),2
+21,Emily,Collins,Freshman,"P,UTL",27,3,5,3,2,2,104.1,118,76,57,45,108,7.25,18,3.82,East Central (MS),2
+7,Caroline,Jackson,Sophomore,P,28,0,5,0,1,0,64.1,77,48,33,34,28,3.05,7,3.59,East Central (MS),2
+1,Janci,Aube,Freshman,"P,OF",3,0,0,0,1,0,6,9,13,5,6,1,1.17,1,5.83,East Central (MS),2
+8,Laken,Firth,Sophomore,P/INF,27,24,6,18,1,18,137.2,196,137,91,28,55,2.8,21,4.63,East Mississippi,2
+31,Carys,Goodwin,Freshman,P/INF,18,9,4,8,0,3,67,122,95,54,24,37,3.87,4,5.64,East Mississippi,2
+17,Lana,Atkins,Freshman,P/OF,21,12,0,10,0,4,59,96,108,66,67,36,4.27,6,7.83,East Mississippi,2
+9,Celeste,Study,Sophomore,INF/P,5,3,1,1,0,1,18.1,23,18,8,12,6,2.29,1,3.05,East Mississippi,2
+9,Riley,Myers,Freshman,P,22,1,5,7,0,0,73.2,88,68,51,40,48,4.56,9,4.85,Hinds,2
+11,Kendall,Calloway,Sophomore,P/U,21,2,1,11,0,0,66.2,77,76,61,60,30,3.15,9,6.4,Hinds,2
+24,Melina,Seiferd,Sophomore,P/1B,19,3,1,13,0,0,58.2,94,93,61,41,22,2.63,3,7.28,Hinds,2
+15,Kat,Smith,Freshman,P/1B,24,0,1,4,0,0,53.2,70,50,32,14,12,1.57,5,4.17,Hinds,2
+12,Kasey,Simmons,Freshman,P/1B,10,0,0,2,0,0,17.1,15,33,24,39,15,6.06,0,9.69,Hinds,2
+3,Avery,Parrott,Sophomore,IF/P,3,0,0,0,0,0,2.2,9,6,6,2,0,0,0,15.75,Hinds,2
+22,Elleigh,Willis,Sophomore,P/INF,25,21,12,7,0,13,127,123,69,48,45,78,4.3,13,2.65,Holmes,2
+23,Emmagail,Kelley,Sophomore,P,24,21,9,9,0,11,114.1,155,87,68,20,40,2.45,9,4.16,Holmes,2
+6,Kasandra,Gaona,Freshman,P,12,4,2,5,0,1,35.1,46,25,20,15,13,2.58,4,3.96,Holmes,2
+7,Neera,Bell,Freshman,INF,14,3,2,2,0,1,31.2,27,25,11,32,29,6.41,0,2.43,Holmes,2
+17,Chesney,Beckham,Freshman,P,2,0,0,0,0,0,2.1,5,3,3,4,0,0,0,9,Holmes,2
+14,Emily,Robinson,Sophomore,P,28,3,14,8,0,1,139,128,70,48,35,147,7.4,7,2.42,Itawamba,2
+5,Hallie,Turner,Freshman,P,15,0,6,2,0,0,60.2,49,42,22,60,53,6.12,5,2.54,Itawamba,2
+11,Julia,Shaw,Freshman,P,15,1,5,6,0,0,52,47,38,26,30,40,5.38,6,3.5,Itawamba,2
+18,Haylee,Alberson,Sophomore,P,17,0,4,2,0,0,51.2,52,30,18,23,48,6.5,1,2.44,Itawamba,2
+4,Hanna Grace,Gillean,Freshman,UT,1,0,0,0,0,0,0.2,2,4,4,3,1,10.5,0,42,Itawamba,2
+34,Holly,Craft,Sophomore,P,28,23,18,2,1,13,137.2,84,50,43,43,160,8.14,21,2.19,Jones,2
+17,Nia,Luckett,Sophomore,P/OF,26,18,16,5,2,11,121,92,49,41,56,138,7.98,10,2.37,Jones,2
+7,Hanna,Zeitz,Sophomore,P,22,16,12,3,1,10,91,99,47,40,27,65,5,9,3.08,Jones,2
+20,Meg,Vinson,Freshman,P,13,3,4,0,1,3,29.2,19,10,8,10,29,6.84,1,1.89,Jones,2
+2,Chloe,Bennett,Sophomore,RHP,42,29,25,6,3,16,193,146,82,67,55,240,8.7,23,2.43,LSU Eunice,2
+26,Emma,Shepherd,Sophomore,LHP,30,18,7,6,0,2,88.1,97,76,56,30,49,3.88,15,4.44,LSU Eunice,2
+12,Landri,Campbell,Freshman,RHP,26,9,4,5,1,2,69.2,75,54,36,34,57,5.73,11,3.62,LSU Eunice,2
+9,Allie,Bland,Freshman,RHP,20,3,5,1,0,0,34.2,49,35,20,21,14,2.83,1,4.04,LSU Eunice,2
+25,Demi,DeHerrera,Freshman,INF,11,2,0,1,0,0,10.1,22,22,19,13,6,4.06,2,12.87,LSU Eunice,2
+5,LAUREN,BROOKS,Freshman,P/IF,23,21,7,14,0,15,120,126,91,69,58,81,4.73,5,4.02,Meridian,2
+7,SARA,GAYLORD,Sophomore,P,22,22,3,14,0,6,92,112,96,73,43,29,2.21,9,5.55,Meridian,2
+30,PHALLYN,CLARK,Freshman,P,24,3,4,5,1,2,57.2,63,42,36,13,36,4.37,6,4.37,Meridian,2
+15,LYNNZIE,KENNEDY,Freshman,P/UT,5,1,0,0,0,0,15.1,21,15,12,7,11,5.02,0,5.48,Meridian,2
+25,Madison,Melton,Freshman,LHP,33,23,2,15,0,17,156,286,230,166,44,85,3.81,21,7.45,Mississippi Delta,2
+16,Sara Bess,Morgan,Freshman,LHP,20,12,0,6,0,7,60.2,124,107,75,28,13,1.5,7,8.65,Mississippi Delta,2
+1,Taryn,Clark,Sophomore,RHP,12,12,0,9,0,4,40.2,69,57,38,14,15,2.58,5,6.54,Mississippi Delta,2
+6,Mckenna,Brown,Freshman,LHP/OF,6,1,0,0,0,0,6.2,22,17,15,10,2,2.1,3,15.75,Mississippi Delta,2
+5,Jett,Harrell,Freshman,P/OF,32,15,20,6,3,12,168,156,89,67,60,124,5.17,12,2.79,Mississippi Gulf Coast,2
+24,Kylie,Burnette,Freshman,P,34,26,11,6,0,4,100.1,122,75,56,15,43,3,13,3.91,Mississippi Gulf Coast,2
+6,Kennedy,Brown,Sophomore,P,30,10,5,3,5,0,58.2,70,39,26,16,32,3.82,9,3.1,Mississippi Gulf Coast,2
+11,Abby,Vance,Sophomore,P/UTL,10,5,2,3,0,2,34.2,30,27,18,24,18,3.63,1,3.63,Mississippi Gulf Coast,2
+8,Taylor,Styers,Freshman,P/2B,12,0,0,1,0,0,10.2,21,12,8,6,5,3.28,0,5.25,Mississippi Gulf Coast,2
+3,Madisyn,Cobbs,Sophomore,P,6,2,0,2,0,0,8.1,13,16,15,9,5,4.2,1,12.6,Mississippi Gulf Coast,2
+7,Emma,Dempsey,Sophomore,P,25,19,17,4,2,14,126.1,111,62,53,37,127,7.04,15,2.94,Northeast Mississippi,2
+4,Cassidy,Duskin,Sophomore,P/OF,24,18,10,8,5,13,120,92,61,43,25,111,6.48,4,2.51,Northeast Mississippi,2
+12,Madison,Bowman,Freshman,P,12,7,7,0,0,5,42.1,41,23,18,12,43,7.11,3,2.98,Northeast Mississippi,2
+8,Ava,Meeks,Freshman,P/OF,8,5,3,0,0,0,26,29,16,13,12,24,6.46,1,3.5,Northeast Mississippi,2
+11,Janna,Shaw,Freshman,P/OF,6,4,4,1,0,2,26,21,10,7,5,15,4.04,1,1.88,Northeast Mississippi,2
+18,Sarah,Hindman,Freshman,P/INF,2,1,0,0,0,0,4,7,6,2,2,2,3.5,0,3.5,Northeast Mississippi,2
+22,Gabby,Dickerson,Sophomore,P,22,19,14,4,0,8,109,81,51,43,51,131,8.41,10,2.76,Northwest Mississippi,2
+12,Kylee,Brown,Sophomore,P,15,10,4,2,0,6,65,38,25,14,26,75,8.08,3,1.51,Northwest Mississippi,2
+18,Allyson,Harrison,Freshman,P/INF,15,11,9,3,0,3,59,42,28,18,19,71,8.42,1,2.14,Northwest Mississippi,2
+14,Neely,Cooper,Freshman,P,10,1,4,1,1,0,29.1,23,14,8,9,26,6.2,1,1.91,Northwest Mississippi,2
+13,Caylie,Streich,Freshman,P,4,0,0,0,0,0,3,5,2,2,2,1,2.33,0,4.67,Northwest Mississippi,2
+16,Shelby,Payne,Freshman,P/UTL,1,0,0,0,0,0,0.2,4,3,3,0,0,0,0,31.5,Northwest Mississippi,2
+33,Brinson Anne,Rogers,Sophomore,P,28,22,20,4,1,18,160.1,71,42,24,41,267,11.66,7,1.05,Pearl River,2
+2,Natalie,Herrington,Freshman,RHP,28,20,15,6,0,15,143.2,109,50,31,26,129,6.29,4,1.51,Pearl River,2
+26,Bella,Crawley,Freshman,P,10,7,4,1,1,3,34,33,21,16,17,33,6.79,1,3.29,Pearl River,2
+14,Mya,Young,Freshman,RHP,8,6,3,1,0,2,23,33,20,17,11,12,3.65,2,5.17,Pearl River,2
+4,Bryn,Daughtery,Freshman,RHP/INF,3,1,1,0,0,0,6,7,6,2,3,5,5.83,2,2.33,Pearl River,2
+6,Lizzie,Weems,Freshman,RHP,2,0,0,0,0,0,3,10,5,5,1,3,7,0,11.67,Pearl River,2
+12,Mia,Pumila,Sophomore,P,23,22,7,12,0,11,120.1,145,82,63,23,52,3.02,8,3.66,Southwest Mississippi,2
+23,Emme,Wallace,Sophomore,P,28,7,5,5,0,2,75.1,110,66,55,17,28,2.6,12,5.11,Southwest Mississippi,2
+5,Madi,Smith,Sophomore,P/UT,13,11,2,7,0,2,36.1,65,53,36,20,18,3.47,7,6.94,Southwest Mississippi,2
+27,Lana,Dalton,Freshman,P,14,5,3,3,0,1,27,35,31,17,15,21,5.44,2,4.41,Southwest Mississippi,2
+14,Lana,Bridges,Sophomore,P,5,1,0,1,0,0,6.1,11,16,15,10,5,5.53,1,16.58,Southwest Mississippi,2
+15,Angelle,Delcambre,Freshman,P,4,0,0,0,0,0,3.2,7,7,5,5,1,1.91,0,9.55,Southwest Mississippi,2
+26,AnnElise,Elrod,Freshman,1B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southwest Mississippi,2
+3,Kyleigh,Weller,Sophomore,P/OF/1B,35,2,18,7,0,0,163.2,151,77,46,18,118,5.05,8,1.97,Danville Area,2
+4,Raven,Morrison,Sophomore,P/3B/SS,30,1,8,8,6,1,107.2,85,59,32,41,131,8.52,6,2.08,Danville Area,2
+5,Rylee,Richey,Freshman,P/1B/OF,25,0,12,5,0,0,104.1,99,69,43,48,131,8.79,8,2.88,Danville Area,2
+28,Makenzee,Legg,Sophomore,P,24,0,5,3,1,0,52.1,58,37,24,20,39,5.22,2,3.21,Danville Area,2
+4,Morgan,Malone,Freshman,P/INF,31,9,7,6,2,2,102.1,147,87,77,27,72,4.93,15,5.27,Heartland,2
+7,Lauren,Shively,Sophomore,P/INF,24,16,1,11,0,2,75,130,94,67,20,53,4.95,13,6.25,Heartland,2
+18,Amber,Teimeyer,Freshman,P/INF,22,12,3,9,0,1,70,126,92,61,12,37,3.7,6,6.1,Heartland,2
+18,Kiersten,Manning,Sophomore,P/1B,23,0,10,7,0,0,134,98,56,47,47,204,10.66,15,2.46,Illinois Central,2
+8,Olivia,Drish,Sophomore,P/Corner,25,0,11,8,0,0,122,157,88,78,52,89,5.11,11,4.48,Illinois Central,2
+16,Amber,Lee,Sophomore,P/2B,11,0,2,1,1,0,34,55,39,30,8,10,2.06,6,6.18,Illinois Central,2
+11,Gracie,White,Freshman,OF,2,0,0,0,0,0,5.1,8,3,3,1,3,3.94,0,3.94,Illinois Central,2
+7,Bridget,Gillroy,Freshman,P,4,0,0,0,0,0,4,7,16,9,11,3,5.25,0,15.75,Illinois Central,2
+23,Carlye,Ornellas,Sophomore,P/OF,28,23,6,15,0,11,114.2,206,144,93,22,37,2.26,15,5.68,Lewis &amp; Clark,2
+44,Taylor,Whitehead,Sophomore,P,20,15,8,7,0,13,107,97,63,38,26,112,7.33,11,2.49,Lewis &amp; Clark,2
+18,Leah,Link,Sophomore,OF/P,13,5,0,1,0,2,36.2,74,64,43,23,6,1.15,11,8.21,Lewis &amp; Clark,2
+7,Madeline,Strieker,Sophomore,OF/P,2,1,0,1,0,0,5.2,10,9,6,3,3,3.71,0,7.41,Lewis &amp; Clark,2
+3,Karley,Moore,Freshman,P/INF,23,20,5,15,0,9,110,166,122,97,28,103,6.55,13,6.17,Lincoln Land,2
+14,Bailey,Teasley,Freshman,P,23,21,4,15,0,9,102,156,113,77,32,83,5.7,18,5.28,Lincoln Land,2
+19,Maranda,File,Freshman,P/INF,21,3,2,2,0,1,41.1,71,56,33,13,12,2.03,7,5.59,Lincoln Land,2
+0,Torrie,McAdams,Freshman,P/INF,4,1,1,1,0,0,8,10,6,1,4,7,6.13,0,0.88,Lincoln Land,2
+23,Macy,Pierce,Freshman,U,1,0,0,0,0,0,0.1,2,2,2,0,0,0,0,42,Lincoln Land,2
+7,Gatlyn,Etter,Sophomore,INF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lincoln Land,2
+16,Amelia,Telger,Freshman,INF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lincoln Land,2
+12,Karley,Yergler,Freshman,P /  1B / OF,40,34,28,9,2,22,204.1,135,60,47,49,301,10.31,10,1.61,Parkland,2
+11,Ellie,Vetter,Freshman,P / OF,24,21,11,2,1,6,97.2,67,28,24,41,113,8.1,4,1.72,Parkland,2
+7,Ryleigh,Owens,Freshman,P / OF,27,6,11,1,1,2,84,47,20,15,22,121,10.08,1,1.25,Parkland,2
+5,Izzy,Sheets,Freshman,P,6,3,2,0,0,1,12.2,14,5,4,3,20,11.05,2,2.21,Parkland,2
+19,Marina,Rohman,Freshman,P,2,0,0,0,0,0,5,2,0,0,1,3,4.2,0,0,Parkland,2
+9,Leeann,VandeVoorde,Sophomore,P,27,0,11,5,2,0,111.1,112,56,48,19,66,4.15,0,3.02,Spoon River,2
+16,Allyson,Harrold,Freshman,P,29,0,12,6,3,0,109.2,107,52,41,20,95,6.06,0,2.62,Spoon River,2
+18,Lauren,Sinks,Sophomore,P,26,0,6,3,0,0,70.1,96,54,38,31,48,4.78,3,3.78,Spoon River,2
+1,Brooke,Hampton,Freshman,P/OF,18,1,4,2,1,0,45.1,54,45,21,25,53,8.18,1,3.24,Spoon River,2
+25,Tela,Meech,Freshman,P,12,0,2,1,0,0,26.1,37,20,15,9,5,1.33,0,3.99,Spoon River,2
+10,Kylie,Morton,Freshman,SS/Util,1,0,0,0,0,0,1,1,2,0,1,0,0,0,0,Spoon River,2
+25,Jordan,Wyant,Freshman,P/U,22,20,4,16,0,18,105,223,217,125,77,58,3.87,3,8.33,Columbia-Greene,3
+3,Hailey,Lasher,Freshman,P/U,3,2,0,2,0,1,7,24,40,31,20,2,2,0,31,Columbia-Greene,3
+33,Victoria,Douglass,Freshman,1B,1,0,0,0,0,0,3,4,6,6,9,0,0,1,14,Columbia-Greene,3
+30,Kersten,Keeler,Freshman,IF,1,1,0,1,0,0,3,12,14,11,2,0,0,2,25.67,Columbia-Greene,3
+23,Jayden,Hill,Sophomore,P/IF,33,17,21,4,1,14,157.2,138,97,64,69,177,7.86,13,2.84,Corning,3
+14,Ciaran,Iglesias,Freshman,P/IF,18,8,10,2,0,2,68.1,86,77,59,64,56,5.74,8,6.04,Corning,3
+15,Marley,Lippitt,Freshman,,18,6,3,2,0,2,47.2,65,46,45,22,41,6.02,6,6.61,Corning,3
+13,Grace,Vondracek,Sophomore,Utility,1,0,0,0,0,0,1,3,3,3,3,2,14,0,21,Corning,3
+44,Samantha,Heppel,Sophomore,,17,17,5,12,0,14,88.1,156,142,84,58,123,9.75,8,6.66,Erie,3
+1,Julia,Kilonsky,Sophomore,C,2,0,0,0,0,0,3.1,7,13,12,8,2,4.2,0,25.2,Erie,3
+11,Emily,Belile,Sophomore,C,3,1,0,0,0,1,2,1,6,3,4,1,3.5,0,10.5,Erie,3
+22,Reagan,Seelye,Sophomore,P/INF,20,16,8,9,0,15,95.1,142,110,89,42,63,4.63,3,6.53,Finger Lakes,3
+24,Aubrey,Roberts,Freshman,LF,14,14,6,7,0,10,64.2,108,87,74,23,42,4.55,5,8.01,Finger Lakes,3
+7,Madeline,Lerro,Freshman,,1,0,0,0,0,0,2,3,1,1,1,3,10.5,0,3.5,Finger Lakes,3
+8,Marissa,Cash,Sophomore,,22,15,3,10,0,10,101.2,226,175,132,24,53,3.65,6,9.09,Genesee,3
+3,Faith,Oberther,Freshman,P,12,3,0,5,0,2,33.1,64,70,44,15,11,2.31,8,9.24,Genesee,3
+2,Kodi,Beehler,Freshman,,6,4,0,4,0,3,19.2,57,66,50,31,10,3.56,2,17.8,Genesee,3
+7,Madison,Prior,Sophomore,P/1B,27,19,17,3,2,18,137,118,89,55,122,168,8.58,2,2.81,Herkimer,3
+11,Jordan,Cole,Sophomore,P,19,17,10,4,0,8,79.2,86,60,42,20,53,4.66,7,3.69,Herkimer,3
+14,Angeline,Montanez,Sophomore,OF/P,5,0,0,0,2,0,7,13,10,8,2,11,11,2,8,Herkimer,3
+18,Carly,Gemmett,Sophomore,P/OF,29,21,15,7,0,16,142,137,89,68,78,195,9.61,7,3.35,Hudson Valley,3
+25,Katie,Mannis,Sophomore,Util/P,19,14,6,7,0,6,74.1,98,80,51,58,37,3.48,3,4.8,Hudson Valley,3
+0,Gianna,Bucciero,Sophomore,Inf/P,8,3,0,3,0,0,10.2,32,49,41,28,6,3.94,1,26.91,Hudson Valley,3
+8,Jamaladie,Pacheco,Freshman,,6,5,0,5,0,5,29.2,59,60,42,16,11,2.6,2,9.91,Jamestown,3
+2,Lindsey,Spitz,Freshman,,7,7,0,7,0,4,26.2,75,107,66,31,9,2.36,14,17.32,Jamestown,3
+15,Desiree,Nelson,Freshman,,5,4,0,4,0,3,17.1,37,62,28,29,4,1.62,4,11.31,Jamestown,3
+5,Emma,Lindsey,Freshman,2B,2,0,0,0,0,0,4.2,6,5,3,4,2,3,0,4.5,Jamestown,3
+30,Emily,Birmingham,Freshman,P/INF,22,19,13,8,0,16,122.2,95,69,55,63,146,8.33,12,3.14,Jefferson (NY),3
+25,Rachael,Shackleton,Sophomore,P/1B/OF,22,19,10,7,1,16,115.1,126,81,57,55,128,7.77,3,3.46,Jefferson (NY),3
+20,Kiannah,Ward,Freshman,OF,1,0,0,0,0,0,0,0,4,4,4,0,0,0,Inf,Jefferson (NY),3
+12,Alivia,Neff,Sophomore,NA,23,20,7,3,0,17,113.1,108,102,69,54,121,7.47,10,4.26,Mohawk Valley,3
+11,Kendall,Darling,Freshman,NA,12,8,3,1,0,6,53,66,46,33,14,37,4.89,8,4.36,Mohawk Valley,3
+13,Samantha,Mackey,Freshman,NA,3,3,1,0,0,1,8,13,18,15,10,2,1.75,2,13.13,Mohawk Valley,3
+22,Abigail,Dewar,Freshman,NA,2,1,0,0,0,1,6,17,17,14,3,1,1.17,5,16.33,Mohawk Valley,3
+14,Riley,Bishop,Freshman,NA,16,13,5,7,0,11,93,94,76,62,25,70,5.27,7,4.67,Monroe CC,3
+12,Allie,Schwerthoffer,Freshman,NA,18,17,7,6,0,14,92.1,118,82,64,32,84,6.37,5,4.85,Monroe CC,3
+4,Leah,Bailey,Freshman,P,28,20,16,4,1,17,136.2,182,107,62,23,83,4.25,8,3.18,Niagara County,3
+7,Emma,Rozborski,Freshman,P,23,19,11,9,0,14,110,151,120,75,55,102,6.49,8,4.77,Niagara County,3
+33,Maggiemay,Murrins,Sophomore,C/P,4,4,0,3,0,1,15.1,25,27,14,10,5,2.28,1,6.39,Niagara County,3
+2,Trista,DeLong,Sophomore,P/OF,29,16,6,8,0,9,110.1,166,123,66,62,109,6.92,5,4.19,Onondaga,3
+8,Bianca,DeSellems,Freshman,P/IF,18,9,5,6,0,3,61.1,83,69,44,46,59,6.73,4,5.02,Onondaga,3
+27,Aubrey,Fraher,Freshman,P/OF,12,6,0,3,0,0,37.1,50,45,29,24,20,3.75,2,5.44,Onondaga,3
+17,Olivia,Colgan,Freshman,P/C/IF,13,8,4,1,0,1,31,48,37,23,15,22,4.97,2,5.19,Onondaga,3
+12,Sarah,McCauliffe,Freshman,,12,10,4,6,0,10,74,84,54,43,15,62,5.86,2,4.07,SUNY Adirondack,3
+4,Sophie,Reed,Sophomore,P/2nd,10,9,2,8,0,9,52,55,53,22,16,38,5.12,4,2.96,SUNY Adirondack,3
+5,Jenna,Gaisford,Sophomore,P/U,15,12,1,5,0,5,56.2,103,96,57,33,47,5.81,6,7.04,SUNY Broome,3
+17,Alana,Espinoza,Freshman,P/IF,12,10,2,4,0,4,45,72,74,42,24,49,7.62,1,6.53,SUNY Broome,3
+27,Keira,Warwick,Sophomore,P/IF,11,2,0,0,1,1,32,60,52,34,9,17,3.72,1,7.44,SUNY Broome,3
+3,Gabby,Foley,Freshman,P,25,24,1,23,0,24,116,231,365,261,217,41,2.47,20,15.75,Tompkins Cortland,3
+1,Abby,Foley,Freshman,Util,1,1,0,1,0,0,2,4,13,11,11,0,0,0,38.5,Tompkins Cortland,3
+10,Amber,Dasenbrock,Sophomore,NA,24,17,13,1,2,14,122.1,129,75,54,20,129,7.38,2,3.09,DuPage,3
+1,Chloe,Warren,Sophomore,NA,11,10,4,2,0,6,58.2,97,68,47,19,22,2.63,1,5.61,DuPage,3
+12,Paige,Jahaske,Sophomore,NA,13,8,3,0,0,1,41,53,43,34,15,16,2.73,1,5.8,DuPage,3
+18,Olivia,Terek,Freshman,NA,7,1,0,2,0,1,14.2,31,25,19,11,9,4.3,0,9.07,DuPage,3
+5,Grace,Walker,Freshman,NA,2,1,0,0,0,0,3.2,16,15,7,2,2,3.82,0,13.36,DuPage,3
+13,Carlee,Baker,Sophomore,NA,1,0,0,0,0,0,1,0,3,1,2,1,7,0,7,DuPage,3
+3,Olivia,Gould,Freshman,P/OF,15,13,2,9,0,9,68.1,174,153,116,41,15,1.54,15,11.88,Harper,3
+11,Karli,Breuchel,Freshman,LHP/OF,11,9,3,5,0,5,47,107,89,78,18,12,1.79,16,11.62,Harper,3
+17,Taylor,Goudschaal,Freshman,IF,4,0,0,0,0,0,6,16,10,7,4,0,0,0,8.17,Harper,3
+9,Tessa,Freedman,Freshman,IF/P,4,0,0,0,0,0,5,15,12,8,6,4,5.6,1,11.2,Harper,3
+13,Natalie,Tatera,Sophomore,P/UT,29,4,8,8,1,1,100.2,125,89,59,34,78,5.42,7,4.1,Joliet,3
+8,Ella,White,Freshman,P,25,0,8,3,1,0,68.2,104,66,50,32,54,5.5,8,5.1,Joliet,3
+7,Megan,Hrabe,Freshman,P,21,0,4,3,1,0,55.1,82,70,54,38,42,5.31,5,6.83,Joliet,3
+10,Jada,Aguirre,Sophomore,P/MIF,16,1,3,1,1,0,48,62,38,28,6,33,4.81,1,4.08,Joliet,3
+28,Gianvanna,Colletti,Sophomore,P,14,0,3,1,1,0,34.2,77,47,41,1,12,2.42,9,8.28,Joliet,3
+17,Kaitlin,Jasper,Freshman,P,11,0,2,1,2,0,21.1,31,22,11,7,8,2.63,2,3.61,Joliet,3
+30,Isabelle,Curry,Freshman,RHP,27,26,17,6,1,12,143,119,79,67,69,204,9.99,10,3.28,Caldwell Tech,3
+33,Kylie,Reid,Sophomore,RHP,27,14,9,7,1,6,104,128,73,61,37,39,2.63,5,4.11,Caldwell Tech,3
+10,Elizabeth,Noble,Freshman,RHP,17,2,1,1,6,0,36.1,69,36,29,3,7,1.35,2,5.59,Caldwell Tech,3
+3,Lauren,Anderson,Sophomore,INF/RHP,4,4,2,2,0,1,19,19,9,4,6,22,8.11,0,1.47,Caldwell Tech,3
+16,Kaylee,Redwine,Sophomore,INF,1,1,0,0,0,0,1,5,4,4,1,1,7,0,28,Caldwell Tech,3
+28,Ashley,Antonio,Freshman,C/INF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Caldwell Tech,3
+5,Kelsey,Simpson,Rookie,P/OF,1,0,0,1,0,0,6,12,9,7,4,2,2.33,0,8.17,Camp,3
+14,Mia,Benton,Veteran,P/1B,1,0,0,1,0,0,3,9,11,6,5,0,0,0,14,Camp,3
+23,Addie,Montgomery,Sophomore,Utility,1,0,0,0,0,0,0,1,5,0,4,0,0,0,0,Camp,3
+18,Morgan,Strickland,Freshman,RHP/IF,27,2,15,8,1,1,120.1,122,70,51,32,87,5.06,15,2.97,Patrick &amp; Henry,3
+22,Summer,Anderson,Sophomore,RHP/IF,27,2,9,4,0,0,115.1,139,97,63,39,52,3.16,6,3.82,Patrick &amp; Henry,3
+8,Jayden,Keatts,Sophomore,RHP/IF,13,0,1,2,0,0,23,41,31,24,14,11,3.35,2,7.3,Patrick &amp; Henry,3
+12,Abbigail,Draughn,Sophomore,NA,30,25,15,8,0,16,152.1,136,81,55,38,166,7.63,5,2.53,Surry,3
+10,Megan,Atkins,Sophomore,NA,20,20,11,4,0,14,113.2,117,74,51,30,79,4.87,4,3.14,Surry,3
+9,Carlee,Jones,Freshman,NA,13,3,2,1,3,1,31,51,30,24,13,16,3.61,0,5.42,Surry,3
+20,Rachel,Cooke,Sophomore,NA,1,0,0,0,0,0,1.1,3,5,3,4,0,0,0,15.75,Surry,3
+22,Maegan,Banks,Freshman,NA,1,0,0,1,0,0,1,2,4,4,2,0,0,1,28,Surry,3
+2,Lakin,Fryzel,Sophomore,P/1B,30,24,9,3,0,17,174,132,68,57,44,232,9.33,9,2.29,Delta,3
+3,Alyssa,Beechler,Sophomore,P/3B,20,12,1,3,1,7,67,113,111,88,60,31,3.24,10,9.19,Delta,3
+10,Karleigh,McBride,Sophomore,2B/OF,4,1,0,0,0,1,9.1,20,25,19,13,2,1.5,2,14.25,Delta,3
+1,Cheyanne,Hoody,Freshman,,1,0,0,0,0,0,1,4,4,4,1,0,0,2,28,Delta,3
+1,Khloey,Hutton,Sophomore,LHP,20,14,3,4,0,5,85,122,83,63,23,78,6.42,1,5.19,Owens,3
+5,Breanna,Huffman,Freshman,P/IF,15,11,2,3,0,4,62,105,74,60,36,50,5.65,2,6.77,Owens,3
+14,Morgan,Ward,Freshman,1B/P,18,5,0,0,0,2,47.2,61,63,37,35,56,8.22,2,5.43,Owens,3
+9,Kennedy,Ryan,Sophomore,3B/RHP,4,0,0,0,0,0,10,13,9,8,5,7,4.9,0,5.6,Owens,3
+2,Kennedy,Hill,Freshman,P/UT,1,0,0,0,0,0,1,4,2,2,0,0,0,0,14,Owens,3
+5,Molly,Gross,Sophomore,P/IF,26,24,18,5,0,22,139,100,53,28,33,204,10.27,7,1.41,Anoka-Ramsey,3
+11,Lyla,Galli,Sophomore,IF/P,20,15,13,3,1,14,90,122,65,50,12,66,5.13,7,3.89,Anoka-Ramsey,3
+12,Maddie,Bottineau,Sophomore,P/2B,14,12,9,3,0,8,62,79,52,37,22,72,8.13,4,4.18,Anoka-Ramsey,3
+2,Marissa,Callahan,Sophomore,P/IF,16,10,6,6,1,9,75.2,85,45,27,10,87,8.05,9,2.5,Central Lakes,3
+7,Jill,Thompson,Freshman,P/IF,14,13,6,5,0,7,65.2,98,62,45,18,46,4.9,9,4.8,Central Lakes,3
+8,Emma,Tautges,Freshman,P/IF,11,8,3,5,1,6,42.2,61,44,21,6,32,5.25,6,3.45,Central Lakes,3
+25,Lilianna,Valdivia,Sophomore,P/UT,15,13,1,12,0,6,52,129,135,88,19,21,2.83,13,11.85,Dakota-Bottineau,3
+43,Hannah,Funk,Freshman,P/OF,15,4,1,4,1,1,34,87,82,56,8,14,2.88,8,11.53,Dakota-Bottineau,3
+1,Brooklynn,Hartman,Sophomore,P/UT,8,7,0,5,0,4,29,75,68,38,5,7,1.69,1,9.17,Dakota-Bottineau,3
+10,Sofie,Anderson,Sophomore,P/U,7,7,0,2,0,7,36,88,99,67,32,16,3.11,5,13.03,Minnesota North College - Hibbing,3
+1,Kaija,Gams,Sophomore,SS/C,4,3,0,1,0,3,10,13,32,20,35,1,0.7,1,14,Minnesota North College - Hibbing,3
+15,Athena,Dunham,Sophomore,C/P,1,1,0,0,0,0,4,5,0,12,10,0,0,0,21,Minnesota North College - Hibbing,3
+4,Lexi,Carroll,Freshman,OF/INF,1,1,0,0,0,0,3,4,13,13,6,0,0,0,30.33,Minnesota North College - Hibbing,3
+2,Hannah,Hodgman,Freshman,OF,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,Minnesota North College - Hibbing,3
+2,Taylor,Shepard,Sophomore,P,31,28,13,13,0,17,155.1,214,154,87,67,103,4.64,17,3.92,Minnesota North College - Itasca,3
+28,Mia,Brandt,Freshman,P/1B,15,3,1,2,0,1,30.2,49,31,17,15,19,4.34,4,3.88,Minnesota North College - Itasca,3
+15,Mariah,Graves,Freshman,P/IF,9,3,0,2,0,2,25,44,37,25,17,12,3.36,3,7,Minnesota North College - Itasca,3
+11,Lexie,Tatro,Freshman,UTL,8,6,1,5,0,0,17,32,35,17,13,16,6.59,2,7,Minnesota North College - Itasca,3
+12,Jasmine,Heikkila,Freshman,P/1B,10,9,2,7,0,9,53.1,88,76,49,20,26,3.41,9,6.43,Minnesota North College - Mesabi Range,3
+19,Lillian,Archambeau,Freshman,P/1B,8,7,3,4,0,3,32,79,81,53,23,14,3.06,4,11.59,Minnesota North College - Mesabi Range,3
+11,Amelia,Fritz,Sophomore,SS/P,6,3,0,3,3,2,19,34,42,33,31,22,8.11,2,12.16,Minnesota North College - Mesabi Range,3
+12,Zoe,Adkins,Freshman,P/U,13,11,1,2,0,10,68.2,118,134,71,62,37,3.77,0,7.24,Minnesota North College - Rainy River,3
+2,Dionne,Lopez,Freshman,P/CF,8,7,0,1,0,5,37.2,40,52,15,13,18,3.35,0,2.79,Minnesota North College - Rainy River,3
+14,Aubrea,Smieja,Sophomore,NA,16,6,3,10,0,3,71.2,119,150,86,69,30,2.93,6,8.4,Minnesota North College - Vermilion,3
+12,Riley,Roden,Sophomore,NA,10,1,1,4,0,0,29.2,53,79,43,38,19,4.48,0,10.15,Minnesota North College - Vermilion,3
+28,Josie,Anderson,Freshman,NA,1,0,0,0,0,0,2,2,8,3,4,1,3.5,0,10.5,Minnesota North College - Vermilion,3
+15,Julia,Schmoker,NA,NA,12,8,2,1,1,8,53.1,111,96,65,19,55,7.22,6,8.53,Minnesota West,3
+16,Taylor,Ponto,NA,NA,7,7,3,3,0,3,27.2,66,58,34,19,9,2.28,7,8.6,Minnesota West,3
+25,Katelyn,Strauss,.,P,40,24,25,6,0,19,198.2,112,80,65,126,306,10.78,17,2.29,North Dakota SCS,3
+98,Ashley,Bisping,.,P,30,25,10,7,0,3,85.2,135,93,57,18,72,5.88,13,4.66,North Dakota SCS,3
+6,Tarin,Thomas,.,,12,1,1,1,1,0,27.2,30,15,10,12,17,4.3,3,2.53,North Dakota SCS,3
+17,Lily,Reed,.,,1,0,0,0,0,0,1,2,1,1,1,0,0,0,7,North Dakota SCS,3
+5,Kennedy,Wallace,Freshman,P/IF,10,7,4,4,0,7,46.2,86,89,67,23,22,3.3,14,10.05,Northland,3
+20,Justine,Pratcshler,Sophomore,C/IF,5,5,0,4,0,1,16.1,25,43,36,30,7,3,2,15.43,Northland,3
+21,Lynelle,Charnoski,Freshman,OF,1,0,0,0,0,0,2,3,2,1,2,0,0,0,3.5,Northland,3
+4,Jasmine,Knick,Freshman,NA,8,5,1,4,0,5,37.1,68,57,29,22,17,3.19,0,5.44,Ridgewater,3
+5,Abby,Clancy,Freshman,NA,3,3,0,1,0,0,7.2,14,14,11,5,8,7.3,0,10.04,Ridgewater,3
+3,Angie,Weller,Sophomore,NA,2,1,0,2,0,1,7,17,25,14,10,1,1,0,14,Ridgewater,3
+13,Megan,Johnson,Sophomore,NA,15,13,6,2,1,12,70.2,111,87,70,34,48,4.75,9,6.93,Riverland,3
+19,Olivia,Bero,Freshman,NA,10,9,2,2,0,6,49.2,99,95,69,30,31,4.37,10,9.72,Riverland,3
+16,Gloria,Cortez,Freshman,NA,7,4,3,2,0,3,31,53,24,21,6,15,3.39,3,4.74,Riverland,3
+13,Bella,Mehrkens,Sophomore,P,17,16,6,7,0,10,82,130,109,82,42,79,6.74,11,7,Rochester,3
+3,Taylor,Draeger,Freshman,P,18,14,6,5,1,11,75.2,112,101,85,41,64,5.92,10,7.86,Rochester,3
+2,Tarrin,Stephans,Sophomore,P,15,8,6,2,0,6,51.2,79,69,58,36,47,6.37,6,7.86,Rochester,3
+8,Kjerstin,Hansen,Freshman,,20,15,11,5,0,12,93,117,60,54,20,56,4.22,7,4.06,St. Cloud Tech,3
+23,Kamille,Dougherty,Sophomore,P/IF,20,18,15,4,0,10,89.2,90,56,51,33,87,6.79,14,3.98,St. Cloud Tech,3
+18,Kenzie,Olene,Sophomore,P,18,10,6,2,1,6,59.1,81,47,34,9,64,7.55,6,4.01,St. Cloud Tech,3
+25,Angelica,Uribe,Freshman,,13,8,0,5,0,3,44,97,129,80,54,21,3.34,5,12.73,Monroe College - Bronx,3
+2,Emily,Velez,Freshman,P/UTL,12,9,0,6,0,4,39.1,102,125,68,55,33,5.87,8,12.1,Monroe College - Bronx,3
+1,Hilda,Sanchez,Sophomore,P/UTL,6,5,0,5,0,4,26.1,54,61,45,28,13,3.46,2,11.96,Monroe College - Bronx,3
+99,Gianna,Postiglione,Sophomore,P/1B/C,17,12,10,4,0,9,80,95,53,34,19,58,5.08,1,2.98,Suffolk County,3
+7,Katelyn,Lysogorski,Sophomore,P/OF,14,9,3,4,0,3,50,68,46,37,14,20,2.8,6,5.18,Suffolk County,3
+22,Ciara,Morales,Freshman,P/1B,12,7,3,3,0,1,35.1,59,55,41,21,21,4.16,4,8.12,Suffolk County,3
+17,Katie,Buerkel,Sophomore,P/1B,9,4,3,2,0,1,25,26,17,11,9,35,9.8,1,3.08,Suffolk County,3
+31,Amber,Locurto,P/INF,SO,15,12,0,6,0,9,55,136,130,45,20,7,0.89,7,5.73,Bergen,3
+25,Kylah,Kosko,INF,FR,6,2,0,0,0,0,9.1,12,13,0,3,0,0,1,0,Bergen,3
+4,Nikki,Cicchetti,INF/P,FR,2,2,0,0,0,0,1.1,9,19,18,11,1,5.25,0,94.5,Bergen,3
+17,Mallory,Shevlin,Freshman,P,25,24,16,8,0,22,147.2,156,100,66,30,195,9.24,11,3.13,Brookdale,3
+3,Gianna,Praet,Sophomore,P,23,21,17,4,0,20,131.1,113,56,29,48,155,8.26,5,1.55,Brookdale,3
+18,Ainsley,Lees-Pratt,Freshman,P,19,1,4,8,0,0,71.2,148,123,82,46,25,2.44,0,8.01,Camden County,3
+4,Mikayla,Corsey,Freshman,P,11,1,1,3,0,1,46.2,105,83,57,12,15,2.25,5,8.55,Camden County,3
+10,Isabella,Sloat,Freshman,,7,0,0,2,1,0,20.1,27,31,18,26,18,6.2,0,6.2,Camden County,3
+11,Amanda,Ober,Freshman,OF,6,0,0,0,0,0,6.2,33,39,32,12,4,4.2,0,33.6,Camden County,3
+15,Kylie,Ryan,Freshman,C,1,0,0,0,0,0,3.1,7,7,6,7,2,4.2,0,12.6,Camden County,3
+1,Samantha,Gruber,Sophomore,NA,21,19,7,11,0,16,109.2,200,152,110,52,118,7.53,3,7.02,Lehigh Carbon,3
+88,Maddie,Beers,Sophomore,NA,5,3,0,3,0,1,12.2,34,29,20,7,2,1.11,1,11.05,Lehigh Carbon,3
+7,Paige,Craddock,Freshman,NA,1,0,0,0,0,0,1,1,2,1,2,1,7,0,7,Lehigh Carbon,3
+7,Summer,Ramirez,Freshman,IF/OF,18,1,7,7,0,1,88,124,91,39,20,26,2.07,7,3.1,Middlesex College,3
+8,Marissa,Lugo,Freshman,P/IF,15,3,6,6,0,2,63.1,107,88,63,45,38,4.2,3,6.96,Middlesex College,3
+21,Kaylen,Tavarez,Freshman,P/OF,2,0,0,1,0,0,8,21,20,16,4,9,7.88,1,14,Middlesex College,3
+14,Aramie,Arroyo,Freshman,P,21,14,8,5,1,10,94,79,34,27,23,125,9.31,4,2.01,Northampton,3
+12,Siera,Klingle,Sophomore,P/OF,13,10,5,1,0,5,51.1,54,32,22,10,47,6.41,2,3,Northampton,3
+7,Reggie,Bangcoro,Sophomore,P/UTL,9,7,6,0,0,3,39.1,34,24,12,18,36,6.41,0,2.14,Northampton,3
+2,Theresa,Luongo,Freshman,P/IF,14,4,2,5,2,1,34.1,43,35,26,12,35,7.14,1,5.3,Northampton,3
+8,Jillian,Reed,Freshman,P/SS,1,0,1,0,0,0,3.1,2,0,0,0,1,2.1,0,0,Northampton,3
+3,Bridget,Pavelko,Sophomore,P/UTL,1,1,0,0,0,0,0,1,2,2,1,0,0,0,Inf,Northampton,3
+25,Karly,Smaniotto,Freshman,,26,12,4,3,0,10,115.2,188,105,76,10,33,2,2,4.6,RCSJ Cumberland,3
+23,Ashley,Brag,Freshman,,16,6,4,2,0,2,49.2,108,78,61,20,13,1.83,1,8.6,RCSJ Cumberland,3
+27,Bailey,Pennino,Sophomore,P,8,6,4,2,0,5,39.2,43,31,24,12,35,6.18,3,4.24,RCSJ Cumberland,3
+6,Sayde,Nichols,Sophomore,IF,3,2,0,0,0,0,9.1,13,11,11,6,6,4.5,0,8.25,RCSJ Cumberland,3
+15,Gemma,Galloway,Freshman,P,33,27,24,6,1,24,166.1,181,89,69,36,133,5.6,9,2.9,RCSJ Gloucester,3
+19,Janiece,Robles,Sophomore,P,28,24,14,6,2,18,148,216,95,71,21,78,3.69,14,3.36,RCSJ Gloucester,3
+30,Emily,Adams,Freshman,P,3,3,1,2,0,2,14.2,30,22,15,3,6,2.86,6,7.16,RCSJ Gloucester,3
+18,Sydney,Grifone,Freshman,P/UTL,27,27,16,11,0,25,157,154,124,80,76,122,5.44,4,3.57,Sussex County,3
+1,Raeann,Teague,Sophomore,P/3B,3,3,1,1,0,3,16,18,25,11,17,8,3.5,1,4.81,Sussex County,3
+27,Erykka,Leeman,Freshman,IF/UTL,2,0,0,0,0,0,4,10,10,6,7,0,0,0,10.5,Sussex County,3
+32,Marra,Patton,Freshman,P/1B,18,10,8,3,1,6,56,55,46,36,15,77,9.63,4,4.5,Butler County,3
+10,Kristen,Woolstrum,Sophomore,P/2B,11,8,4,1,0,1,41,51,45,43,24,47,8.02,0,7.34,Butler County,3
+99,Meiah,Croyle,Freshman,P/U,6,2,2,1,0,0,15,23,17,15,5,19,8.87,1,7,Butler County,3
+29,Amanda,Dailey,Sophomore,SS/OF,3,0,0,0,0,0,3,5,4,4,1,1,2.33,0,9.33,Butler County,3
+21,Bailey,Rickenbrode,Sophomore,3B/P,1,0,0,0,0,0,1,1,0,0,1,2,14,0,0,Butler County,3
+24,Jenna,Serafin,Freshman,P/IF,3,3,3,0,0,2,15,8,4,2,3,22,10.27,0,0.93,Pennsylvania Highlands,3
+13,Lauryn,Calhoun,Sophomore,P/IF,2,2,2,0,0,2,10,7,3,2,3,8,5.6,0,1.4,Pennsylvania Highlands,3
+23,Olivia,Weyandt,Freshman,Utility,1,0,0,0,0,0,2,1,3,1,2,4,14,0,3.5,Pennsylvania Highlands,3
+22,Victoria,Butler,Freshman,P/1b,12,9,6,4,0,8,54,75,61,42,27,21,2.72,1,5.44,Rhode Island,3
+21,Samantha,Marsella,Sophomore,P/utl,9,5,5,1,0,4,35.2,41,25,21,9,13,2.55,2,4.12,Rhode Island,3
+7,Casey,Regine,Sophomore,,6,6,2,3,0,2,30.1,54,51,42,29,19,4.38,1,9.69,Rhode Island,3

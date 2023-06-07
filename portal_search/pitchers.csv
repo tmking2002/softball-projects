@@ -1,46 +1,37 @@
 name,Institution,FIP,adj_FIP
-kayla beaver,University of Central Arkansas,1.6908276916217,1.6443361553590776
-trinity schlotterbeck,"University of Maryland, College Park",1.92097414376691,1.8658038884079626
-ashley miller,Michigan State University,2.3294442195212,2.250827741326209
-alexis laudenslager,Princeton University,2.22550031066932,2.2622006376675188
-morgan leinstock,The University of Southern Mississippi,2.50153465883481,2.4713059468497036
-sydney boulware,Winthrop University,2.75827341991302,2.8048370861913665
-olivia marinelli,Bucknell University,2.83288947323089,2.9033216671528534
-denali loecker,University of Iowa,3.03822839255628,2.952892484600623
-hannah price,University of North Alabama,3.01080051770866,3.033809105805685
-alexa veamoi,Alcorn State University,2.87876907580249,3.037340581789797
-taylor fitzgerald,"University of California, Davis",2.98246479907535,3.059330659953271
-reis beuerlein,Mississippi State University,3.22399655127082,3.067301086135653
-karlie keeney,Liberty University,3.18535037314329,3.0795288756405044
-elena escobar,University of North Alabama,3.08378602495503,3.1067946130520547
-shelbi denman,Stony Brook University,3.24908835053643,3.2085508532007423
-jaden martinez,University of South Florida,3.30249788936181,3.2491944500778462
-mary martinez,Louisiana Tech University,3.30679036648904,3.26412566332672
-gabrielle maday,Cornell University,3.2221389661315,3.304541546218694
-shelby smith,Seton Hall University,3.34534158051059,3.3700245259812402
-morgan hess,Presbyterian College,3.4576604210903,3.5489572190175274
-molly grube,University of Virginia,3.67311935828837,3.552099710898979
-elizabeth lis,St. Bonaventure University,3.54921998721918,3.6426329698561752
-angelina russo,Ball State University,3.6220007900557,3.6791533843104713
-lainey baker,Samford University,3.77765010262493,3.783205078177081
-jaden vickers,"Rutgers, The State University of New Jersey, New Brunswick",3.95514217666641,3.869158901927483
-makayla veneziale,Towson University,3.79904528421429,3.894581504893887
-kaiya burton,Bucknell University,3.82925970916556,3.8996919030875237
-erin elgas,Brown University,3.88862323425736,3.9579265873955176
-olivia grey,Portland State University,4.19350411596502,4.231918095037795
-raimy gamsby,"Rutgers, The State University of New Jersey, New Brunswick",4.47255913419873,4.3865758594598026
-laine barefoot,Lipscomb University,4.49137452722432,4.525903660338793
-ashley hitchcock,"Rutgers, The State University of New Jersey, New Brunswick",4.7851563953254,4.699173120586472
-alexa rehmeier,Eastern Illinois University,4.69569345491849,4.820404019600579
-lennon spicer,Morehead State University,4.77859199510429,4.840715227903236
-isabelle true,University of St. Thomas (Minnesota),4.9149873131998,5.016563059422298
-nicole conway,Yale University,5.05803420013751,5.127535876821019
-hallie siems,University of Memphis,5.24184624682508,5.2066772493078695
-payton wagner,"Fairleigh Dickinson University, Metropolitan Campus",5.31350865269226,5.452693988599127
-aalijah alarcon,University of Texas at El Paso,5.67614966131867,5.683188645251815
-elysia cunnigan,Providence College,5.76200824717725,5.8163502874066655
-emmalyn brinka,University of New Mexico,5.91558220329898,5.842843056966757
-mikayla hoschak,University of Memphis,6.06068634649844,6.0255173489812295
-jenna milan,University of Missouri-Kansas City,5.98181501046228,6.0429473728372
-hannah blincoe,University of Houston,6.18520435164826,6.115522077388925
-mackenzee collins,University of Texas at El Paso,6.2340535408786,6.241092524811745
+kayla beaver,University of Central Arkansas,1.6908276916217,1.6428437831111464
+ashley miller,Michigan State University,2.3294442195212,2.247301127502961
+morgan leinstock,The University of Southern Mississippi,2.50153465883481,2.4730693837424953
+sydney boulware,Winthrop University,2.75827341991302,2.8070792678728322
+denali loecker,University of Iowa,3.03822839255628,2.952027726151358
+hannah price,University of North Alabama,3.01080051770866,3.0357314485198765
+alexa veamoi,Alcorn State University,2.87876907580249,3.0443790529175176
+reis beuerlein,Mississippi State University,3.22399655127082,3.06317976913138
+taylor fitzgerald,"University of California, Davis",2.98246479907535,3.063356654465635
+karlie keeney,Liberty University,3.18535037314329,3.0765229997792956
+elena escobar,University of North Alabama,3.08378602495503,3.1087169557662464
+jaden martinez,University of South Florida,3.30249788936181,3.247465715288163
+mary martinez,Louisiana Tech University,3.30679036648904,3.263465055344565
+morgan hess,Presbyterian College,3.4576604210903,3.553348287397652
+raci miranda,"California State University, Fullerton",3.65306727495503,3.598909826228247
+elizabeth lis,St. Bonaventure University,3.54921998721918,3.6467732862397804
+angelina russo,Ball State University,3.6220007900557,3.6821989019502923
+lainey baker,Samford University,3.77765010262493,3.785629753215405
+jaden vickers,"Rutgers, The State University of New Jersey, New Brunswick",3.95514217666641,3.8687384030973417
+isabel tobias,Coppin State University,3.98363629233471,4.097323466329824
+olivia grey,Portland State University,4.19350411596502,4.2341816837000055
+raimy gamsby,"Rutgers, The State University of New Jersey, New Brunswick",4.47255913419873,4.386155360629662
+laine barefoot,Lipscomb University,4.49137452722432,4.527853097033486
+ashley hitchcock,"Rutgers, The State University of New Jersey, New Brunswick",4.7851563953254,4.698752621756332
+alexa rehmeier,Eastern Illinois University,4.69569345491849,4.826659231564257
+lennon spicer,Morehead State University,4.77859199510429,4.843762628040853
+nicole conway,Yale University,5.05803420013751,5.13080520007359
+hallie siems,University of Memphis,5.24184624682508,5.205817590255692
+payton wagner,"Fairleigh Dickinson University, Metropolitan Campus",5.31350865269226,5.458860645450965
+aalijah alarcon,University of Texas at El Paso,5.67614966131867,5.6836789681005
+emmalyn brinka,University of New Mexico,5.91558220329898,5.841314814971484
+mikayla hoschak,University of Memphis,6.06068634649844,6.024657689929052
+jenna milan,University of Missouri-Kansas City,5.98181501046228,6.045686320750825
+sona halajian,"University of California, Berkeley",6.25165043173469,6.113163175842639
+hannah blincoe,University of Houston,6.18520435164826,6.113516375615918
+mackenzee collins,University of Texas at El Paso,6.2340535408786,6.24158284766043
